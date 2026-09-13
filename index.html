@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>USyd Assessment Calendar</title>
+  <meta name="description" content="Enter your University of Sydney unit codes and get every assessment due date for the semester in one list, exportable to your calendar. Unofficial.">
+  <meta property="og:title" content="USyd Assessment Calendar">
+  <meta property="og:description" content="Every due date for your units, in one place.">
+  <meta property="og:image" content="https://jdrizzley.github.io/usyd-assignments/og.png">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#FBFAF8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16130F" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="./" aria-label="Assessment Calendar, USyd">
+      <span class="wordmark__name">Assessment Calendar</span>
+      <span class="wordmark__org t-label">USyd</span>
+    </a>
+    <div class="session-select">
+      <label for="session" class="visually-hidden">Session</label>
+      <select id="session" class="select" disabled>
+        <option>Loading sessions</option>
+      </select>
+    </div>
+  </header>
+
+  <section class="ruler" id="ruler" aria-label="Term ruler: every assessment across the session, tick height by weight">
+    <div class="ruler__track" id="ruler-track">
+      <div class="ruler__baseline"></div>
+    </div>
+    <div class="ruler__tip" id="ruler-tip" role="tooltip" hidden></div>
+  </section>
+
+  <main class="content">
+    <aside class="rail" aria-label="Your units">
+      <div class="rail__picker picker">
+        <label for="unit-input" class="picker__label t-label">Add a unit</label>
+        <input id="unit-input" class="input" type="text" autocomplete="off" autocapitalize="characters" spellcheck="false"
+               placeholder="Unit code — e.g. AMME2200" role="combobox" aria-autocomplete="list" aria-expanded="false"
+               aria-controls="unit-options" aria-haspopup="listbox" disabled>
+        <div class="ac" id="unit-options" role="listbox" aria-label="Matching units" hidden></div>
+        <p class="picker__hint t-small" id="picker-hint">Up to 10 units. Arrow keys move, Enter adds.</p>
+      </div>
+      <div class="rail__chips">
+        <ul class="chips" id="chips" aria-label="Selected units"></ul>
+      </div>
+      <div class="rail__export export">
+        <button id="download" class="btn btn--primary" type="button" disabled>Download .ics</button>
+        <div class="export__note t-small" id="export-note" aria-live="polite"></div>
+      </div>
+      <p class="rail__disclaimer disclaimer" id="disclaimer">
+        <em>Unofficial.</em> Dates come from published unit outlines and change without notice.
+        <strong>Canvas is the source of truth.</strong> <span id="updated"></span>
+      </p>
+    </aside>
+
+    <section class="list-pane" aria-labelledby="session-heading">
+      <div class="pane-head">
+        <div>
+          <h1 class="t-h1" id="session-heading">Assessments</h1>
+          <p class="pane-head__sub t-small num" id="session-sub"></p>
+        </div>
+        <div class="seg" role="group" aria-label="View">
+          <button type="button" class="seg__btn" id="view-list-btn" aria-pressed="true">List</button>
+          <button type="button" class="seg__btn" id="view-cal-btn" aria-pressed="false">Calendar</button>
+        </div>
+      </div>
+
+      <div id="view-list">
+        <div class="skeleton" id="skeleton" aria-busy="true" aria-label="Loading unit data">
+          <div class="skeleton__bar"></div><div class="skeleton__bar"></div><div class="skeleton__bar"></div>
+        </div>
+        <div id="list-root"></div>
+      </div>
+      <div id="view-cal" hidden></div>
+    </section>
+  </main>
+
+  <div class="detail" id="detail" role="dialog" aria-modal="false" aria-labelledby="detail-title" hidden></div>
+  <div class="visually-hidden" id="live" aria-live="polite" aria-atomic="true"></div>
+
+  <noscript>
+    <div class="error-card">
+      <h2 class="t-h2 error-card__title">This page needs JavaScript.</h2>
+      <p class="error-card__body">The assessment list is built in your browser from published unit data. Enable JavaScript and reload.</p>
+    </div>
+  </noscript>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

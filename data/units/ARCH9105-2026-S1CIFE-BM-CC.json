@@ -1,0 +1,51 @@
+{
+ "code": "ARCH9105",
+ "name": "Architectural Drawing Through History",
+ "availability": "2026-S1CIFE-BM-CC",
+ "session": "S1CIFE",
+ "sessionLabel": "Intensive January - February, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-01-30",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCH9105/2026-S1CIFE-BM-CC",
+ "scrapedAt": "2026-09-13T12:49:13Z",
+ "assessments": [
+  {
+   "id": "ARCH9105-2026-S1CIFE-BM-CC-0",
+   "name": "Reconstruction of an Historical Architectural Drawing as a Physical Model",
+   "description": "Submitted Assignment.",
+   "type": "Creative work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-02-20",
+   "dueTime": "10:00",
+   "timeAssumed": false,
+   "closingDate": "2026-04-24",
+   "length": "Submitted Assignment.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week -01 Due date : 20 Feb 2026 at 10:00 Closing date : 24 Apr 2026"
+  },
+  {
+   "id": "ARCH9105-2026-S1CIFE-BM-CC-1",
+   "name": "Critical Appraisal of an Historical Architectural Drawing",
+   "description": "Verbal presentation and 10 slides.",
+   "type": "Presentation",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-02-04",
+   "dueTime": "10:00",
+   "timeAssumed": false,
+   "closingDate": "2026-03-25",
+   "length": "Verbal presentation and 10 slides.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week -03 Due date : 04 Feb 2026 at 10:00 Closing date : 25 Mar 2026"
+  }
+ ],
+ "parseWarnings": []
+}

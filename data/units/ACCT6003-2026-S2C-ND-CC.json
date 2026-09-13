@@ -1,0 +1,51 @@
+{
+ "code": "ACCT6003",
+ "name": "Fundamental Analysis for Equity Investment",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ACCT6003/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T12:39:52Z",
+ "assessments": [
+  {
+   "id": "ACCT6003-2026-S2C-ND-CC-0",
+   "name": "Take-home final project",
+   "description": "Final take-home project.",
+   "type": "Case studies",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-26",
+   "length": "3000 words, plus Excel report.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 23:59 Closing date : 26 Nov 2026"
+  },
+  {
+   "id": "ACCT6003-2026-S2C-ND-CC-1",
+   "name": "Weekly Assignments",
+   "description": "Weekly Assignments",
+   "type": "Data analysis",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Varied lengths",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

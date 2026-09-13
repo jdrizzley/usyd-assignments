@@ -1,0 +1,33 @@
+{
+ "code": "ARCH4004",
+ "name": "Dissertation and Research Methods B",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCH4004/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T12:48:06Z",
+ "assessments": [
+  {
+   "id": "ARCH4004-2026-S1C-ND-CC-0",
+   "name": "Research Proposal",
+   "description": "Honours dissertation research proposal",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-27",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000-3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 27 May 2026 at 23:00"
+  }
+ ],
+ "parseWarnings": []
+}

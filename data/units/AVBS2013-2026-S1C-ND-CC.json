@@ -1,0 +1,16 @@
+{
+ "code": "AVBS2013",
+ "name": "Research Experience Placement",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/AVBS2013/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T12:54:12Z",
+ "assessments": [],
+ "parseWarnings": [
+  "assessment table found but no rows parsed"
+ ]
+}

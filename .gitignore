@@ -1,0 +1,11 @@
+# scraper cache and scratch
+.cache/
+data.previous/
+usyd-data-*/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# local tooling
+.DS_Store
+tools/fonts/

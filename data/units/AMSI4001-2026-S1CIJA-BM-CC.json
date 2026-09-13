@@ -1,0 +1,33 @@
+{
+ "code": "AMSI4001",
+ "name": "AMSI Summer School",
+ "availability": "2026-S1CIJA-BM-CC",
+ "session": "S1CIJA",
+ "sessionLabel": "Intensive January, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-01-23",
+ "sourceUrl": "https://www.sydney.edu.au/units/AMSI4001/2026-S1CIJA-BM-CC",
+ "scrapedAt": "2026-09-13T12:44:43Z",
+ "assessments": [
+  {
+   "id": "AMSI4001-2026-S1CIJA-BM-CC-0",
+   "name": "Exam",
+   "description": "Follow the assessment as prescribed for the course you have signed up.",
+   "type": "Written exam",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  }
+ ],
+ "parseWarnings": []
+}

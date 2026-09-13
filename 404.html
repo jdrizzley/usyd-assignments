@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found — USyd Assessment Calendar</title>
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#FBFAF8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16130F" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="/usyd-assignments/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/usyd-assignments/styles.css">
+  <script>
+    // GitHub Pages serves 404.html from the site root; resolve asset paths for either a
+    // project site (/repo/) or a user site (/). Adjust the first path segment if the repo is renamed.
+    (function () {
+      var seg = location.pathname.split('/')[1] || '';
+      var base = seg && seg !== '404.html' ? '/' + seg + '/' : '/';
+      document.querySelectorAll('link[rel=stylesheet][href^="/usyd-assignments/"],link[rel=icon]').forEach(function (l) {
+        l.href = base + l.getAttribute('href').replace(/^\/usyd-assignments\//, '');
+      });
+      window.__base = base;
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="./" id="home-link" aria-label="Assessment Calendar, USyd">
+      <span class="wordmark__name">Assessment Calendar</span>
+      <span class="wordmark__org t-label">USyd</span>
+    </a>
+  </header>
+  <main class="notfound">
+    <h1 class="t-display notfound__title">Week 14.</h1>
+    <p class="notfound__body">There's no such page — the same way there's no such teaching week.</p>
+    <a class="btn" href="./" id="back-link">Back to your assessments</a>
+  </main>
+  <script>
+    document.getElementById('home-link').href = window.__base || '/';
+    document.getElementById('back-link').href = window.__base || '/';
+  </script>
+</body>
+</html>

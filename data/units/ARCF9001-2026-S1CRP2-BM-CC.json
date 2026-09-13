@@ -1,0 +1,51 @@
+{
+ "code": "ARCF9001",
+ "name": "Modes of Inquiry: Research and Scholarship",
+ "availability": "2026-S1CRP2-BM-CC",
+ "session": "S1CRP2",
+ "sessionLabel": "Research Period 2 Units, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCF9001/2026-S1CRP2-BM-CC",
+ "scrapedAt": "2026-09-13T12:47:56Z",
+ "assessments": [
+  {
+   "id": "ARCF9001-2026-S1CRP2-BM-CC-0",
+   "name": "Oral and visual presentation of research proposal",
+   "description": "Oral and visual presentation",
+   "type": "Experimental design",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 9,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-28",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Max. 20 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09 Due date : 28 Apr 2026 at 23:59"
+  },
+  {
+   "id": "ARCF9001-2026-S1CRP2-BM-CC-1",
+   "name": "Preliminary research proposal",
+   "description": "Research proposal",
+   "type": "Experimental design",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 10,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-05",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Max. 5,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10 Due date : 05 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

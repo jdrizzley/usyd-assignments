@@ -1,0 +1,61 @@
+name: Scrape unit outlines
+
+on:
+  schedule:
+    - cron: "0 17 * * *"     # 03:00 Sydney (AEST) / 04:00 (AEDT)
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Target year"
+        required: false
+        default: "2026"
+      limit:
+        description: "Only scrape the first N unit codes (leave blank for a full run)"
+        required: false
+        default: ""
+      force:
+        description: "Overwrite existing data even if this run finds far fewer units (type: yes)"
+        required: false
+        default: ""
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Parser tests against saved fixtures (fails first if USyd changed their HTML)
+        run: python -m pytest scraper/tests -q
+
+      - name: Scrape
+        env:
+          USYD_CONTACT: ${{ vars.USYD_CONTACT }}
+        run: |
+          EXTRA=""
+          if [ -n "${{ inputs.limit }}" ]; then EXTRA="$EXTRA --limit ${{ inputs.limit }}"; fi
+          if [ "${{ inputs.force }}" = "yes" ]; then EXTRA="$EXTRA --force"; fi
+          python -m scraper.build --year "${{ inputs.year || '2026' }}" --out ./data $EXTRA
+
+      - name: Commit data
+        run: |
+          git config user.name  "scraper-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: refresh $(date -u +%Y-%m-%d)"
+          git push

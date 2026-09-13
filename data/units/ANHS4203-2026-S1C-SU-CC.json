@@ -1,0 +1,33 @@
+{
+ "code": "ANHS4203",
+ "name": "Ancient History Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ANHS4203/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T12:46:22Z",
+ "assessments": [
+  {
+   "id": "ANHS4203-2026-S1C-SU-CC-0",
+   "name": "Progress towards 18,000-20,000w thesis",
+   "description": "In this unit you begin a substantial, independent research project. Regular meetings with a supervisor approved by the Honours Coordinator will guide your progress. You will develop a plan for researching and writing the thesis.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Progress towards thesis",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

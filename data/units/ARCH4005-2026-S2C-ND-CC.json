@@ -1,0 +1,51 @@
+{
+ "code": "ARCH4005",
+ "name": "Dissertation and Research Methods C",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCH4005/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T12:48:08Z",
+ "assessments": [
+  {
+   "id": "ARCH4005-2026-S2C-ND-CC-0",
+   "name": "Honours Dissertation",
+   "description": "Honours Dissertation",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-12-18",
+   "length": "15,000 - 25,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 20 Nov 2026 at 23:59 Closing date : 18 Dec 2026"
+  },
+  {
+   "id": "ARCH4005-2026-S2C-ND-CC-1",
+   "name": "Oral Examination",
+   "description": "Oral Examination",
+   "type": "Interactive oral",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-28",
+   "dueTime": "10:00",
+   "timeAssumed": false,
+   "closingDate": "2026-11-28",
+   "length": "15 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 28 Oct 2026 at 10:00 Closing date : 28 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

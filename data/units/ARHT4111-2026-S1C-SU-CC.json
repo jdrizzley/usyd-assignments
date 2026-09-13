@@ -1,0 +1,33 @@
+{
+ "code": "ARHT4111",
+ "name": "Art History Honours Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARHT4111/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T12:51:20Z",
+ "assessments": [
+  {
+   "id": "ARHT4111-2026-S1C-SU-CC-0",
+   "name": "Draft",
+   "description": "n/a",
+   "type": "Experimental design",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-22",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "to be determined with supervisor",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 22 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,33 @@
+{
+ "code": "AFNR5905",
+ "name": "Research Paper",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/AFNR5905/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T12:42:17Z",
+ "assessments": [
+  {
+   "id": "AFNR5905-2026-S2C-SU-CC-0",
+   "name": "Research Paper",
+   "description": "Scientific report",
+   "type": "Research analysis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-30",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-30",
+   "length": "5000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 30 Oct 2026 at 23:59 Closing date : 30 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

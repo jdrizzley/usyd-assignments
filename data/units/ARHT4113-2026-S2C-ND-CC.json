@@ -1,0 +1,33 @@
+{
+ "code": "ARHT4113",
+ "name": "Art Is the Issue: Histories and Theories",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARHT4113/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T12:51:24Z",
+ "assessments": [
+  {
+   "id": "ARHT4113-2026-S2C-ND-CC-0",
+   "name": "Research Essay",
+   "description": "Research essay, with full scholarly apparatus and illustrations inserted into the text. 5,000 words does not include reference apparatus. See Honours Guidelines 2026 for details.",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-12-18",
+   "length": "6,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59 Closing date : 18 Dec 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "BDES2028",
+ "name": "Intensive Studio 2",
+ "availability": "2026-S2CIAU-BM-CC",
+ "session": "S2CIAU",
+ "sessionLabel": "Intensive July - August, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-07",
+ "sourceUrl": "https://www.sydney.edu.au/units/BDES2028/2026-S2CIAU-BM-CC",
+ "scrapedAt": "2026-09-13T12:57:56Z",
+ "assessments": [
+  {
+   "id": "BDES2028-2026-S2CIAU-BM-CC-0",
+   "name": "Design Presentation (30%, group work)",
+   "description": "Presentation of concept design, site analysis and architectural proposal (via photos, collages, plans, section and models).",
+   "type": "Presentation",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-07-24",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week -01 Due date : 24 Jul 2026 at 23:59"
+  },
+  {
+   "id": "BDES2028-2026-S2CIAU-BM-CC-1",
+   "name": "Design Portfolio  (70%, individual work)",
+   "description": "Completion of project/analysis including concept design, site analysis and architectural descriptions (plans, section and models), edited in a Design Booklet.",
+   "type": "Creative work",
+   "weight": 70,
+   "weightRaw": "70%",
+   "week": 2,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-10",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 02 Due date : 10 Aug 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

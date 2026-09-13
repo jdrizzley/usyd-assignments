@@ -1,0 +1,51 @@
+{
+ "code": "ARCH9046",
+ "name": "Dissertation 2",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCH9046/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T12:48:45Z",
+ "assessments": [
+  {
+   "id": "ARCH9046-2026-S2C-ND-CC-0",
+   "name": "Research Report",
+   "description": "Research Report",
+   "type": "Dissertation or thesis",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-17",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15,000 to 25,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 17 Nov 2026 at 23:59"
+  },
+  {
+   "id": "ARCH9046-2026-S2C-ND-CC-1",
+   "name": "Oral Defence",
+   "description": "A brief interactive discussion in which students will have to defend the scope and nature of their research, the analysis as well as the findings of their research paper.",
+   "type": "Interactive oral",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "12:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 12:00"
+  }
+ ],
+ "parseWarnings": []
+}

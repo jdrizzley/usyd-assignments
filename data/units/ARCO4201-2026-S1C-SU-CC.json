@@ -1,0 +1,33 @@
+{
+ "code": "ARCO4201",
+ "name": "Archaeology Honours Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCO4201/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T12:50:16Z",
+ "assessments": [
+  {
+   "id": "ARCO4201-2026-S1C-SU-CC-0",
+   "name": "Honours thesis",
+   "description": "Work towards 18-20000wd thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Work towards 18-20000wd thesis",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

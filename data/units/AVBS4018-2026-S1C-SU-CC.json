@@ -1,0 +1,33 @@
+{
+ "code": "AVBS4018",
+ "name": "Research Project D",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/AVBS4018/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T12:55:11Z",
+ "assessments": [
+  {
+   "id": "AVBS4018-2026-S1C-SU-CC-0",
+   "name": "Honours Project",
+   "description": "Submission of an Honours project",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}
