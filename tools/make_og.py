@@ -1,7 +1,7 @@
 """Generate og.png (1200x630) and favicon-32.png. Reproducible: python tools/make_og.py
 
-Paper background, the wordmark in Instrument Serif at the left, and a rendering of the term
-ruler across the lower third (STYLE-GUIDE §10). Fonts are fetched from Google Fonts into
+Paper background, the wordmark in Instrument Sans (the site's only typeface) at the left, and a
+rendering of the term ruler across the lower third (STYLE-GUIDE §10). Fonts are fetched from Google Fonts into
 tools/fonts/ on first run; if that fails, DejaVu is used so the script still completes.
 """
 from __future__ import annotations
@@ -24,7 +24,6 @@ ACCENT = (194, 87, 26)
 LADDER = [(194, 87, 26), (110, 91, 62), (46, 74, 70), (122, 62, 74), (61, 70, 104)]
 
 FONTS = {
-    "serif": ("Instrument Serif", "https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap"),
     "sans": ("Instrument Sans", "https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;600&display=swap"),
 }
 
@@ -54,7 +53,7 @@ def load(kind: str, size: int) -> ImageFont.FreeTypeFont:
     p = fetch_font(kind)
     if p:
         return ImageFont.truetype(str(p), size)
-    fallback = "DejaVuSerif.ttf" if kind == "serif" else "DejaVuSans.ttf"
+    fallback = "DejaVuSans.ttf"
     for cand in (Path("/usr/share/fonts/truetype/dejavu") / fallback,):
         if cand.exists():
             return ImageFont.truetype(str(cand), size)
@@ -112,11 +111,11 @@ def draw_ruler(d: ImageDraw.ImageDraw, x0: int, x1: int, base_y: int, sans_small
 def make_og(out: Path) -> None:
     img = Image.new("RGB", (1200, 630), PAPER)
     d = ImageDraw.Draw(img)
-    serif = load("serif", 96)
+    title = load("sans", 92)
     sans_label = load("sans", 22)
     sans_small = load("sans", 18)
     sans_body = load("sans", 28)
-    d.text((80, 96), "Assessment Calendar", fill=INK_900, font=serif, anchor="ls")
+    d.text((80, 96), "Assessment Calendar", fill=INK_900, font=title, anchor="ls")
     d.text((84, 132), "U S Y D", fill=INK_500, font=sans_label, anchor="ls")
     d.text((84, 205), "Every due date for your units, in one place.", fill=(74, 67, 60), font=sans_body, anchor="ls")
     d.text((84, 240), "Unofficial. Canvas is the source of truth.", fill=INK_500, font=sans_small, anchor="ls")

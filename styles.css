@@ -29,7 +29,6 @@
   --s-1: 4px; --s-2: 8px; --s-3: 12px; --s-4: 20px; --s-5: 32px; --s-6: 56px; --s-7: 96px;
 
   --font-sans: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
-  --font-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
 
   --t-display: clamp(2.75rem, 6vw, 3.5rem);
   --t-h1: 28px;
@@ -117,7 +116,7 @@ a:hover { color: var(--accent-ink); text-decoration-thickness: 1.5px; }
 .num { font-variant-numeric: tabular-nums; }
 
 /* type roles */
-.t-display { font-family: var(--font-serif); font-weight: 400; font-size: var(--t-display); line-height: 1.05; letter-spacing: -0.028em; text-wrap: balance; }
+.t-display { font-weight: 600; font-size: var(--t-display); line-height: 1.05; letter-spacing: -0.03em; text-wrap: balance; }
 .t-h1 { font-size: var(--t-h1); line-height: 1.15; letter-spacing: -0.022em; font-weight: 600; }
 .t-h2 { font-size: var(--t-h2); line-height: 1.25; letter-spacing: -0.016em; font-weight: 600; }
 .t-body { font-size: var(--t-body); line-height: 1.6; font-weight: 400; }
@@ -171,7 +170,7 @@ a:hover { color: var(--accent-ink); text-decoration-thickness: 1.5px; }
 }
 .wordmark { display: flex; flex-direction: column; text-decoration: none; color: inherit; line-height: 1; }
 .wordmark:hover { color: inherit; }
-.wordmark__name { font-family: var(--font-serif); font-size: 24px; line-height: 1.05; letter-spacing: -0.022em; }
+.wordmark__name { font-weight: 600; font-size: 22px; line-height: 1.05; letter-spacing: -0.022em; }
 .wordmark__org { color: var(--ink-500); margin-top: 3px; }
 
 .session-select { display: flex; align-items: center; gap: var(--s-2); }
@@ -345,7 +344,7 @@ a:hover { color: var(--accent-ink); text-decoration-thickness: 1.5px; }
   color: var(--ink-500); font-size: var(--t-small); line-height: 1.45;
   border-top: 1px solid var(--rule-soft); padding-top: var(--s-3); max-width: 34em;
 }
-.disclaimer em { font-family: var(--font-serif); font-style: italic; font-size: 15px; color: var(--ink-700); }
+.disclaimer em { font-style: italic; color: var(--ink-700); }
 .disclaimer strong { font-weight: 600; color: var(--ink-700); }
 
 /* swatch: 8x8, colour from the ladder, shape varies so greyscale still separates units */

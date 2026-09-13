@@ -2,6 +2,9 @@
 
 Writes to a temporary directory and swaps it into place only after every check passes, so a
 broken run never replaces good data.
+
+A partial run (--limit / --codes) merges its units into the existing data/ instead of replacing
+it, so a small test run on top of a full dataset refreshes the units it touched and keeps the rest.
 """
 from __future__ import annotations
 
@@ -145,7 +148,44 @@ def read_previous_meta(data_dir: Path) -> dict | None:
         return None
 
 
-def check_thresholds(stats: dict, partial: bool, previous: dict | None, force: bool) -> list[str]:
+def load_existing_units(data_dir: Path) -> list[dict]:
+    """Read every unit file listed in data/index.json. Missing or broken files are skipped."""
+    index_path = data_dir / "index.json"
+    if not index_path.exists():
+        return []
+    try:
+        index = json.loads(index_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return []
+    units: list[dict] = []
+    for entry in index:
+        rel = entry.get("file", "")
+        # index.json paths are relative to the site root, e.g. "data/units/X.json"
+        name = rel.split("/")[-1]
+        path = data_dir / "units" / name
+        if not path.exists():
+            continue
+        try:
+            units.append(json.loads(path.read_text(encoding="utf-8")))
+        except json.JSONDecodeError:
+            log.warning("skipping unreadable unit file %s", path)
+    return units
+
+
+def merge_units(existing: list[dict], fresh: list[dict], refreshed_codes: set[str]) -> list[dict]:
+    """Overlay fresh units on existing ones.
+
+    Every existing unit whose code was re-scraped in this run is dropped first (so an availability
+    that disappeared from the landing page is removed too), then the fresh units are added.
+    """
+    kept = [u for u in existing if u.get("code") not in refreshed_codes]
+    return kept + list(fresh)
+
+
+def check_thresholds(stats: dict, partial: bool, previous: dict | None, force: bool,
+                     total_units: int | None = None) -> list[str]:
+    """total_units: the number of units that will be on disk after this run (differs from
+    stats["unitsWithCurrentOutline"] when a partial run is merged into existing data)."""
     problems: list[str] = []
     if not partial:
         if stats["unitsDiscovered"] < config.MIN_CODES_DISCOVERED:
@@ -164,9 +204,10 @@ def check_thresholds(stats: dict, partial: bool, previous: dict | None, force: b
             problems.append(f"{zero_ratio:.1%} of outlines parsed to zero assessments (> {config.MAX_ZERO_ASSESSMENT_RATIO:.0%})")
     if previous and not force:
         prev_n = int(previous.get("unitsWithCurrentOutline") or 0)
-        if prev_n and parsed < prev_n * config.MIN_RELATIVE_UNIT_COUNT:
+        after = parsed if total_units is None else total_units
+        if prev_n and after < prev_n * config.MIN_RELATIVE_UNIT_COUNT:
             problems.append(
-                f"new run has {parsed} units vs {prev_n} in the existing data; refusing to overwrite "
+                f"new run would leave {after} units vs {prev_n} in the existing data; refusing to overwrite "
                 f"(pass --force to override)"
             )
     return problems
@@ -225,6 +266,18 @@ def run(args: argparse.Namespace) -> int:
                 log.info("%d/%d codes processed, %d units with outlines, %.0fs elapsed",
                          done, len(codes), stats["unitsWithCurrentOutline"], time.time() - started)
 
+    # A partial run refreshes the units it scraped and keeps everything else already on disk.
+    merged_from_existing = 0
+    scraped_units = units
+    if partial:
+        existing = load_existing_units(data_dir)
+        if existing:
+            before = len(existing)
+            units = merge_units(existing, scraped_units, set(codes))
+            merged_from_existing = len(units) - len(scraped_units)
+            log.info("partial run: merged %d scraped units into %d existing (%d kept, %d total)",
+                     len(scraped_units), before, merged_from_existing, len(units))
+
     weeks = infer_weeks(units, year)
     weeks = apply_override(weeks, data_dir / "weeks.override.json")
 
@@ -236,12 +289,14 @@ def run(args: argparse.Namespace) -> int:
         "targetYear": year,
         "targetSessions": config.TARGET_SESSIONS or sessions,
         "unitsDiscovered": stats["unitsDiscovered"],
-        "unitsWithCurrentOutline": stats["unitsWithCurrentOutline"],
+        "unitsWithCurrentOutline": len(units),
         "assessmentsTotal": assessments_total,
         "assessmentsWithAbsoluteDate": assessments_abs,
         "scraperVersion": config.SCRAPER_VERSION,
         "errors": stats["outlineFetchFailures"] + stats["landingPagesFailed"] + stats["unitsWithZeroAssessments"],
         "partialRun": partial,
+        "unitsScrapedThisRun": len(scraped_units),
+        "unitsKeptFromPreviousRun": merged_from_existing,
         "stats": stats,
         "fetch": {
             "requests": fetcher.stats.requests,
@@ -261,6 +316,8 @@ def run(args: argparse.Namespace) -> int:
         ("Outline fetch failures", stats["outlineFetchFailures"]),
         ("Units with outline parsed", stats["unitsWithCurrentOutline"]),
         ("  of which zero assessments", stats["unitsWithZeroAssessments"]),
+        ("Units kept from previous run", merged_from_existing),
+        ("Units written in total", len(units)),
         ("Assessments total", assessments_total),
         ("  with absolute date", assessments_abs),
         ("HTTP requests / cache hits", f"{fetcher.stats.requests} / {fetcher.stats.cache_hits}"),
@@ -275,7 +332,7 @@ def run(args: argparse.Namespace) -> int:
         print("robots.txt disallowed:", ", ".join(fetcher.stats.skipped_urls[:20]))
 
     previous = read_previous_meta(data_dir)
-    problems = check_thresholds(stats, partial, previous, args.force)
+    problems = check_thresholds(stats, partial, previous, args.force, total_units=len(units))
     if problems:
         print("\nBUILD FAILED — data/ left untouched:", file=sys.stderr)
         for p in problems:

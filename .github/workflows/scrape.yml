@@ -10,7 +10,7 @@ on:
         required: false
         default: "2026"
       limit:
-        description: "Only scrape the first N unit codes (leave blank for a full run)"
+        description: "Only scrape the first N unit codes (merged into existing data; leave blank for a full run)"
         required: false
         default: ""
       force:
@@ -29,9 +29,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: pip

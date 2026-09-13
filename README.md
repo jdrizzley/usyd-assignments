@@ -62,6 +62,7 @@ pip install -r scraper/requirements.txt
 python -m pytest scraper/tests -q                       # parser tests against saved fixtures
 python -m scraper.build --codes AMME2200,ELEC3204       # a few units, for development
 python -m scraper.build --limit 300                     # first 300 codes from discovery
+# --codes and --limit runs are merged into an existing data/ (only the scraped units change)
 python -m scraper.build                                 # full run, roughly 1.5 to 2.5 hours
 ```
 

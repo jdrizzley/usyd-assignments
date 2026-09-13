@@ -113,6 +113,9 @@ everything works end to end, then do the full one.
 
 When the dot turns into a green tick, the run succeeded. If it shows a red cross, jump to Part 6.
 
+A limited run like this does not throw away the data already in the repository. The units it
+scraped are refreshed and every other unit is kept, so the site stays complete while you test.
+
 Check that the data was committed: click the **Code** tab. The most recent commit at the top of
 the file list should be from **scraper-bot** and titled `data: refresh 2026-...`. Click into
 `data/` and confirm `meta.json` has today's date in `generatedAt`.
@@ -172,8 +175,9 @@ parser, push, and rerun.
 Read the bullet points under it. Each names the threshold that tripped, for example "only 412
 units with a current outline (< 500)". Early in a semester, before outlines are published, a
 full run can legitimately find too few outlines; wait until two weeks before teaching starts and
-rerun. If a run found far fewer units than the previous data and you are sure that is expected,
-rerun with the **force** input set to `yes`.
+rerun. If a full run found far fewer units than the previous data and you are sure that is
+expected, rerun with the **force** input set to `yes`. (A limited test run never trips this
+check on its own, because it is merged into the existing data rather than replacing it.)
 
 **The run is red on the "Commit data" step with a permissions error.**
 Part 2 was skipped. Set **Workflow permissions** to **Read and write permissions** and rerun.
