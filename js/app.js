@@ -214,18 +214,6 @@ els.listBtn.addEventListener('click', () => setView('list'));
 els.calBtn.addEventListener('click', () => setView('calendar'));
 document.addEventListener('view:change', (e) => setView(e.detail));
 
-function suggest(code) {
-  let entry = state.index.find((e) => e.code === code && sessionKeyOf(e) === state.sessionKey);
-  if (!entry) {
-    entry = state.index.find((e) => e.code === code);
-    if (!entry) { announce(`${code} is not in the data yet.`); return; }
-    state.sessionKey = sessionKeyOf(entry);
-    els.session.value = state.sessionKey;
-    writeURL();
-  }
-  addUnit(entry);
-}
-
 function render() {
   const sessionLabel = els.session.selectedOptions[0]?.textContent || 'Assessments';
   els.heading.textContent = sessionLabel;
@@ -238,7 +226,7 @@ function render() {
 
   if (state.view === 'list') {
     const has = renderList(els.listRoot);
-    if (!has && !state.selected.length) els.listRoot.replaceChildren(emptyState(suggest));
+    if (!has && !state.selected.length) els.listRoot.replaceChildren(emptyState());
     else if (!has) els.listRoot.replaceChildren(h('p', { class: 't-small', style: { color: 'var(--ink-500)' } }, loaded < state.selected.length ? 'Loading unit data.' : 'No assessments to show for these units.'));
   } else {
     renderCalendar(els.viewCal);

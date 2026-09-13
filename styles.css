@@ -467,9 +467,6 @@ a:hover { color: var(--accent-ink); text-decoration-thickness: 1.5px; }
 .empty { padding-block: var(--s-5) var(--s-6); }
 .empty__title { margin-bottom: var(--s-3); }
 .empty__body { color: var(--ink-700); max-width: 34em; }
-.empty__suggest { color: var(--ink-500); margin-top: var(--s-4); }
-.empty__suggest .btn-text { color: var(--ink-700); letter-spacing: .04em; }
-.empty__sep { margin-inline: var(--s-2); }
 
 .error-card { border-left: 1px solid var(--error); padding-left: var(--s-4); padding-block: var(--s-2); display: grid; gap: var(--s-2); justify-items: start; }
 .error-card__title { color: var(--ink-900); }

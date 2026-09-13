@@ -418,13 +418,10 @@ export function closeDetail() {
 }
 
 // ---- states -----------------------------------------------------------------
-export function emptyState(onSuggest) {
-  const sep = () => h('span', { class: 'empty__sep', 'aria-hidden': 'true' }, '·');
-  const link = (code) => h('button', { type: 'button', class: 'btn-text' , onclick: () => onSuggest(code) }, code);
+export function emptyState() {
   return h('div', { class: 'empty' },
     h('h2', { class: 't-display empty__title' }, 'Nothing due yet.'),
-    h('p', { class: 'empty__body t-body' }, 'Add a unit code to see every assessment for the semester in one list.'),
-    h('p', { class: 'empty__suggest t-small' }, link('AMME2200'), sep(), link('ELEC3204'), sep(), link('COMP3308')));
+    h('p', { class: 'empty__body t-body' }, 'Add a unit code to see every assessment for the semester in one list.'));
 }
 
 export function errorState(onRetry) {
