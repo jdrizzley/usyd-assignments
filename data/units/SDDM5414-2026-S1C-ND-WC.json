@@ -1,0 +1,51 @@
+{
+ "code": "SDDM5414",
+ "name": "Research 7",
+ "availability": "2026-S1C-ND-WC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SDDM5414/2026-S1C-ND-WC",
+ "scrapedAt": "2026-09-13T22:44:50Z",
+ "assessments": [
+  {
+   "id": "SDDM5414-2026-S1C-ND-WC-0",
+   "name": "Critically appraised topic (CAT) summary",
+   "description": "Written assessment",
+   "type": "Written work",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 20 Apr 2026 at 23:59"
+  },
+  {
+   "id": "SDDM5414-2026-S1C-ND-WC-1",
+   "name": "DMD Project Final Assessment (Final report/Poster, abstract and oral presentation)",
+   "description": "Final research report/ poster, abstract and oral presentation",
+   "type": "Written work",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "semester one",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 16 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,33 @@
+{
+ "code": "GCST6922",
+ "name": "Dissertation Part 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GCST6922/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:58:59Z",
+ "assessments": [
+  {
+   "id": "GCST6922-2026-S2C-SU-CC-0",
+   "name": "Dissertation outline",
+   "description": "Work towards draft and outline agreed with supervisor",
+   "type": "Experimental design",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

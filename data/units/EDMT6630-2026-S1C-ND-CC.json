@@ -1,0 +1,51 @@
+{
+ "code": "EDMT6630",
+ "name": "Information Technology: Secondary School",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT6630/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:29:37Z",
+ "assessments": [
+  {
+   "id": "EDMT6630-2026-S1C-ND-CC-0",
+   "name": "Individual reflection on design project",
+   "description": "Review weekly group and individual reflections and identify lessons learned",
+   "type": "Written work",
+   "weight": 35,
+   "weightRaw": "35%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-29",
+   "length": "600 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 08 Jun 2026 at 23:59 Closing date : 29 Jun 2026"
+  },
+  {
+   "id": "EDMT6630-2026-S1C-ND-CC-1",
+   "name": "Develop a digital teaching/learning resource",
+   "description": "Design a digital learning resource that embeds differentiation.",
+   "type": "Written work",
+   "weight": 65,
+   "weightRaw": "65%",
+   "week": 9,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-03",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-01",
+   "length": "1400 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09 Due date : 03 May 2026 at 23:59 Closing date : 01 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

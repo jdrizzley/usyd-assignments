@@ -1,0 +1,33 @@
+{
+ "code": "DECO4003",
+ "name": "Design Honours Research C",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DECO4003/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:10:06Z",
+ "assessments": [
+  {
+   "id": "DECO4003-2026-S1C-ND-CC-0",
+   "name": "Interactive oral assessment",
+   "description": "Interactive oral assessment",
+   "type": "Interactive oral",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

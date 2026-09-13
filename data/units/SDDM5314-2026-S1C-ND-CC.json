@@ -1,0 +1,33 @@
+{
+ "code": "SDDM5314",
+ "name": "Research 5",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SDDM5314/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:44:32Z",
+ "assessments": [
+  {
+   "id": "SDDM5314-2026-S1C-ND-CC-0",
+   "name": "Critical appraisal assignment (for SDDM5314)",
+   "description": "Written assessment",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Written assessment",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 20 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

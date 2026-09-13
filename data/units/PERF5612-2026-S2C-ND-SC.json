@@ -1,0 +1,33 @@
+{
+ "code": "PERF5612",
+ "name": "Graduate Seminar 2",
+ "availability": "2026-S2C-ND-SC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PERF5612/2026-S2C-ND-SC",
+ "scrapedAt": "2026-09-13T22:18:49Z",
+ "assessments": [
+  {
+   "id": "PERF5612-2026-S2C-ND-SC-0",
+   "name": "Assessment",
+   "description": "Assessment is decided in consultation with the PERF5612 coordinator.",
+   "type": "Portfolio or journal",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Dependent on field of study",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

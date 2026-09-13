@@ -1,0 +1,33 @@
+{
+ "code": "ENGP1002",
+ "name": "Professional Engagement Program 1B",
+ "availability": "2026-S2C-PP-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Professional practice",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGP1002/2026-S2C-PP-CC",
+ "scrapedAt": "2026-09-13T20:46:43Z",
+ "assessments": [
+  {
+   "id": "ENGP1002-2026-S2C-PP-CC-0",
+   "name": "Professional Engagement Portfolio",
+   "description": "Satisfactory participation in professional engagement activities.",
+   "type": "Attendance - accreditation or faculty requirement",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "Not applicable",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

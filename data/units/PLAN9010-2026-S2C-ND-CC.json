@@ -1,0 +1,51 @@
+{
+ "code": "PLAN9010",
+ "name": "Planning Dissertation 1",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PLAN9010/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T22:28:45Z",
+ "assessments": [
+  {
+   "id": "PLAN9010-2026-S2C-ND-CC-0",
+   "name": "Research proposal",
+   "description": "Written research proposal and Presentation to supervisor and Unit Coordinator",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-24",
+   "dueTime": "15:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "See canvas for details",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 24 Aug 2026 at 15:00"
+  },
+  {
+   "id": "PLAN9010-2026-S2C-ND-CC-1",
+   "name": "Progress Seminar",
+   "description": "Presentation of Written Research Proposal to Supervisor and Unit Coordinator",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-24",
+   "dueTime": "15:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "See canvas for details",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 24 Aug 2026 at 15:00"
+  }
+ ],
+ "parseWarnings": []
+}

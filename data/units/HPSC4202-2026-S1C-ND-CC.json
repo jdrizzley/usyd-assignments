@@ -1,0 +1,33 @@
+{
+ "code": "HPSC4202",
+ "name": "HPS Honours Research Project B",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/HPSC4202/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T21:07:42Z",
+ "assessments": [
+  {
+   "id": "HPSC4202-2026-S1C-ND-CC-0",
+   "name": "Honours thesis",
+   "description": "Honours thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

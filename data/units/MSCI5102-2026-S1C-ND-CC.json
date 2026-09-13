@@ -1,0 +1,51 @@
+{
+ "code": "MSCI5102",
+ "name": "Mathematical Sciences Project B",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MSCI5102/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T21:57:01Z",
+ "assessments": [
+  {
+   "id": "MSCI5102-2026-S1C-ND-CC-0",
+   "name": "Thesis",
+   "description": "Thesis of 40 to 60 pages produced using LaTeX or similar.",
+   "type": "Dissertation or thesis",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "40-60 pages of written work.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "MSCI5102-2026-S1C-ND-CC-1",
+   "name": "Presentation",
+   "description": "Presentation on thesis content.",
+   "type": "Presentation",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes (+5 minutes for questions).",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

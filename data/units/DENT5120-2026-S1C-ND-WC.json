@@ -1,0 +1,51 @@
+{
+ "code": "DENT5120",
+ "name": "Internal and General Medicine Level 1A",
+ "availability": "2026-S1C-ND-WC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5120/2026-S1C-ND-WC",
+ "scrapedAt": "2026-09-13T20:11:20Z",
+ "assessments": [
+  {
+   "id": "DENT5120-2026-S1C-ND-WC-0",
+   "name": "Viva voce",
+   "description": "Oral viva voce exam",
+   "type": "Oral exam",
+   "weight": 70,
+   "weightRaw": "70%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1 hour",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "DENT5120-2026-S1C-ND-WC-1",
+   "name": "Continuous sessional assessment",
+   "description": "Clinical skills evaluation",
+   "type": "Portfolio or journal",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Ongoing",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Progressive"
+  }
+ ],
+ "parseWarnings": []
+}

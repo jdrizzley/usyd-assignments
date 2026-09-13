@@ -1,0 +1,51 @@
+{
+ "code": "EDMT6022",
+ "name": "Learning from Country",
+ "availability": "2026-S2CIAU-BM-CC",
+ "session": "S2CIAU",
+ "sessionLabel": "Intensive July - August, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-07",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT6022/2026-S2CIAU-BM-CC",
+ "scrapedAt": "2026-09-13T20:28:54Z",
+ "assessments": [
+  {
+   "id": "EDMT6022-2026-S2CIAU-BM-CC-0",
+   "name": "LFC Reflection & Analysis",
+   "description": "Construct a blogpost with visual evidence of your LFC experiences",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 1,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-09",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1200 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 01 Due date : 09 Aug 2026 at 23:59"
+  },
+  {
+   "id": "EDMT6022-2026-S2CIAU-BM-CC-1",
+   "name": "Internship Report",
+   "description": "Apply Learning from Country experiences, learning and skills to internship",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 9,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-11",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1800 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09 Due date : 11 Oct 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

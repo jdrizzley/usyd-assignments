@@ -1,0 +1,51 @@
+{
+ "code": "OLET1205",
+ "name": "Business Ethics: Interactive Cases",
+ "availability": "2026-S2CIAU-BM-CC",
+ "session": "S2CIAU",
+ "sessionLabel": "Intensive July - August, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-07",
+ "sourceUrl": "https://www.sydney.edu.au/units/OLET1205/2026-S2CIAU-BM-CC",
+ "scrapedAt": "2026-09-13T22:10:23Z",
+ "assessments": [
+  {
+   "id": "OLET1205-2026-S2CIAU-BM-CC-0",
+   "name": "Early Feedback Task",
+   "description": "Online Quiz #EarlyFeedbackTask",
+   "type": "Out-of-class quiz",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": 1,
+   "dateKind": "absolute",
+   "dueDate": "2026-07-24",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-07-24",
+   "length": "30 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": true,
+   "dueRaw": "Week 01 Due date : 24 Jul 2026 at 23:59 Closing date : 24 Jul 2026"
+  },
+  {
+   "id": "OLET1205-2026-S2CIAU-BM-CC-1",
+   "name": "Individual assignment",
+   "description": "case study",
+   "type": "Written work",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-04",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-09-11",
+   "length": "1000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 04 Sep 2026 at 23:59 Closing date : 11 Sep 2026"
+  }
+ ],
+ "parseWarnings": []
+}

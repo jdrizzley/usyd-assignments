@@ -1,0 +1,51 @@
+{
+ "code": "ECMT4820",
+ "name": "Econometrics Honours Thesis 2",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ECMT4820/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:18:05Z",
+ "assessments": [
+  {
+   "id": "ECMT4820-2026-S2C-SU-CC-0",
+   "name": "Honours thesis",
+   "description": "Thesis final mark = 10% proposal mark + 90% thesis mark",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 10,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Approx. 13,500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10"
+  },
+  {
+   "id": "ECMT4820-2026-S2C-SU-CC-1",
+   "name": "Oral assessment",
+   "description": "Oral assessment to verify the authenticity of the thesis.",
+   "type": "Oral exam",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

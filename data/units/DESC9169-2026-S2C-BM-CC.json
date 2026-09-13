@@ -1,0 +1,51 @@
+{
+ "code": "DESC9169",
+ "name": "Daylight in Buildings",
+ "availability": "2026-S2C-BM-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DESC9169/2026-S2C-BM-CC",
+ "scrapedAt": "2026-09-13T20:15:43Z",
+ "assessments": [
+  {
+   "id": "DESC9169-2026-S2C-BM-CC-0",
+   "name": "Analysis of different indoor spaces",
+   "description": "Analysis",
+   "type": "Data analysis",
+   "weight": 35,
+   "weightRaw": "35%",
+   "week": 9,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-06",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "8 pages in A2 format",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09 Due date : 06 Oct 2026 at 23:00"
+  },
+  {
+   "id": "DESC9169-2026-S2C-BM-CC-1",
+   "name": "Daylight modelling of a parametric facade",
+   "description": "Analysis",
+   "type": "Practical skill",
+   "weight": 65,
+   "weightRaw": "65%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "8 pages in A2 format",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:00"
+  }
+ ],
+ "parseWarnings": []
+}

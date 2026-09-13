@@ -1,0 +1,51 @@
+{
+ "code": "GCST6923",
+ "name": "Dissertation Part 2",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GCST6923/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:59:00Z",
+ "assessments": [
+  {
+   "id": "GCST6923-2026-S2C-SU-CC-0",
+   "name": "Oral Assessment",
+   "description": "Viva assessment that serves as a hurdle task that is arranged after the submission of your dissertation.",
+   "type": "Oral exam",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "GCST6923-2026-S2C-SU-CC-1",
+   "name": "Dissertation",
+   "description": "Dissertation due on the first day of the exam period",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "21:36",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 21:36"
+  }
+ ],
+ "parseWarnings": []
+}

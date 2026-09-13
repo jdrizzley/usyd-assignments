@@ -1,0 +1,51 @@
+{
+ "code": "PSYC6078",
+ "name": "Clinical Skills and Practice",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PSYC6078/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:35:31Z",
+ "assessments": [
+  {
+   "id": "PSYC6078-2026-S1C-ND-CC-0",
+   "name": "Clinical Viva Adult Therapy",
+   "description": "Clinical Viva Weeks 12 and 13",
+   "type": "Peer or expert observation or supervision",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1 hour",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "PSYC6078-2026-S1C-ND-CC-1",
+   "name": "Clinical skills video review",
+   "description": "Video recording",
+   "type": "Peer or expert observation or supervision",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 5,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05"
+  }
+ ],
+ "parseWarnings": []
+}

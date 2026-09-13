@@ -1,0 +1,51 @@
+{
+ "code": "SDDM5216",
+ "name": "DMD Project 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SDDM5216/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:44:21Z",
+ "assessments": [
+  {
+   "id": "SDDM5216-2026-S1C-SU-CC-0",
+   "name": "M3 Project Proposal",
+   "description": "M3 Project proposal",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-30",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 30 Mar 2026 at 23:59"
+  },
+  {
+   "id": "SDDM5216-2026-S1C-SU-CC-1",
+   "name": "Peer Evaluation 1",
+   "description": "Groups member evaluation on peer contribution Sem 1",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-30",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 30 Mar 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

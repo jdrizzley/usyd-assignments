@@ -1,0 +1,51 @@
+{
+ "code": "EDMT5530",
+ "name": "Creative Arts K-6",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT5530/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:26:45Z",
+ "assessments": [
+  {
+   "id": "EDMT5530-2026-S2C-ND-CC-0",
+   "name": "Rationale",
+   "description": "Rationale",
+   "type": "Creative work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-26",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1000 word equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 26 Aug 2026 at 23:59"
+  },
+  {
+   "id": "EDMT5530-2026-S2C-ND-CC-1",
+   "name": "Reflective scrapbook",
+   "description": "Reflective scrapbook",
+   "type": "Portfolio or journal",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 word equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

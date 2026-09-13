@@ -1,0 +1,51 @@
+{
+ "code": "DENT5023",
+ "name": "Implant Clinical Procedures 1",
+ "availability": "2026-S2C-ND-WC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5023/2026-S2C-ND-WC",
+ "scrapedAt": "2026-09-13T20:10:29Z",
+ "assessments": [
+  {
+   "id": "DENT5023-2026-S2C-ND-WC-0",
+   "name": "Case presentations",
+   "description": "Clinical presentation",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-29",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "30 minutes, 2 cases",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 Oct 2026 at 09:00"
+  },
+  {
+   "id": "DENT5023-2026-S2C-ND-WC-1",
+   "name": "Mentor feedback",
+   "description": "Continuous sessional assessment",
+   "type": "Peer or expert observation or supervision",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-29",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "To be added by the unit coordinator",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 Oct 2026 at 09:00"
+  }
+ ],
+ "parseWarnings": []
+}

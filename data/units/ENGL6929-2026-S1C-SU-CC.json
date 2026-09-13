@@ -1,0 +1,33 @@
+{
+ "code": "ENGL6929",
+ "name": "Dissertation Part 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL6929/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T20:46:15Z",
+ "assessments": [
+  {
+   "id": "ENGL6929-2026-S1C-SU-CC-0",
+   "name": "Draft",
+   "description": "Written work",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-25",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 25 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

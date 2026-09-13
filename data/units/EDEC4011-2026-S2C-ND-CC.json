@@ -1,0 +1,51 @@
+{
+ "code": "EDEC4011",
+ "name": "Internship Research Project",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDEC4011/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:25:15Z",
+ "assessments": [
+  {
+   "id": "EDEC4011-2026-S2C-ND-CC-0",
+   "name": "Written task",
+   "description": "Refer to Task 1 Description sheet on Canvas.",
+   "type": "Portfolio or journal",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "EDEC4011-2026-S2C-ND-CC-1",
+   "name": "Practitioner Inquiry",
+   "description": "Refer to Task 2 description sheet on Canvas.",
+   "type": "Portfolio or journal",
+   "weight": 70,
+   "weightRaw": "70%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5000 wd equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

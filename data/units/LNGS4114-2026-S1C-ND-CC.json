@@ -1,0 +1,33 @@
+{
+ "code": "LNGS4114",
+ "name": "Structure in Language",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/LNGS4114/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T21:39:16Z",
+ "assessments": [
+  {
+   "id": "LNGS4114-2026-S1C-ND-CC-0",
+   "name": "Essay",
+   "description": "n/a",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

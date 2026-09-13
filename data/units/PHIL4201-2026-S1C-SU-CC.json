@@ -1,0 +1,33 @@
+{
+ "code": "PHIL4201",
+ "name": "Philosophy Honours Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PHIL4201/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:23:45Z",
+ "assessments": [
+  {
+   "id": "PHIL4201-2026-S1C-SU-CC-0",
+   "name": "Progress towards a thesis",
+   "description": "Progress towards a thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Progress towards 12,000–15,000wd thesis.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

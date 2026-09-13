@@ -1,0 +1,51 @@
+{
+ "code": "EDMT5659",
+ "name": "History Curriculum 2",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT5659/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:27:21Z",
+ "assessments": [
+  {
+   "id": "EDMT5659-2026-S2C-ND-CC-0",
+   "name": "Peer teaching presentation and submitted work",
+   "description": "Teaching a historical concept",
+   "type": "Presentation",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 08 Sep 2026 at 23:59"
+  },
+  {
+   "id": "EDMT5659-2026-S2C-ND-CC-1",
+   "name": "Unit of work",
+   "description": "Developing strategies to integrate diverse media into the teaching and learning of history",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-04",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 04 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

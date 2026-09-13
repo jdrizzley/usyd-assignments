@@ -1,0 +1,33 @@
+{
+ "code": "ECON4810",
+ "name": "Economics Honours Thesis 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ECON4810/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:18:46Z",
+ "assessments": [
+  {
+   "id": "ECON4810-2026-S2C-SU-CC-0",
+   "name": "Honours thesis proposal",
+   "description": "Thesis proposal due by Friday of Week 13.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

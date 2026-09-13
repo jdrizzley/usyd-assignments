@@ -1,0 +1,17 @@
+{
+ "code": "PHTY5182",
+ "name": "Page not found",
+ "availability": "2026-S1CIJN-PP-CC",
+ "session": "S1CIJN",
+ "sessionLabel": "Intensive May - June, 2026",
+ "mode": "Professional practice",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/PHTY5182/2026-S1CIJN-PP-CC",
+ "scrapedAt": "2026-09-13T22:25:35Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}

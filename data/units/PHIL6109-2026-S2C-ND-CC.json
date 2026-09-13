@@ -1,0 +1,33 @@
+{
+ "code": "PHIL6109",
+ "name": "Research Topics: Mind and Metaphysics",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PHIL6109/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T22:24:03Z",
+ "assessments": [
+  {
+   "id": "PHIL6109-2026-S2C-ND-CC-0",
+   "name": "Postgrad Essay",
+   "description": "Research Essay",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-12-24",
+   "length": "5000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59 Closing date : 24 Dec 2026"
+  }
+ ],
+ "parseWarnings": []
+}

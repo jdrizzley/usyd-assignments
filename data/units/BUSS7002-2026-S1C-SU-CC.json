@@ -1,0 +1,33 @@
+{
+ "code": "BUSS7002",
+ "name": "Business Dissertation",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/BUSS7002/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T19:42:28Z",
+ "assessments": [
+  {
+   "id": "BUSS7002-2026-S1C-SU-CC-0",
+   "name": "Dissertation",
+   "description": "Dissertation in accordance with Discipline and supervisory requirements.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-31",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-14",
+   "length": "15,000 - 20,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 31 May 2026 at 23:59 Closing date : 14 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

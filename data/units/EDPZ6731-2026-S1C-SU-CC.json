@@ -1,0 +1,51 @@
+{
+ "code": "EDPZ6731",
+ "name": "Special Project 2",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDPZ6731/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T20:32:56Z",
+ "assessments": [
+  {
+   "id": "EDPZ6731-2026-S1C-SU-CC-0",
+   "name": "Q&A following presentation",
+   "description": "The Q&A serves as a hurdle assessment.\nTherefore, candidates must pass this oral\nexamination. Once a candidate has passed,\ntheir QAP mark is combined with their written\nassignment mark to produce the final mark.",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10min (1000wd equivalent)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "EDPZ6731-2026-S1C-SU-CC-1",
+   "name": "Special Project Report",
+   "description": "Special Project",
+   "type": "Written work",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-03",
+   "length": "5000wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 23:59 Closing date : 03 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "SCWK5005",
+ "name": "Practice Learning 2A",
+ "availability": "2026-S1CRB-ND-CC",
+ "session": "S1CRB",
+ "sessionLabel": "Semester 1b, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-05-01",
+ "sourceUrl": "https://www.sydney.edu.au/units/SCWK5005/2026-S1CRB-ND-CC",
+ "scrapedAt": "2026-09-13T22:43:16Z",
+ "assessments": [
+  {
+   "id": "SCWK5005-2026-S1CRB-ND-CC-0",
+   "name": "Mid-placement presentation",
+   "description": "Report",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "30-minute presentation equival.2,000 wds",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "SCWK5005-2026-S1CRB-ND-CC-1",
+   "name": "Learning plan",
+   "description": "Placement learning plan",
+   "type": "Portfolio or journal",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2,500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "CHNG4812",
+ "name": "Thesis B",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CHNG4812/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T19:50:13Z",
+ "assessments": [
+  {
+   "id": "CHNG4812-2026-S2C-SU-CC-0",
+   "name": "Thesis",
+   "description": "Written report",
+   "type": "Dissertation or thesis",
+   "weight": 77,
+   "weightRaw": "77%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-23",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-10-30",
+   "length": "60-80 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 23 Oct 2026 at 23:59 Closing date : 30 Oct 2026"
+  },
+  {
+   "id": "CHNG4812-2026-S2C-SU-CC-1",
+   "name": "Oral examination of thesis findings",
+   "description": "Presentation followed by examinable thesis defence",
+   "type": "Interactive oral",
+   "weight": 23,
+   "weightRaw": "23%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-06",
+   "length": "15 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59 Closing date : 06 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

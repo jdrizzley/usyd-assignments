@@ -1,0 +1,51 @@
+{
+ "code": "PAIN5022",
+ "name": "Independent Studies in Pain",
+ "availability": "2026-S2C-OL-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Online",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PAIN5022/2026-S2C-OL-CC",
+ "scrapedAt": "2026-09-13T22:15:41Z",
+ "assessments": [
+  {
+   "id": "PAIN5022-2026-S2C-OL-CC-0",
+   "name": "Evidence of Learning",
+   "description": "A number (2-3) completed assessment items as per negotiated learning contract as evidence of learning.",
+   "type": "Written work",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks Due date : 16 Nov 2026 at 23:59"
+  },
+  {
+   "id": "PAIN5022-2026-S2C-OL-CC-1",
+   "name": "Learning Contract Negotiation",
+   "description": "Develop plan of an individualised\nlearning project.",
+   "type": "Written work",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Draft - end Week 4\nFinal - end Week 6",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks Due date : 13 Sep 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

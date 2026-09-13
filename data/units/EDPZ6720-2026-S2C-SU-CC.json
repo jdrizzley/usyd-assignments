@@ -1,0 +1,51 @@
+{
+ "code": "EDPZ6720",
+ "name": "Dissertation",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDPZ6720/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:32:45Z",
+ "assessments": [
+  {
+   "id": "EDPZ6720-2026-S2C-SU-CC-0",
+   "name": "Dissertation",
+   "description": "Dissertation",
+   "type": "Dissertation or thesis",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-17",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10000wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 17 Nov 2026 at 23:59"
+  },
+  {
+   "id": "EDPZ6720-2026-S2C-SU-CC-1",
+   "name": "Q&A following presentation",
+   "description": "The Q&A serves as a hurdle assessment. Therefore, candidates must pass this oral examination. Once a candidate has passed,\ntheir QAP mark is combined with their written\nassignment mark to produce the final mark.",
+   "type": "Oral exam",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

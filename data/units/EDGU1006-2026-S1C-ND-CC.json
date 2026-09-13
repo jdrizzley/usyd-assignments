@@ -1,0 +1,51 @@
+{
+ "code": "EDGU1006",
+ "name": "Texts and Expectations",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDGU1006/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:25:33Z",
+ "assessments": [
+  {
+   "id": "EDGU1006-2026-S1C-ND-CC-0",
+   "name": "Writing portfolio",
+   "description": "Writing portfolio of four texts written throughout the semester.",
+   "type": "Portfolio or journal",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "4500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "EDGU1006-2026-S1C-ND-CC-1",
+   "name": "Early Feedback Task",
+   "description": "A writing task that identifies students who may need extra support.",
+   "type": "Practical skill",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 2,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Approximately 400 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": true,
+   "dueRaw": "Week 02"
+  }
+ ],
+ "parseWarnings": []
+}

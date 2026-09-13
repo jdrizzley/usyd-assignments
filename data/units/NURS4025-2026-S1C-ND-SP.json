@@ -1,0 +1,51 @@
+{
+ "code": "NURS4025",
+ "name": "Honours Thesis Introduction",
+ "availability": "2026-S1C-ND-SP",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Singapore",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/NURS4025/2026-S1C-ND-SP",
+ "scrapedAt": "2026-09-13T22:02:37Z",
+ "assessments": [
+  {
+   "id": "NURS4025-2026-S1C-ND-SP-0",
+   "name": "Assessment 1B: Q&A post oral",
+   "description": "Questions from audience/panel following presentation - answered by student",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 5,
+   "weightRaw": "5%",
+   "week": 9,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09"
+  },
+  {
+   "id": "NURS4025-2026-S1C-ND-SP-1",
+   "name": "Assessment 1A: Oral presentation",
+   "description": "Presentation",
+   "type": "Presentation",
+   "weight": 95,
+   "weightRaw": "95%",
+   "week": 9,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09"
+  }
+ ],
+ "parseWarnings": []
+}

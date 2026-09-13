@@ -1,0 +1,51 @@
+{
+ "code": "SCMU4602",
+ "name": "Music Honours Portfolio 2",
+ "availability": "2026-S2C-ND-SC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SCMU4602/2026-S2C-ND-SC",
+ "scrapedAt": "2026-09-13T22:41:46Z",
+ "assessments": [
+  {
+   "id": "SCMU4602-2026-S2C-ND-SC-0",
+   "name": "Participation and Engagement",
+   "description": "Honours thesis/portfolio progression. Class presentation. Assessments as per units of study for Free Choice. Please see respective UoS descriptions.",
+   "type": "Contribution",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "See Hons Canvas page for details",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  },
+  {
+   "id": "SCMU4602-2026-S2C-ND-SC-1",
+   "name": "Research Integrity Quiz",
+   "description": "Research Integrity Quiz 2",
+   "type": "Out-of-class quiz",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-21",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10mins",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": true,
+   "dueRaw": "Week 03 Due date : 21 Aug 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

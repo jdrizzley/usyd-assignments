@@ -1,0 +1,51 @@
+{
+ "code": "EDMT5701",
+ "name": "Music Curriculum 1 Ext",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT5701/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:28:14Z",
+ "assessments": [
+  {
+   "id": "EDMT5701-2026-S1C-ND-CC-0",
+   "name": "Technology-infused project",
+   "description": "On your blog, present your reflections on UoS and your tech-infused project",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2250 words equivalent maximum",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 08 Jun 2026 at 23:59"
+  },
+  {
+   "id": "EDMT5701-2026-S1C-ND-CC-1",
+   "name": "Specialist Teaching Area UoS Assessment",
+   "description": "Complete all assessments in the embedded UoS. See its Canvas site.",
+   "type": "Creative work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2250 words equivalent maximum",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 08 Jun 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

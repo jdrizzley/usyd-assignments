@@ -1,0 +1,51 @@
+{
+ "code": "ENGG5217",
+ "name": "Practical Experience",
+ "availability": "2026-S2CIAU-PP-CC",
+ "session": "S2CIAU",
+ "sessionLabel": "Intensive July - August, 2026",
+ "mode": "Professional practice",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-07",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGG5217/2026-S2CIAU-PP-CC",
+ "scrapedAt": "2026-09-13T20:44:03Z",
+ "assessments": [
+  {
+   "id": "ENGG5217-2026-S2CIAU-PP-CC-0",
+   "name": "Practical Experience Application",
+   "description": "Complete the online form in Sonia using the instructions in canvas.",
+   "type": "Peer or expert observation or supervision",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": false,
+   "dueRaw": "Week -04"
+  },
+  {
+   "id": "ENGG5217-2026-S2CIAU-PP-CC-1",
+   "name": "Professional Practice Portfolio",
+   "description": "submit logbook, practical experience certificate and report to Sonia",
+   "type": "Peer or expert observation or supervision",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": 4,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "multiple components",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04"
+  }
+ ],
+ "parseWarnings": []
+}

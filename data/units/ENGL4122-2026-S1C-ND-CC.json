@@ -1,0 +1,33 @@
+{
+ "code": "ENGL4122",
+ "name": "Critical Contexts for Creative Writing",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL4122/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:45:30Z",
+ "assessments": [
+  {
+   "id": "ENGL4122-2026-S1C-ND-CC-0",
+   "name": "Critical essay or creative work and exegesis",
+   "description": "6000 word creative, critical or combined project.",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-31",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 31 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

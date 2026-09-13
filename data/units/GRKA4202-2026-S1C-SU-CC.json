@@ -1,0 +1,33 @@
+{
+ "code": "GRKA4202",
+ "name": "Ancient Greek Honours Thesis 2",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GRKA4202/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T21:05:10Z",
+ "assessments": [
+  {
+   "id": "GRKA4202-2026-S1C-SU-CC-0",
+   "name": "Submission of thesis",
+   "description": "Submission of thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Submission of 18000-20000 word thesis",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

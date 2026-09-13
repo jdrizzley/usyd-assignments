@@ -1,0 +1,51 @@
+{
+ "code": "PLAN9075",
+ "name": "Urban Data and Science of Cities",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PLAN9075/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:29:09Z",
+ "assessments": [
+  {
+   "id": "PLAN9075-2026-S1C-ND-CC-0",
+   "name": "Urban Indicator Development",
+   "description": "Students will develop in teams of 3-4, an urban performance indicator",
+   "type": "Experimental design",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-28",
+   "dueTime": "23:58",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Due Week 13",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 28 May 2026 at 23:58"
+  },
+  {
+   "id": "PLAN9075-2026-S1C-ND-CC-1",
+   "name": "Python Programming and GIS for Urban Data Science",
+   "description": "Students will complete Python Programming and GIS based quizzes.",
+   "type": "Practical skill",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 weeks",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Weekly"
+  }
+ ],
+ "parseWarnings": []
+}

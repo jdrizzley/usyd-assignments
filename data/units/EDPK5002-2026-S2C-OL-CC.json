@@ -1,0 +1,51 @@
+{
+ "code": "EDPK5002",
+ "name": "Quantitative Methods",
+ "availability": "2026-S2C-OL-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Online",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDPK5002/2026-S2C-OL-CC",
+ "scrapedAt": "2026-09-13T20:31:39Z",
+ "assessments": [
+  {
+   "id": "EDPK5002-2026-S2C-OL-CC-0",
+   "name": "Assignment 1: Critical Appraisal",
+   "description": "Critical appraisal of quantitative research related to students' research.",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2500wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 18 Sep 2026 at 23:59"
+  },
+  {
+   "id": "EDPK5002-2026-S2C-OL-CC-1",
+   "name": "Assignment 2: Methdological Overview and Rationale",
+   "description": "Methodological overview and rationale for proposed research study.",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3500wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

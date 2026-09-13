@@ -1,0 +1,51 @@
+{
+ "code": "BPSD5050",
+ "name": "Data Science for the Built Environment",
+ "availability": "2026-S2C-BM-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/BPSD5050/2026-S2C-BM-CC",
+ "scrapedAt": "2026-09-13T19:37:55Z",
+ "assessments": [
+  {
+   "id": "BPSD5050-2026-S2C-BM-CC-0",
+   "name": "Data handling",
+   "description": "To develop a report encompassing data importing, data handling and description.",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "12-page report including code.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 18 Sep 2026 at 23:59"
+  },
+  {
+   "id": "BPSD5050-2026-S2C-BM-CC-1",
+   "name": "Data analysis and modelling",
+   "description": "To develop a report which encompasses time series analysis, modelling, synthesis, and visualisation.",
+   "type": "Research analysis",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15-page report including code.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

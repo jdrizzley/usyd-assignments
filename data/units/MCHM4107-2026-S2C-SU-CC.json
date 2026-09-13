@@ -1,0 +1,33 @@
+{
+ "code": "MCHM4107",
+ "name": "Medicinal Chemistry Honours Project E",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MCHM4107/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:46:09Z",
+ "assessments": [
+  {
+   "id": "MCHM4107-2026-S2C-SU-CC-0",
+   "name": "Honours Project",
+   "description": "Progress towards submission of an Honours project.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Project Duration",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

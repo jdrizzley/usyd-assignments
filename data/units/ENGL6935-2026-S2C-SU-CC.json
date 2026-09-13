@@ -1,0 +1,51 @@
+{
+ "code": "ENGL6935",
+ "name": "Research Essay",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL6935/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:46:23Z",
+ "assessments": [
+  {
+   "id": "ENGL6935-2026-S2C-SU-CC-0",
+   "name": "Interactive oral assessment",
+   "description": "See Canvas for details",
+   "type": "Interactive oral",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "ENGL6935-2026-S2C-SU-CC-1",
+   "name": "Research Essay",
+   "description": "Supervised research essay",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-02",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 02 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

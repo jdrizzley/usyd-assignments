@@ -1,0 +1,51 @@
+{
+ "code": "ENGL4112",
+ "name": "English Honours Thesis 2",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL4112/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T20:45:15Z",
+ "assessments": [
+  {
+   "id": "ENGL4112-2026-S1C-SU-CC-0",
+   "name": "Full Draft",
+   "description": "n/a",
+   "type": "Dissertation or thesis",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-17",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 17 Apr 2026 at 23:59"
+  },
+  {
+   "id": "ENGL4112-2026-S1C-SU-CC-1",
+   "name": "Final thesis",
+   "description": "Final submission",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-22",
+   "dueTime": "23:39",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 22 May 2026 at 23:39"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "MARC5050",
+ "name": "Architectural Construction",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MARC5050/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T21:40:24Z",
+ "assessments": [
+  {
+   "id": "MARC5050-2026-S1C-ND-CC-0",
+   "name": "Case-Study Analysis (Report)",
+   "description": "Case-Study Analysis (Report): This assessment investigates a specific aspect of architectural construction through a detailed analysis of a selected project.",
+   "type": "Creative work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-11",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "4000 words, plus infographics",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 11 Jun 2026 at 23:00"
+  },
+  {
+   "id": "MARC5050-2026-S1C-ND-CC-1",
+   "name": "Mapping Review of a Selected Construction-Focused Topic.",
+   "description": "Presentation + Submission of a Mapping Review of a Selected Construction-Focused Topic.",
+   "type": "Presentation",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-02",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1500 words, plus infographics",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 02 Apr 2026 at 23:00"
+  }
+ ],
+ "parseWarnings": []
+}

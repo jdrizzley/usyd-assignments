@@ -1,0 +1,51 @@
+{
+ "code": "DECO4004",
+ "name": "Design Honours Research D",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DECO4004/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:10:13Z",
+ "assessments": [
+  {
+   "id": "DECO4004-2026-S2C-ND-CC-0",
+   "name": "Oral Examination",
+   "description": "Oral exam for research unit.",
+   "type": "Interactive oral",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (presentation and Q&A)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "DECO4004-2026-S2C-ND-CC-1",
+   "name": "Dissertation",
+   "description": "Written dissertation",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-04",
+   "dueTime": "12:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "max 30,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 04 Nov 2026 at 12:59"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "DENT5162",
+ "name": "Introduction to Orthodontic Theory",
+ "availability": "2026-S1C-ND-CS",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Surry Hills, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5162/2026-S1C-ND-CS",
+ "scrapedAt": "2026-09-13T20:11:36Z",
+ "assessments": [
+  {
+   "id": "DENT5162-2026-S1C-ND-CS-0",
+   "name": "Oral Viva voce exam (for DENT5162)",
+   "description": "Oral exam",
+   "type": "Oral exam",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1 hour",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "DENT5162-2026-S1C-ND-CS-1",
+   "name": "Written exam (for DENT5162)",
+   "description": "Theory exam",
+   "type": "Written exam",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  }
+ ],
+ "parseWarnings": []
+}

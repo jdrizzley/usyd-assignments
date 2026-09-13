@@ -1,0 +1,51 @@
+{
+ "code": "EDMT5667",
+ "name": "Science Curriculum 2",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT5667/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:27:34Z",
+ "assessments": [
+  {
+   "id": "EDMT5667-2026-S2C-ND-CC-0",
+   "name": "Designing curriculum",
+   "description": "Analysis to identify breadth and depth of syllabus treatment",
+   "type": "Research analysis",
+   "weight": 45,
+   "weightRaw": "45%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-30",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-09-13",
+   "length": "Equivalent to 2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 30 Aug 2026 at 23:59 Closing date : 13 Sep 2026"
+  },
+  {
+   "id": "EDMT5667-2026-S2C-ND-CC-1",
+   "name": "Sequencing lessons to support all students' learning",
+   "description": "Consecutive lesson sequence",
+   "type": "Written work",
+   "weight": 55,
+   "weightRaw": "55%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-22",
+   "length": "Equivalent to 2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 08 Nov 2026 at 23:59 Closing date : 22 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

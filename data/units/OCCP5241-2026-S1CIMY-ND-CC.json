@@ -1,0 +1,51 @@
+{
+ "code": "OCCP5241",
+ "name": "Evaluation of OT Practice",
+ "availability": "2026-S1CIMY-ND-CC",
+ "session": "S1CIMY",
+ "sessionLabel": "Intensive April - May, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-05-01",
+ "sourceUrl": "https://www.sydney.edu.au/units/OCCP5241/2026-S1CIMY-ND-CC",
+ "scrapedAt": "2026-09-13T22:07:19Z",
+ "assessments": [
+  {
+   "id": "OCCP5241-2026-S1CIMY-ND-CC-0",
+   "name": "Critical appraisal report",
+   "description": "Report on research evidence relevant to  evaluation of an OT program including critical appraisal",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-17",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-05-24",
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 17 May 2026 at 23:59 Closing date : 24 May 2026"
+  },
+  {
+   "id": "OCCP5241-2026-S1CIMY-ND-CC-1",
+   "name": "EBP portfolio",
+   "description": "Portfolio of learning activities and outputs from Weeks 1-6",
+   "type": "Portfolio or journal",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-31",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-07",
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 31 May 2026 at 23:59 Closing date : 07 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "EDUH4058",
+ "name": "Sport and Learning in Australian Culture",
+ "availability": "2026-S1CIFE-ND-CC",
+ "session": "S1CIFE",
+ "sessionLabel": "Intensive January - February, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-01-30",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUH4058/2026-S1CIFE-ND-CC",
+ "scrapedAt": "2026-09-13T20:37:13Z",
+ "assessments": [
+  {
+   "id": "EDUH4058-2026-S1CIFE-ND-CC-0",
+   "name": "Field Trip Responses",
+   "description": "Field trip reponses will include a range of activities.",
+   "type": "Portfolio or journal",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "4 x 1,000 word responses (15% each)",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "EDUH4058-2026-S1CIFE-ND-CC-1",
+   "name": "Paired Research Project Presentation",
+   "description": "To be presented in class",
+   "type": "Presentation",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 3,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2,000 words equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "NURS5059",
+ "name": "Foundations of Clinical Practice",
+ "availability": "2026-S1C-BM-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/NURS5059/2026-S1C-BM-CC",
+ "scrapedAt": "2026-09-13T22:03:19Z",
+ "assessments": [
+  {
+   "id": "NURS5059-2026-S1C-BM-CC-0",
+   "name": "Assessment 1: Essay",
+   "description": "Written assignment",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-01",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000-2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 01 Apr 2026 at 23:59"
+  },
+  {
+   "id": "NURS5059-2026-S1C-BM-CC-1",
+   "name": "Assessment 2: Case study",
+   "description": "Written assignment",
+   "type": "Case studies",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000-2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 20 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

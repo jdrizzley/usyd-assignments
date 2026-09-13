@@ -1,0 +1,51 @@
+{
+ "code": "CSCD4051",
+ "name": "Evidence Based Practice for SP",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CSCD4051/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:05:59Z",
+ "assessments": [
+  {
+   "id": "CSCD4051-2026-S1C-ND-CC-0",
+   "name": "Evidence in Practice",
+   "description": "Recorded presentation + 200 word reflection",
+   "type": "Presentation",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-05",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5 mins, 8-10 powerpoint slides",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "STUVAC Due date : 05 Jun 2026 at 23:59"
+  },
+  {
+   "id": "CSCD4051-2026-S1C-ND-CC-1",
+   "name": "Evidence brief (incl. Evidence table)",
+   "description": "Evidence table & brief completed in pairs",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-24",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 24 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

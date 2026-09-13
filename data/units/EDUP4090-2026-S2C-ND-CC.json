@@ -1,0 +1,51 @@
+{
+ "code": "EDUP4090",
+ "name": "Professional Engagement Final Practice",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUP4090/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:38:51Z",
+ "assessments": [
+  {
+   "id": "EDUP4090-2026-S2C-ND-CC-0",
+   "name": "Professional Experience Final Placement",
+   "description": "please refer to the EDUP4090 Canvas Site",
+   "type": "Peer or expert observation or supervision",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "35 days",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "EDUP4090-2026-S2C-ND-CC-1",
+   "name": "AfGT",
+   "description": "please refer to the EDUP4090 Canvas Site and AfGT Manual",
+   "type": "Practical skill",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

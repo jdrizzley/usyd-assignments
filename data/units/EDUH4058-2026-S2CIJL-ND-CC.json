@@ -1,0 +1,51 @@
+{
+ "code": "EDUH4058",
+ "name": "Sport and Learning in Australian Culture",
+ "availability": "2026-S2CIJL-ND-CC",
+ "session": "S2CIJL",
+ "sessionLabel": "Intensive June - July, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-07-03",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUH4058/2026-S2CIJL-ND-CC",
+ "scrapedAt": "2026-09-13T20:37:17Z",
+ "assessments": [
+  {
+   "id": "EDUH4058-2026-S2CIJL-ND-CC-0",
+   "name": "Field Trip Responses",
+   "description": "Field trip reponses will include a range of activities.",
+   "type": "Portfolio or journal",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-07-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-07-20",
+   "length": "4 x 1,000 word responses (15% each)",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks Due date : 13 Jul 2026 at 23:59 Closing date : 20 Jul 2026"
+  },
+  {
+   "id": "EDUH4058-2026-S2CIJL-ND-CC-1",
+   "name": "Paired Research Project Presentation",
+   "description": "To be presented in class",
+   "type": "Presentation",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 5,
+   "dateKind": "absolute",
+   "dueDate": "2026-07-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-07-24",
+   "length": "2,000 words equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05 Due date : 20 Jul 2026 at 23:59 Closing date : 24 Jul 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,33 @@
+{
+ "code": "ECOP6121",
+ "name": "Dissertation Part A",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ECOP6121/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:22:18Z",
+ "assessments": [
+  {
+   "id": "ECOP6121-2026-S1C-ND-CC-0",
+   "name": "Dissertation",
+   "description": "Independent reading and research, dissertation drafting, and meetings with supervisor",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "12,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Progressive"
+  }
+ ],
+ "parseWarnings": []
+}

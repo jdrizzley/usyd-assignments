@@ -1,0 +1,51 @@
+{
+ "code": "EDPG5001",
+ "name": "Discourse and Language Teaching",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDPG5001/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:31:11Z",
+ "assessments": [
+  {
+   "id": "EDPG5001-2026-S2C-ND-CC-0",
+   "name": "Assignment 1",
+   "description": "A review of a research report on language and identity",
+   "type": "Written work",
+   "weight": 35,
+   "weightRaw": "35%",
+   "week": 5,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-01",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05 Due date : 01 Sep 2026 at 23:59"
+  },
+  {
+   "id": "EDPG5001-2026-S2C-ND-CC-1",
+   "name": "Assignment 2",
+   "description": "Discourse analysis project",
+   "type": "Written work",
+   "weight": 65,
+   "weightRaw": "65%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "4000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 08 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

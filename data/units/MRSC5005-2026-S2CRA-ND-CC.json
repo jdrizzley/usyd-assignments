@@ -1,0 +1,51 @@
+{
+ "code": "MRSC5005",
+ "name": "Professional Practice Radiography 2",
+ "availability": "2026-S2CRA-ND-CC",
+ "session": "S2CRA",
+ "sessionLabel": "Semester 2a, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-21",
+ "sourceUrl": "https://www.sydney.edu.au/units/MRSC5005/2026-S2CRA-ND-CC",
+ "scrapedAt": "2026-09-13T21:54:59Z",
+ "assessments": [
+  {
+   "id": "MRSC5005-2026-S2CRA-ND-CC-0",
+   "name": "Week 4 MCQ",
+   "description": "MCQ",
+   "type": "Written test",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-27",
+   "dueTime": "10:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1.5 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 27 Aug 2026 at 10:00"
+  },
+  {
+   "id": "MRSC5005-2026-S2CRA-ND-CC-1",
+   "name": "End of semester exam",
+   "description": "MCQ and Scenario Questions",
+   "type": "Written exam",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-24",
+   "dueTime": "10:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 24 Sep 2026 at 10:00"
+  }
+ ],
+ "parseWarnings": []
+}

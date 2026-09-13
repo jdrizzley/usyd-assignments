@@ -1,0 +1,33 @@
+{
+ "code": "EDLN4000",
+ "name": "LANTITE Undergraduate",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDLN4000/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:26:26Z",
+ "assessments": [
+  {
+   "id": "EDLN4000-2026-S2C-ND-CC-0",
+   "name": "Lantite Exam",
+   "description": "n/a",
+   "type": "In-person practical, skills, or performance task or test",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "n/a",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

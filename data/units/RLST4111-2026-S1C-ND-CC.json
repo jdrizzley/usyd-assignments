@@ -1,0 +1,33 @@
+{
+ "code": "RLST4111",
+ "name": "Studies in Religion Honours Thesis I",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/RLST4111/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:39:46Z",
+ "assessments": [
+  {
+   "id": "RLST4111-2026-S1C-ND-CC-0",
+   "name": "Progress and Draft thesis",
+   "description": "Work with supervisor on developing thesis.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "n/a",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

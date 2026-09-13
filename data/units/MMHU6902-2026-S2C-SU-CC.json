@@ -1,0 +1,33 @@
+{
+ "code": "MMHU6902",
+ "name": "Independent Study",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MMHU6902/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:54:54Z",
+ "assessments": [
+  {
+   "id": "MMHU6902-2026-S2C-SU-CC-0",
+   "name": "Essay",
+   "description": "A normative bioethics essay",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1x5000-6000wd research essay",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

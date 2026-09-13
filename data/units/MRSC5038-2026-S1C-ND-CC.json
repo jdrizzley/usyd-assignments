@@ -1,0 +1,51 @@
+{
+ "code": "MRSC5038",
+ "name": "Medical Radiation Science 2 Radiography",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MRSC5038/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T21:55:14Z",
+ "assessments": [
+  {
+   "id": "MRSC5038-2026-S1C-ND-CC-0",
+   "name": "Image Quality Assignment",
+   "description": "An assignment requiring students to analyse previously acquired images.",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-02",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 02 Apr 2026 at 23:59"
+  },
+  {
+   "id": "MRSC5038-2026-S1C-ND-CC-1",
+   "name": "End of Semester Exam",
+   "description": "This assessment is a closed book exam comprising MCQs and SAQs.",
+   "type": "Written exam",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 10,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-06",
+   "dueTime": "15:30",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1.5 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10 Due date : 06 May 2026 at 15:30"
+  }
+ ],
+ "parseWarnings": []
+}

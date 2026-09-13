@@ -1,0 +1,51 @@
+{
+ "code": "DESC9167",
+ "name": "Light and Vision",
+ "availability": "2026-S1C-BM-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DESC9167/2026-S1C-BM-CC",
+ "scrapedAt": "2026-09-13T20:15:40Z",
+ "assessments": [
+  {
+   "id": "DESC9167-2026-S1C-BM-CC-0",
+   "name": "Calculations and written statement",
+   "description": "Written statement & calculations",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-02",
+   "dueTime": "18:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Maximum page limit: 6 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 02 Apr 2026 at 18:00"
+  },
+  {
+   "id": "DESC9167-2026-S1C-BM-CC-1",
+   "name": "Concept Design and Physical Model",
+   "description": "Design project",
+   "type": "Creative work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-16",
+   "dueTime": "12:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Maximum page limit: 5 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 16 May 2026 at 12:00"
+  }
+ ],
+ "parseWarnings": []
+}

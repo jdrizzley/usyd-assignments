@@ -1,0 +1,16 @@
+{
+ "code": "PSYC5016",
+ "name": "Research Project in Applied Psychology A",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PSYC5016/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:34:56Z",
+ "assessments": [],
+ "parseWarnings": [
+  "assessment table found but no rows parsed"
+ ]
+}

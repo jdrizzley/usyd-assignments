@@ -1,0 +1,33 @@
+{
+ "code": "CHEM4105",
+ "name": "Chemistry Honours Project C",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CHEM4105/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T19:48:52Z",
+ "assessments": [
+  {
+   "id": "CHEM4105-2026-S2C-ND-CC-0",
+   "name": "Honours Project",
+   "description": "Progress towards submission of an Honours project.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Project Dependent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

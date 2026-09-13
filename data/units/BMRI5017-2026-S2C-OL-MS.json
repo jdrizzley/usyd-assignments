@@ -1,0 +1,51 @@
+{
+ "code": "BMRI5017",
+ "name": "Genetics of Brain and Mind Disorders",
+ "availability": "2026-S2C-OL-MS",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Online",
+ "location": "Mallett Street, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/BMRI5017/2026-S2C-OL-MS",
+ "scrapedAt": "2026-09-13T19:37:14Z",
+ "assessments": [
+  {
+   "id": "BMRI5017-2026-S2C-OL-MS-0",
+   "name": "Assessment 2: Report and Extended Responses",
+   "description": "Written report",
+   "type": "Data analysis",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words + 1000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 20 Nov 2026 at 23:59"
+  },
+  {
+   "id": "BMRI5017-2026-S2C-OL-MS-1",
+   "name": "Assessment 1: Pseudo-Journal Article",
+   "description": "Written report",
+   "type": "Data analysis",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 9,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09 Due date : 06 Oct 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

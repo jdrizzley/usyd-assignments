@@ -1,0 +1,33 @@
+{
+ "code": "EMBA6000",
+ "name": "Executive MBA Primers",
+ "availability": "2026-S1CIMY-OL-CR",
+ "session": "S1CIMY",
+ "sessionLabel": "Intensive April - May, 2026",
+ "mode": "Online",
+ "location": "Castlereagh St, Sydney",
+ "censusDate": "2026-05-01",
+ "sourceUrl": "https://www.sydney.edu.au/units/EMBA6000/2026-S1CIMY-OL-CR",
+ "scrapedAt": "2026-09-13T20:42:22Z",
+ "assessments": [
+  {
+   "id": "EMBA6000-2026-S1CIMY-OL-CR-0",
+   "name": "Quiz",
+   "description": "End of module quiz",
+   "type": "Out-of-class quiz",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "End of Module quiz",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

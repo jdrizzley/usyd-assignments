@@ -1,0 +1,51 @@
+{
+ "code": "SOJU6901",
+ "name": "Social Justice Dissertation Part 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SOJU6901/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:49:48Z",
+ "assessments": [
+  {
+   "id": "SOJU6901-2026-S1C-SU-CC-0",
+   "name": "Research Proposal Presentation",
+   "description": "Presentation of research proposal drafts for feedback",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 9,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 min + 15-min discussion",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09"
+  },
+  {
+   "id": "SOJU6901-2026-S1C-SU-CC-1",
+   "name": "Research Proposal (written)",
+   "description": "Submission of a written research proposal",
+   "type": "Experimental design",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-05-30",
+   "length": "2,500 words (minimum)",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 18 May 2026 at 23:59 Closing date : 30 May 2026"
+  }
+ ],
+ "parseWarnings": []
+}

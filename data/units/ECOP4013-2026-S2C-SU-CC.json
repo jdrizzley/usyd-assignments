@@ -1,0 +1,33 @@
+{
+ "code": "ECOP4013",
+ "name": "Political Economy Honours Thesis 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ECOP4013/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:21:54Z",
+ "assessments": [
+  {
+   "id": "ECOP4013-2026-S2C-SU-CC-0",
+   "name": "Thesis preparation",
+   "description": "Research and writing towards thesis",
+   "type": "Portfolio or journal",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "n/a",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

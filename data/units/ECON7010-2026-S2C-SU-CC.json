@@ -1,0 +1,33 @@
+{
+ "code": "ECON7010",
+ "name": "Economics Research Dissertation A",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ECON7010/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:21:04Z",
+ "assessments": [
+  {
+   "id": "ECON7010-2026-S2C-SU-CC-0",
+   "name": "Dissertation proposal",
+   "description": "Dissertation proposal",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "ENVI4101",
+ "name": "Advanced Research in Environmental Studies",
+ "availability": "2026-S1CRA-BM-CC",
+ "session": "S1CRA",
+ "sessionLabel": "Semester 1a, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-13",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENVI4101/2026-S1CRA-BM-CC",
+ "scrapedAt": "2026-09-13T20:49:06Z",
+ "assessments": [
+  {
+   "id": "ENVI4101-2026-S1CRA-BM-CC-0",
+   "name": "Key concept presentation",
+   "description": "Topics will be allocated to students four weeks prior",
+   "type": "Presentation",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 4,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04"
+  },
+  {
+   "id": "ENVI4101-2026-S1CRA-BM-CC-1",
+   "name": "Key method essay",
+   "description": "Critical review of key method for honours thesis",
+   "type": "Portfolio or journal",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 5,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05"
+  }
+ ],
+ "parseWarnings": []
+}

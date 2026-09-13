@@ -1,0 +1,51 @@
+{
+ "code": "MGRK3693",
+ "name": "Cinema in Greece",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MGRK3693/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T21:51:48Z",
+ "assessments": [
+  {
+   "id": "MGRK3693-2026-S1C-ND-CC-0",
+   "name": "essay",
+   "description": "essay",
+   "type": "Written work",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-19",
+   "dueTime": "22:00",
+   "timeAssumed": false,
+   "closingDate": "2026-06-26",
+   "length": "4500wds",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 19 Jun 2026 at 22:00 Closing date : 26 Jun 2026"
+  },
+  {
+   "id": "MGRK3693-2026-S1C-ND-CC-1",
+   "name": "discussion boards",
+   "description": "n/a",
+   "type": "Out-of-class quiz",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "10:37",
+   "timeAssumed": false,
+   "closingDate": "2026-05-29",
+   "length": "1000wd equivalent.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 10:37 Closing date : 29 May 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "SCMU4611",
+ "name": "Dissertation Seminar",
+ "availability": "2026-S1C-ND-SC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SCMU4611/2026-S1C-ND-SC",
+ "scrapedAt": "2026-09-13T22:41:49Z",
+ "assessments": [
+  {
+   "id": "SCMU4611-2026-S1C-ND-SC-0",
+   "name": "Participation",
+   "description": "Satisfactory completion of all weekly tasks. See Canvas for details.",
+   "type": "Contribution",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-07",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Ongoing",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 07 Jun 2026 at 23:59"
+  },
+  {
+   "id": "SCMU4611-2026-S1C-ND-SC-1",
+   "name": "Short quiz",
+   "description": "Short quiz on material discussed in class",
+   "type": "Out-of-class quiz",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 2,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Canvas quiz with 3-5 questions",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": true,
+   "dueRaw": "Week 02 Due date : 08 Mar 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

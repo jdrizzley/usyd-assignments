@@ -1,0 +1,51 @@
+{
+ "code": "DESC9153",
+ "name": "Industry Placement",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DESC9153/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:15:35Z",
+ "assessments": [
+  {
+   "id": "DESC9153-2026-S2C-ND-CC-0",
+   "name": "Industry Placement",
+   "description": "Attendance and active participation in placement. Logbook diary of professional activities carried out on placement, signed off by placement supervisor",
+   "type": "Peer or expert observation or supervision",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "120 hours",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": true,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "DESC9153-2026-S2C-ND-CC-1",
+   "name": "Reflective report",
+   "description": "The production of a report of individual reflection and performance.",
+   "type": "Portfolio or journal",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-08",
+   "dueTime": "23:05",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 08 Nov 2026 at 23:05"
+  }
+ ],
+ "parseWarnings": []
+}

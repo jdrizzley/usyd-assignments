@@ -1,0 +1,51 @@
+{
+ "code": "DENT5122",
+ "name": "Oral Pathology Level 2A",
+ "availability": "2026-S1C-ND-WC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5122/2026-S1C-ND-WC",
+ "scrapedAt": "2026-09-13T20:11:25Z",
+ "assessments": [
+  {
+   "id": "DENT5122-2026-S1C-ND-WC-0",
+   "name": "written exam",
+   "description": "Integrated Clinical, Radiographic, and Histopathology Exam",
+   "type": "Written exam",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1.5 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "DENT5122-2026-S1C-ND-WC-1",
+   "name": "Microscope/Histopathology sessions",
+   "description": "Attendance and participation in Microscope/Histopathology sessions",
+   "type": "Attendance - accreditation or faculty requirement",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "Not applicable",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

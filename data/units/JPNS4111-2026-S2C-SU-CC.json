@@ -1,0 +1,33 @@
+{
+ "code": "JPNS4111",
+ "name": "Japanese Studies Honours Thesis 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/JPNS4111/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:24:46Z",
+ "assessments": [
+  {
+   "id": "JPNS4111-2026-S2C-SU-CC-0",
+   "name": "Japanese Honours Thesis",
+   "description": "Student will submit drafts and other work as agreed with supervisor.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

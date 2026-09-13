@@ -1,0 +1,33 @@
+{
+ "code": "EDSE3073",
+ "name": "Professional Experience A",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDSE3073/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:33:33Z",
+ "assessments": [
+  {
+   "id": "EDSE3073-2026-S2C-ND-CC-0",
+   "name": "Successful completion of Professional Experience",
+   "description": "placement",
+   "type": "Peer or expert observation or supervision",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 days",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

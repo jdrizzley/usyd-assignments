@@ -1,0 +1,51 @@
+{
+ "code": "PHYS5035",
+ "name": "Research Methodology and Project A",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PHYS5035/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:28:29Z",
+ "assessments": [
+  {
+   "id": "PHYS5035-2026-S1C-ND-CC-0",
+   "name": "Oral presentation",
+   "description": "Oral presentation",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": 12,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12"
+  },
+  {
+   "id": "PHYS5035-2026-S1C-ND-CC-1",
+   "name": "Research Report",
+   "description": "Research Report",
+   "type": "Written work",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-12-31",
+   "length": "20 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 23:59 Closing date : 31 Dec 2026"
+  }
+ ],
+ "parseWarnings": []
+}

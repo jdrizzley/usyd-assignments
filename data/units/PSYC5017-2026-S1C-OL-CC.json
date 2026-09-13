@@ -1,0 +1,33 @@
+{
+ "code": "PSYC5017",
+ "name": "Research Project in Applied Psychology B",
+ "availability": "2026-S1C-OL-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Online",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PSYC5017/2026-S1C-OL-CC",
+ "scrapedAt": "2026-09-13T22:35:04Z",
+ "assessments": [
+  {
+   "id": "PSYC5017-2026-S1C-OL-CC-0",
+   "name": "Thesis",
+   "description": "See Canvas for details.",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-07",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-28",
+   "length": "See Canvas for details.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "STUVAC Due date : 07 Jun 2026 at 23:59 Closing date : 28 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

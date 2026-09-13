@@ -1,0 +1,51 @@
+{
+ "code": "EDUP4085",
+ "name": "Professional Experiences 4 (Primary)",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUP4085/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:38:48Z",
+ "assessments": [
+  {
+   "id": "EDUP4085-2026-S1C-ND-CC-0",
+   "name": "Evidence of Learning/Evidence for Teaching",
+   "description": "please refer to Canvas for the Task 2 Description Sheet",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-19",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "875 words equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 19 Jun 2026 at 23:59"
+  },
+  {
+   "id": "EDUP4085-2026-S1C-ND-CC-1",
+   "name": "Assessing Teaching for Learning: Evidence Informed Teaching Cycle",
+   "description": "please refer to Canvas for the Task 1 Description Sheet",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "875 words equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 13 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

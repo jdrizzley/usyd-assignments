@@ -1,0 +1,51 @@
+{
+ "code": "VETS6306",
+ "name": "Avian, Reptilian and Wildlife Practice",
+ "availability": "2026-S1C-ND-CF",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camden, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/VETS6306/2026-S1C-ND-CF",
+ "scrapedAt": "2026-09-13T22:58:25Z",
+ "assessments": [
+  {
+   "id": "VETS6306-2026-S1C-ND-CF-0",
+   "name": "Final exam",
+   "description": "Case based, short answer, closed book",
+   "type": "Written exam",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1 hour",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "VETS6306-2026-S1C-ND-CF-1",
+   "name": "In-semester test",
+   "description": "Case based, short answer, closed book",
+   "type": "Written test",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 8,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1 hour",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08"
+  }
+ ],
+ "parseWarnings": []
+}

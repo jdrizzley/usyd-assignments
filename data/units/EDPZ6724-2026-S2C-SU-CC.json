@@ -1,0 +1,33 @@
+{
+ "code": "EDPZ6724",
+ "name": "Dissertation Part 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDPZ6724/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:32:46Z",
+ "assessments": [
+  {
+   "id": "EDPZ6724-2026-S2C-SU-CC-0",
+   "name": "Dissertation Part 1 work",
+   "description": "Variable",
+   "type": "Contribution",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "variable",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

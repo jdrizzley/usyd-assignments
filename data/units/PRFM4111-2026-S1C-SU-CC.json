@@ -1,0 +1,33 @@
+{
+ "code": "PRFM4111",
+ "name": "Honours Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PRFM4111/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:32:37Z",
+ "assessments": [
+  {
+   "id": "PRFM4111-2026-S1C-SU-CC-0",
+   "name": "Presentation of research proposal",
+   "description": "Each student will develop and present a research proposal to the disciplinary research seminar.",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 12,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Approximately 1500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12"
+  }
+ ],
+ "parseWarnings": []
+}

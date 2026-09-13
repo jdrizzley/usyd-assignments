@@ -1,0 +1,51 @@
+{
+ "code": "DESC9154",
+ "name": "Lighting Design Communication and Evaluation",
+ "availability": "2026-S2C-BM-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DESC9154/2026-S2C-BM-CC",
+ "scrapedAt": "2026-09-13T20:15:30Z",
+ "assessments": [
+  {
+   "id": "DESC9154-2026-S2C-BM-CC-0",
+   "name": "Interior Lighting Design",
+   "description": "Design, Analysis and Communication",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-09",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10xA3 page combined PDF 50MB or less",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 09 Sep 2026 at 23:59"
+  },
+  {
+   "id": "DESC9154-2026-S2C-BM-CC-1",
+   "name": "Exterior Lighting Design",
+   "description": "Design, Analysis and Communication",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-04",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10xA3 page combined PDF 50MB or less",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 04 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

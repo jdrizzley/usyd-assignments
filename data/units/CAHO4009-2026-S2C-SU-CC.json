@@ -1,0 +1,51 @@
+{
+ "code": "CAHO4009",
+ "name": "Contemporary Arts Honours Dissertation B",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CAHO4009/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T19:45:33Z",
+ "assessments": [
+  {
+   "id": "CAHO4009-2026-S2C-SU-CC-0",
+   "name": "Oral Assessment",
+   "description": "Project review",
+   "type": "Oral exam",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "CAHO4009-2026-S2C-SU-CC-1",
+   "name": "Honours Dissertation",
+   "description": "n/a",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 000words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

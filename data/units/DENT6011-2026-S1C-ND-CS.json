@@ -1,0 +1,51 @@
+{
+ "code": "DENT6011",
+ "name": "Dental Research Studies 2",
+ "availability": "2026-S1C-ND-CS",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Surry Hills, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT6011/2026-S1C-ND-CS",
+ "scrapedAt": "2026-09-13T20:13:28Z",
+ "assessments": [
+  {
+   "id": "DENT6011-2026-S1C-ND-CS-0",
+   "name": "DENT6011 research portfolio",
+   "description": "This contains completed literature review and DENT6011 research progress report.",
+   "type": "Portfolio or journal",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-12",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Please refer to the handbook on Canvas",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 12 Jun 2026 at 23:59"
+  },
+  {
+   "id": "DENT6011-2026-S1C-ND-CS-1",
+   "name": "Oral presentation",
+   "description": "Please refer to the DClinDent Research Handbook for details",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Various",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

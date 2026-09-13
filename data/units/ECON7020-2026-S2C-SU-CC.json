@@ -1,0 +1,51 @@
+{
+ "code": "ECON7020",
+ "name": "Economics Research Dissertation B",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ECON7020/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:21:04Z",
+ "assessments": [
+  {
+   "id": "ECON7020-2026-S2C-SU-CC-0",
+   "name": "Dissertation",
+   "description": "Dissertation",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 10,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Approx. 12,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10"
+  },
+  {
+   "id": "ECON7020-2026-S2C-SU-CC-1",
+   "name": "Oral assessment",
+   "description": "An oral assessment to verify the authenticity of the student's thesis.",
+   "type": "Oral exam",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

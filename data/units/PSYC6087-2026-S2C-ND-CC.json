@@ -1,0 +1,51 @@
+{
+ "code": "PSYC6087",
+ "name": "Advanced Models and Seminars",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PSYC6087/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T22:35:53Z",
+ "assessments": [
+  {
+   "id": "PSYC6087-2026-S2C-ND-CC-0",
+   "name": "Attachment Narrative & Reflective Letter",
+   "description": "3 part assessment; Attachment Timeline & Narrative Formulation, Reflective Letter to Client, and Reflection on Process.",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-11",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-09-30",
+   "length": "See Canvas for details.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 11 Sep 2026 at 23:59 Closing date : 30 Sep 2026"
+  },
+  {
+   "id": "PSYC6087-2026-S2C-ND-CC-1",
+   "name": "Family Therapy Assignment",
+   "description": "Theoretical and reflective exercise",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 10,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-27",
+   "length": "See Canvas for details",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10 Due date : 16 Oct 2026 at 23:59 Closing date : 27 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,33 @@
+{
+ "code": "HSTY4202",
+ "name": "History Honours Thesis 2",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/HSTY4202/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T21:10:22Z",
+ "assessments": [
+  {
+   "id": "HSTY4202-2026-S1C-SU-CC-0",
+   "name": "Submission of thesis",
+   "description": "Submission of thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 11,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Submission of thesis. 18000-20000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11"
+  }
+ ],
+ "parseWarnings": []
+}

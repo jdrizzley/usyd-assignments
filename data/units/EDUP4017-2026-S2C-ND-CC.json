@@ -1,0 +1,51 @@
+{
+ "code": "EDUP4017",
+ "name": "Professional Experiences Internship",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUP4017/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:38:22Z",
+ "assessments": [
+  {
+   "id": "EDUP4017-2026-S2C-ND-CC-0",
+   "name": "Internship placement final report",
+   "description": "Successful completion of the internship report",
+   "type": "Peer or expert observation or supervision",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "n/a",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "EDUP4017-2026-S2C-ND-CC-1",
+   "name": "AfGT",
+   "description": "Complete Elements 1-4 of the AfGT (the TPA)",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "DESC9166",
+ "name": "Photometry and Colorimetry",
+ "availability": "2026-S1C-BM-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DESC9166/2026-S1C-BM-CC",
+ "scrapedAt": "2026-09-13T20:15:37Z",
+ "assessments": [
+  {
+   "id": "DESC9166-2026-S1C-BM-CC-0",
+   "name": "Short Video",
+   "description": "Video presentation and written handout",
+   "type": "Presentation",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-16",
+   "dueTime": "18:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Video: 4-6 minutes, Handout: 1 page",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 16 May 2026 at 18:00"
+  },
+  {
+   "id": "DESC9166-2026-S1C-BM-CC-1",
+   "name": "Applied calculations",
+   "description": "Calculations & report",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-22",
+   "dueTime": "18:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 22 May 2026 at 18:00"
+  }
+ ],
+ "parseWarnings": []
+}

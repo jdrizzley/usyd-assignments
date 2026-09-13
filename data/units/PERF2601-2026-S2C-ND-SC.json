@@ -1,0 +1,33 @@
+{
+ "code": "PERF2601",
+ "name": "Music Project 2D",
+ "availability": "2026-S2C-ND-SC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PERF2601/2026-S2C-ND-SC",
+ "scrapedAt": "2026-09-13T22:16:58Z",
+ "assessments": [
+  {
+   "id": "PERF2601-2026-S2C-ND-SC-0",
+   "name": "Not applicable (Shell unit)",
+   "description": "No assessment in shell unit",
+   "type": "In-person practical, skills, or performance task or test",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Not applicable",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

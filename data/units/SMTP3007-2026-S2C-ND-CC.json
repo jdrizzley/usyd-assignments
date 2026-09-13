@@ -1,0 +1,33 @@
+{
+ "code": "SMTP3007",
+ "name": "Observational Elective",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SMTP3007/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T22:49:01Z",
+ "assessments": [
+  {
+   "id": "SMTP3007-2026-S2C-ND-CC-0",
+   "name": "Observational placement - post placement report",
+   "description": "written reflection",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-13",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": "2026-11-13",
+   "length": "1500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 13 Nov 2026 at 23:00 Closing date : 13 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

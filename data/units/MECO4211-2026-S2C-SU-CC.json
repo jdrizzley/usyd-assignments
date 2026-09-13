@@ -1,0 +1,33 @@
+{
+ "code": "MECO4211",
+ "name": "Digital Cultures Honours Thesis 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MECO4211/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:49:28Z",
+ "assessments": [
+  {
+   "id": "MECO4211-2026-S2C-SU-CC-0",
+   "name": "Draft chapters",
+   "description": "n/a",
+   "type": "Dissertation or thesis",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

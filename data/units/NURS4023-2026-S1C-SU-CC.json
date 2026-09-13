@@ -1,0 +1,33 @@
+{
+ "code": "NURS4023",
+ "name": "Honours Thesis C",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/NURS4023/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:02:30Z",
+ "assessments": [
+  {
+   "id": "NURS4023-2026-S1C-SU-CC-0",
+   "name": "Honours thesis",
+   "description": "Honours thesis for NURS 4022 and 4023 submitted in this unit",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "up to 15,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  }
+ ],
+ "parseWarnings": []
+}

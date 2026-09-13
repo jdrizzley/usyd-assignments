@@ -1,0 +1,51 @@
+{
+ "code": "DENT5024",
+ "name": "Implant Clinical Procedures 2",
+ "availability": "2026-S2C-ND-WC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5024/2026-S2C-ND-WC",
+ "scrapedAt": "2026-09-13T20:10:30Z",
+ "assessments": [
+  {
+   "id": "DENT5024-2026-S2C-ND-WC-0",
+   "name": "Oral examination",
+   "description": "Viva voce",
+   "type": "Oral test",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-30",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "30 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 30 Oct 2026 at 09:00"
+  },
+  {
+   "id": "DENT5024-2026-S2C-ND-WC-1",
+   "name": "Logbook",
+   "description": "Submit clinical work documentation",
+   "type": "Interactive oral",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-30",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 Minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 30 Oct 2026 at 09:00"
+  }
+ ],
+ "parseWarnings": []
+}

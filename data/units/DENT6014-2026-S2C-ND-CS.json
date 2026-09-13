@@ -1,0 +1,51 @@
+{
+ "code": "DENT6014",
+ "name": "Dental Research Studies 5",
+ "availability": "2026-S2C-ND-CS",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Surry Hills, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT6014/2026-S2C-ND-CS",
+ "scrapedAt": "2026-09-13T20:13:34Z",
+ "assessments": [
+  {
+   "id": "DENT6014-2026-S2C-ND-CS-0",
+   "name": "Research treatise",
+   "description": "Preparation and submission of treatise for examination, amend treatise addressing examiners' feedback, if required",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-28",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Honours/master equivalent treatise",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Mid-semester break Due date : 28 Sep 2026 at 23:59"
+  },
+  {
+   "id": "DENT6014-2026-S2C-ND-CS-1",
+   "name": "Oral presentation",
+   "description": "Oral presentation on research project progress",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Various",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

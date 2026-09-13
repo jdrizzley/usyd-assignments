@@ -1,0 +1,51 @@
+{
+ "code": "SOJU6901",
+ "name": "Social Justice Dissertation Part 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SOJU6901/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T22:49:50Z",
+ "assessments": [
+  {
+   "id": "SOJU6901-2026-S2C-SU-CC-0",
+   "name": "Research Proposal (presentation)",
+   "description": "Present research proposal drafts for feedback - refer to 'Assessment summary' section below for details",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 9,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 min + 15-min discussion",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09"
+  },
+  {
+   "id": "SOJU6901-2026-S2C-SU-CC-1",
+   "name": "Research Proposal (written)",
+   "description": "Submit a written research proposal - refer to 'Assessment summary' section below for details",
+   "type": "Experimental design",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-02",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2,500 words (minimum)",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 02 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

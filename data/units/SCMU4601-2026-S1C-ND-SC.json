@@ -1,0 +1,51 @@
+{
+ "code": "SCMU4601",
+ "name": "Music Honours Portfolio 1",
+ "availability": "2026-S1C-ND-SC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SCMU4601/2026-S1C-ND-SC",
+ "scrapedAt": "2026-09-13T22:41:45Z",
+ "assessments": [
+  {
+   "id": "SCMU4601-2026-S1C-ND-SC-0",
+   "name": "Honours portfolio",
+   "description": "Preparation of Honours portfolio and oral defence, including engagement in all learning activities See canvas for details.",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "See Canvas for details",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  },
+  {
+   "id": "SCMU4601-2026-S1C-ND-SC-1",
+   "name": "Research integrity quiz 1",
+   "description": "Research integrity quiz 1",
+   "type": "Out-of-class quiz",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10mins",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03 Due date : 13 Mar 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "DENT6451",
+ "name": "Clinical Endodontics V",
+ "availability": "2026-S1C-ND-CS",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Surry Hills, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT6451/2026-S1C-ND-CS",
+ "scrapedAt": "2026-09-13T20:14:43Z",
+ "assessments": [
+  {
+   "id": "DENT6451-2026-S1C-ND-CS-0",
+   "name": "Oral viva voce + case presentations",
+   "description": "Various short answer questioned based on content covered this semester + case presentations",
+   "type": "Oral exam",
+   "weight": 70,
+   "weightRaw": "70%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1.5 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "DENT6451-2026-S1C-ND-CS-1",
+   "name": "Small test",
+   "description": "3 essay questions over 3 hours. Topic will be based on content covered.",
+   "type": "Written test",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": 5,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2.5 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05"
+  }
+ ],
+ "parseWarnings": []
+}

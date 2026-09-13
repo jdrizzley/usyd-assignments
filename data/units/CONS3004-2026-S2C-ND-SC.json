@@ -1,0 +1,33 @@
+{
+ "code": "CONS3004",
+ "name": "Conservatorium Exchange",
+ "availability": "2026-S2C-ND-SC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CONS3004/2026-S2C-ND-SC",
+ "scrapedAt": "2026-09-13T20:02:57Z",
+ "assessments": [
+  {
+   "id": "CONS3004-2026-S2C-ND-SC-0",
+   "name": "Shell unit",
+   "description": "complete the requirements of the degree through this shell enrolment unit.",
+   "type": "Contribution",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

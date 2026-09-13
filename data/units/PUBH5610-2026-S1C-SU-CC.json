@@ -1,0 +1,51 @@
+{
+ "code": "PUBH5610",
+ "name": "Public Health Research Project",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PUBH5610/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:37:27Z",
+ "assessments": [
+  {
+   "id": "PUBH5610-2026-S1C-SU-CC-0",
+   "name": "Research project proposal",
+   "description": "Written project proposal",
+   "type": "Written work",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-22",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-04-11",
+   "length": "1,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 22 Mar 2026 at 23:59 Closing date : 11 Apr 2026"
+  },
+  {
+   "id": "PUBH5610-2026-S1C-SU-CC-1",
+   "name": "Final research report",
+   "description": "Manuscript for publication (preferred) or Dissertation/report",
+   "type": "Dissertation or thesis",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-31",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-20",
+   "length": "Manuscript; or report 10-15,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 31 May 2026 at 23:59 Closing date : 20 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "CIVL6665",
+ "name": "Advanced Water Resources Engineering",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CIVL6665/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T19:55:20Z",
+ "assessments": [
+  {
+   "id": "CIVL6665-2026-S2C-ND-CC-0",
+   "name": "Presentation (of assignment progress)",
+   "description": "Secure Q&A following presentation of progress through the assigned project (in person)",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-14",
+   "dueTime": "17:00",
+   "timeAssumed": false,
+   "closingDate": "2026-09-14",
+   "length": "Week 1 to 7",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 14 Sep 2026 at 17:00 Closing date : 14 Sep 2026"
+  },
+  {
+   "id": "CIVL6665-2026-S2C-ND-CC-1",
+   "name": "Assignment (final)",
+   "description": "Written report, formatting, referencing, analyses, calculations",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-02",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-02",
+   "length": "Week 1 to 13",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 02 Nov 2026 at 23:59 Closing date : 02 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

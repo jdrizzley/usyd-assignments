@@ -1,0 +1,51 @@
+{
+ "code": "DENT5101",
+ "name": "Foundations for Population Oral Health",
+ "availability": "2026-S1C-ND-WC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5101/2026-S1C-ND-WC",
+ "scrapedAt": "2026-09-13T20:11:12Z",
+ "assessments": [
+  {
+   "id": "DENT5101-2026-S1C-ND-WC-0",
+   "name": "Critical Review of a Policy Document",
+   "description": "This assignment is for you to write a critical review and analysis of a program or policy.",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 20 Apr 2026 at 23:59"
+  },
+  {
+   "id": "DENT5101-2026-S1C-ND-WC-1",
+   "name": "Project Development",
+   "description": "Project plan: identiify problem, aims, methods, budget and evaluation plan",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-22",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 22 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

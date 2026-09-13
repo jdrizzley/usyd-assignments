@@ -1,0 +1,33 @@
+{
+ "code": "EDMT6533",
+ "name": "Programming Across the K-6 Curriculum",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT6533/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:29:04Z",
+ "assessments": [
+  {
+   "id": "EDMT6533-2026-S1C-ND-CC-0",
+   "name": "Developing an integrated unit of work.",
+   "description": "Develop an integrated unit of work with supporting ICT resources.",
+   "type": "Written work",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-31",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-30",
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 31 Mar 2026 at 23:59 Closing date : 30 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

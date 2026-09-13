@@ -1,0 +1,51 @@
+{
+ "code": "GCST5907",
+ "name": "Cultural Studies Internship Project",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GCST5907/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:58:42Z",
+ "assessments": [
+  {
+   "id": "GCST5907-2026-S1C-ND-CC-0",
+   "name": "Research essay",
+   "description": "Research essay\nPlease see description below",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "4000wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 20 Jun 2026 at 23:59"
+  },
+  {
+   "id": "GCST5907-2026-S1C-ND-CC-1",
+   "name": "Written proposal or Oral Presentation",
+   "description": "Written proposal or Oral Presentation",
+   "type": "Experimental design",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 3,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1000wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03"
+  }
+ ],
+ "parseWarnings": []
+}

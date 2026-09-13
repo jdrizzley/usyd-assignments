@@ -1,0 +1,51 @@
+{
+ "code": "NTDT5612",
+ "name": "Dietetics Training Placement",
+ "availability": "2026-S1CNDP-PP-CC",
+ "session": "S1CNDP",
+ "sessionLabel": "Nutrition and Dietetics Placement Session 1, 2026",
+ "mode": "Professional practice",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-20",
+ "sourceUrl": "https://www.sydney.edu.au/units/NTDT5612/2026-S1CNDP-PP-CC",
+ "scrapedAt": "2026-09-13T22:01:26Z",
+ "assessments": [
+  {
+   "id": "NTDT5612-2026-S1CNDP-PP-CC-0",
+   "name": "Assessment 2: Placement competence",
+   "description": "Competency attainment",
+   "type": "Peer or expert observation or supervision",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 weeks",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  },
+  {
+   "id": "NTDT5612-2026-S1CNDP-PP-CC-1",
+   "name": "Assessment 1: Yarning with Aboriginal and Torres Strait Islander peoples",
+   "description": "1:1 counselling session with Aboriginal and Torres Strait Islander client",
+   "type": "In-person practical or creative task",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-19",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 min",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "STUVAC Due date : 19 Jun 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

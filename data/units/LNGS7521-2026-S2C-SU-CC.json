@@ -1,0 +1,33 @@
+{
+ "code": "LNGS7521",
+ "name": "Essay 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/LNGS7521/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:39:50Z",
+ "assessments": [
+  {
+   "id": "LNGS7521-2026-S2C-SU-CC-0",
+   "name": "Final report",
+   "description": "Project as determined in consultation with supervisor",
+   "type": "Research analysis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5000-6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

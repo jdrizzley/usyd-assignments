@@ -1,0 +1,51 @@
+{
+ "code": "DENT5222",
+ "name": "Oral Pathology Level 2B",
+ "availability": "2026-S2C-ND-WC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5222/2026-S2C-ND-WC",
+ "scrapedAt": "2026-09-13T20:12:25Z",
+ "assessments": [
+  {
+   "id": "DENT5222-2026-S2C-ND-WC-0",
+   "name": "Written Exam- Histopathology",
+   "description": "Clinical Histopathology Slide Examination",
+   "type": "In-person practical, skills, or performance task or test",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "90 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "DENT5222-2026-S2C-ND-WC-1",
+   "name": "Microscope/Histopathology sessions",
+   "description": "Attendance and participation in Microscope/Histopathology sessions",
+   "type": "Contribution",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Ongoing throughout semester.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

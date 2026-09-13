@@ -1,0 +1,51 @@
+{
+ "code": "EDUF4302",
+ "name": "Research Skills in Education",
+ "availability": "2026-S1CRA-ND-CC",
+ "session": "S1CRA",
+ "sessionLabel": "Semester 1a, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-13",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUF4302/2026-S1CRA-ND-CC",
+ "scrapedAt": "2026-09-13T20:37:04Z",
+ "assessments": [
+  {
+   "id": "EDUF4302-2026-S1CRA-ND-CC-0",
+   "name": "Presentation",
+   "description": "Presentation",
+   "type": "Presentation",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-09",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000wd equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03 Due date : 09 Mar 2026 at 23:59"
+  },
+  {
+   "id": "EDUF4302-2026-S1CRA-ND-CC-1",
+   "name": "Research Proposal",
+   "description": "Research Proposal",
+   "type": "Written work",
+   "weight": 70,
+   "weightRaw": "70%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-02",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "4000wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 02 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

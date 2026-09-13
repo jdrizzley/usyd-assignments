@@ -1,0 +1,51 @@
+{
+ "code": "DENT5103",
+ "name": "Oral Disease Prevention and Health Promotion",
+ "availability": "2026-S2C-ND-WC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5103/2026-S2C-ND-WC",
+ "scrapedAt": "2026-09-13T20:11:17Z",
+ "assessments": [
+  {
+   "id": "DENT5103-2026-S2C-ND-WC-0",
+   "name": "Critical review of evidence - Blog Article",
+   "description": "Providing a critical review of a scholarly paper addressing prevention and writing it up as a blog article.",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 18 Sep 2026 at 23:59"
+  },
+  {
+   "id": "DENT5103-2026-S2C-ND-WC-1",
+   "name": "Health Promotion Program Planning and Development",
+   "description": "Development of an oral health promotion strategy/program for a given scenario.",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-30",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000-2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 30 Oct 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

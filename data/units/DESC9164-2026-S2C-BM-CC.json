@@ -1,0 +1,51 @@
+{
+ "code": "DESC9164",
+ "name": "Lighting Technologies",
+ "availability": "2026-S2C-BM-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DESC9164/2026-S2C-BM-CC",
+ "scrapedAt": "2026-09-13T20:15:34Z",
+ "assessments": [
+  {
+   "id": "DESC9164-2026-S2C-BM-CC-0",
+   "name": "Calculations and design proposal",
+   "description": "Calculations; Proposal",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-25",
+   "dueTime": "18:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5 A4 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 25 Sep 2026 at 18:00"
+  },
+  {
+   "id": "DESC9164-2026-S2C-BM-CC-1",
+   "name": "Evidence-Based Design",
+   "description": "Evidence-based design and in-class presentation",
+   "type": "Practical skill",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-23",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3 A4 pages; 10 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 23 Oct 2026 at 09:00"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "CSYS5061",
+ "name": "Complex Systems Research Project B",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CSYS5061/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T20:07:54Z",
+ "assessments": [
+  {
+   "id": "CSYS5061-2026-S2C-SU-CC-0",
+   "name": "Report",
+   "description": "Report on what was achieved during the project",
+   "type": "Peer or expert observation or supervision",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-26",
+   "length": "3000-3500 words",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 23:59 Closing date : 26 Nov 2026"
+  },
+  {
+   "id": "CSYS5061-2026-S2C-SU-CC-1",
+   "name": "Presentation",
+   "description": "Presentation of what was achieved during the project",
+   "type": "Interactive oral",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-16",
+   "length": "20-25 minutes",
+   "aiPolicy": "AI limited - refer to Canvas",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59 Closing date : 16 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

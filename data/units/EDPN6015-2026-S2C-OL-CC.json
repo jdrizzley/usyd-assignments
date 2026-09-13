@@ -1,0 +1,51 @@
+{
+ "code": "EDPN6015",
+ "name": "Elite Athlete Development",
+ "availability": "2026-S2C-OL-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Online",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDPN6015/2026-S2C-OL-CC",
+ "scrapedAt": "2026-09-13T20:32:06Z",
+ "assessments": [
+  {
+   "id": "EDPN6015-2026-S2C-OL-CC-0",
+   "name": "The Road to Expertise Report",
+   "description": "This assignment has a performance profile and an action plan with goals",
+   "type": "Creative work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-25",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000wds",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 25 Sep 2026 at 23:59"
+  },
+  {
+   "id": "EDPN6015-2026-S2C-OL-CC-1",
+   "name": "Case study and presentation",
+   "description": "case study & Q&A presentation",
+   "type": "Presentation",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-23",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words plus 10 min Q&A presentation",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 23 Oct 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

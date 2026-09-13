@@ -1,0 +1,33 @@
+{
+ "code": "FMBA5009",
+ "name": "Business Sustainability Project",
+ "availability": "2026-S2CIJL-BM-CR",
+ "session": "S2CIJL",
+ "sessionLabel": "Intensive June - July, 2026",
+ "mode": "Block mode",
+ "location": "Castlereagh St, Sydney",
+ "censusDate": "2026-07-03",
+ "sourceUrl": "https://www.sydney.edu.au/units/FMBA5009/2026-S2CIJL-BM-CR",
+ "scrapedAt": "2026-09-13T20:55:39Z",
+ "assessments": [
+  {
+   "id": "FMBA5009-2026-S2CIJL-BM-CR-0",
+   "name": "Written report",
+   "description": "Report",
+   "type": "Case studies",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 5,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-09",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": "2026-08-23",
+   "length": "-",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05 Due date : 09 Aug 2026 at 23:00 Closing date : 23 Aug 2026"
+  }
+ ],
+ "parseWarnings": []
+}

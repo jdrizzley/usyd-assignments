@@ -1,0 +1,51 @@
+{
+ "code": "OPSC5037",
+ "name": "Dissertation Part A",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/OPSC5037/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T22:13:45Z",
+ "assessments": [
+  {
+   "id": "OPSC5037-2026-S1C-SU-CC-0",
+   "name": "Research Plan",
+   "description": "Detailed project plan",
+   "type": "Dissertation or thesis",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-22",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "500-1000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 22 Mar 2026 at 23:59"
+  },
+  {
+   "id": "OPSC5037-2026-S1C-SU-CC-1",
+   "name": "Literature Review",
+   "description": "Literature review",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-26",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2,000 – 3,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 26 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

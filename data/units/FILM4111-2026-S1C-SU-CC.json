@@ -1,0 +1,33 @@
+{
+ "code": "FILM4111",
+ "name": "Film Studies Honours Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/FILM4111/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T20:53:49Z",
+ "assessments": [
+  {
+   "id": "FILM4111-2026-S1C-SU-CC-0",
+   "name": "Thesis proposal",
+   "description": "Two page thesis proposal, plus annotated bibliography and filmography.",
+   "type": "Experimental design",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2 pages plus bibliography, etc",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 20 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

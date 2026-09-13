@@ -1,0 +1,51 @@
+{
+ "code": "GCST6925",
+ "name": "Cultural Research Project",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GCST6925/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:59:04Z",
+ "assessments": [
+  {
+   "id": "GCST6925-2026-S2C-ND-CC-0",
+   "name": "Q+A after presentation Oral exam",
+   "description": "Students will be assessed on ability to answer questions presented to them about their long essay project.",
+   "type": "Interactive oral",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 mins/1000wd equivalent",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "GCST6925-2026-S2C-ND-CC-1",
+   "name": "Long essay",
+   "description": "The independent supervised long essay on a topic of your choice gives you the opportunity to demonstrate your ability to apply concepts, theories and approaches learned in the Master of Cultural Studies to support an argument about an issue in the field.",
+   "type": "Written work",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5000wd",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

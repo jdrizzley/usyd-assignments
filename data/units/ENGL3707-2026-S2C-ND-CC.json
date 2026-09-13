@@ -1,0 +1,51 @@
+{
+ "code": "ENGL3707",
+ "name": "Text, Action and Ideology",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL3707/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:44:59Z",
+ "assessments": [
+  {
+   "id": "ENGL3707-2026-S2C-ND-CC-0",
+   "name": "Take-home essay",
+   "description": "Long Answer / Essay",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3500wds",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 18 Nov 2026 at 23:59"
+  },
+  {
+   "id": "ENGL3707-2026-S2C-ND-CC-1",
+   "name": "Essay",
+   "description": "Long Answer / Essay",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-10-02",
+   "length": "2500wds",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 18 Sep 2026 at 23:59 Closing date : 02 Oct 2026"
+  }
+ ],
+ "parseWarnings": []
+}

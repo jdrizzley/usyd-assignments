@@ -1,0 +1,33 @@
+{
+ "code": "ENGL4115",
+ "name": "Approaches to Global English Literatures",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL4115/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:45:23Z",
+ "assessments": [
+  {
+   "id": "ENGL4115-2026-S1C-ND-CC-0",
+   "name": "Final Paper",
+   "description": "Research Paper OR Conference Paper (see Honours handbook)",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "6000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

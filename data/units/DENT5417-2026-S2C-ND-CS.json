@@ -1,0 +1,33 @@
+{
+ "code": "DENT5417",
+ "name": "Advanced Implant Management 3B",
+ "availability": "2026-S2C-ND-CS",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Surry Hills, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5417/2026-S2C-ND-CS",
+ "scrapedAt": "2026-09-13T20:13:20Z",
+ "assessments": [
+  {
+   "id": "DENT5417-2026-S2C-ND-CS-0",
+   "name": "Final oral exam",
+   "description": "Oral examination",
+   "type": "Oral exam",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1.5 hours",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  }
+ ],
+ "parseWarnings": []
+}

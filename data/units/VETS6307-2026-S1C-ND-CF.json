@@ -1,0 +1,51 @@
+{
+ "code": "VETS6307",
+ "name": "Research and Enquiry 3A",
+ "availability": "2026-S1C-ND-CF",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camden, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/VETS6307/2026-S1C-ND-CF",
+ "scrapedAt": "2026-09-13T22:58:26Z",
+ "assessments": [
+  {
+   "id": "VETS6307-2026-S1C-ND-CF-0",
+   "name": "Submission of Project Plan",
+   "description": "Students submit detailed Project Plan with milestones and timeline of activities",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-22",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-04-05",
+   "length": "1500 words max",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 22 Mar 2026 at 23:59 Closing date : 05 Apr 2026"
+  },
+  {
+   "id": "VETS6307-2026-S1C-ND-CF-1",
+   "name": "Progress Report",
+   "description": "A Progress Report which outlines progress to the expert advisor, including Introduction, Material and Methods, Progress and Problems and References",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-24",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-07",
+   "length": "2500 words max",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 24 May 2026 at 23:59 Closing date : 07 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

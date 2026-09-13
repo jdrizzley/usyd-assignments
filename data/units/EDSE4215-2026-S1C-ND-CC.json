@@ -1,0 +1,51 @@
+{
+ "code": "EDSE4215",
+ "name": "Teaching Drama 3",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDSE4215/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T20:35:29Z",
+ "assessments": [
+  {
+   "id": "EDSE4215-2026-S1C-ND-CC-0",
+   "name": "Essay on Individual Project Presentations",
+   "description": "Essay on Individual Project Presentations",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2250 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03 Due date : 13 Mar 2026 at 23:59"
+  },
+  {
+   "id": "EDSE4215-2026-S1C-ND-CC-1",
+   "name": "Reflective essay and lesson plans",
+   "description": "Reflective essay and lesson plans",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-03",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2250 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 03 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

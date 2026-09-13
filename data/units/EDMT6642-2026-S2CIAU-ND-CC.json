@@ -1,0 +1,51 @@
+{
+ "code": "EDMT6642",
+ "name": "The Transition to Teaching",
+ "availability": "2026-S2CIAU-ND-CC",
+ "session": "S2CIAU",
+ "sessionLabel": "Intensive July - August, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-07",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT6642/2026-S2CIAU-ND-CC",
+ "scrapedAt": "2026-09-13T20:29:56Z",
+ "assessments": [
+  {
+   "id": "EDMT6642-2026-S2CIAU-ND-CC-0",
+   "name": "Critical Reflective Narrative",
+   "description": "Deepen and extend understanding of the transition to teaching.",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 2,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-10",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 02 Due date : 10 Aug 2026 at 23:59"
+  },
+  {
+   "id": "EDMT6642-2026-S2CIAU-ND-CC-1",
+   "name": "Portfolio",
+   "description": "Portfolio",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-15",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 15 Sep 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "CSYS5050",
+ "name": "Complex Systems Capstone Project A",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CSYS5050/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T20:07:46Z",
+ "assessments": [
+  {
+   "id": "CSYS5050-2026-S1C-SU-CC-0",
+   "name": "Report",
+   "description": "Report on what was achieved during the project",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-18",
+   "length": "3000-3500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 08 Jun 2026 at 23:59 Closing date : 18 Jun 2026"
+  },
+  {
+   "id": "CSYS5050-2026-S1C-SU-CC-1",
+   "name": "Presentation",
+   "description": "Presentation of what was achieved during the project",
+   "type": "Presentation",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-06-08",
+   "length": "20-25 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 23:59 Closing date : 08 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
+}

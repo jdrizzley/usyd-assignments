@@ -1,0 +1,33 @@
+{
+ "code": "SDDM5328",
+ "name": "Electives 1",
+ "availability": "2026-S2C-ND-WC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/SDDM5328/2026-S2C-ND-WC",
+ "scrapedAt": "2026-09-13T22:44:47Z",
+ "assessments": [
+  {
+   "id": "SDDM5328-2026-S2C-ND-WC-0",
+   "name": "Attendance",
+   "description": "Participation in the selected elective activity",
+   "type": "Attendance - accreditation or faculty requirement",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Refer to the Handbook for details",
+   "aiPolicy": "Not applicable",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,33 @@
+{
+ "code": "GLAM6901",
+ "name": "Dissertation Part 1",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GLAM6901/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:00:56Z",
+ "assessments": [
+  {
+   "id": "GLAM6901-2026-S2C-SU-CC-0",
+   "name": "Supervised thesis",
+   "description": "A completed research proposal together with research and writing contributing to a dissertation of 12,000 words, to be completed in Dissertation Part 2",
+   "type": "Dissertation or thesis",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "As agreed with supervisor",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Progressive"
+  }
+ ],
+ "parseWarnings": []
+}

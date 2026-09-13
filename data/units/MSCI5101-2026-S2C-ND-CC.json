@@ -1,0 +1,51 @@
+{
+ "code": "MSCI5101",
+ "name": "Mathematical Sciences Project A",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MSCI5101/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T21:57:01Z",
+ "assessments": [
+  {
+   "id": "MSCI5101-2026-S2C-ND-CC-0",
+   "name": "Thesis",
+   "description": "Written thesis.",
+   "type": "Dissertation or thesis",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Thesis of 40 to 60 pages.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "MSCI5101-2026-S2C-ND-CC-1",
+   "name": "Presentation",
+   "description": "A presentation to class about thesis work.",
+   "type": "Presentation",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "A 20 minutes presentation.",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

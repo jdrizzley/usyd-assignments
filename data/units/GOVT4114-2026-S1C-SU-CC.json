@@ -1,0 +1,33 @@
+{
+ "code": "GOVT4114",
+ "name": "Govt and Int Relations Honours Thesis 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GOVT4114/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T21:03:24Z",
+ "assessments": [
+  {
+   "id": "GOVT4114-2026-S1C-SU-CC-0",
+   "name": "Thesis preparation",
+   "description": "Research and writing towards thesis",
+   "type": "Portfolio or journal",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "n/a",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

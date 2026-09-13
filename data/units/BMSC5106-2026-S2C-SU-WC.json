@@ -1,0 +1,51 @@
+{
+ "code": "BMSC5106",
+ "name": "Biomedical Research Project A",
+ "availability": "2026-S2C-SU-WC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/BMSC5106/2026-S2C-SU-WC",
+ "scrapedAt": "2026-09-13T19:37:39Z",
+ "assessments": [
+  {
+   "id": "BMSC5106-2026-S2C-SU-WC-0",
+   "name": "Thesis defence",
+   "description": "Thesis defence (oral presentation), further information provided in Canvas",
+   "type": "Presentation",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-27",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20min",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 27 Nov 2026 at 09:00"
+  },
+  {
+   "id": "BMSC5106-2026-S2C-SU-WC-1",
+   "name": "Thesis",
+   "description": "See Canvas for further information.",
+   "type": "Dissertation or thesis",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 09:00"
+  }
+ ],
+ "parseWarnings": []
+}

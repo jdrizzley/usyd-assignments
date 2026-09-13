@@ -1,0 +1,51 @@
+{
+ "code": "DENT5022",
+ "name": "Implant Treatment Planning 2",
+ "availability": "2026-S1C-ND-WC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Westmead, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DENT5022/2026-S1C-ND-WC",
+ "scrapedAt": "2026-09-13T20:10:26Z",
+ "assessments": [
+  {
+   "id": "DENT5022-2026-S1C-ND-WC-0",
+   "name": "Assignment",
+   "description": "Assignment",
+   "type": "Written work",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-25",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "TBA",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 25 May 2026 at 09:00"
+  },
+  {
+   "id": "DENT5022-2026-S1C-ND-WC-1",
+   "name": "Assignment presentation",
+   "description": "presentation",
+   "type": "Presentation",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-25",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "tba",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 25 May 2026 at 09:00"
+  }
+ ],
+ "parseWarnings": []
+}

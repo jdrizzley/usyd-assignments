@@ -1,0 +1,51 @@
+{
+ "code": "MGRK3605",
+ "name": "Greek Modernity and its Others",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MGRK3605/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T21:51:44Z",
+ "assessments": [
+  {
+   "id": "MGRK3605-2026-S2C-ND-CC-0",
+   "name": "Essay - Take home assignment",
+   "description": "Essay and short answers",
+   "type": "Written work",
+   "weight": 70,
+   "weightRaw": "70%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-13",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": "2026-11-20",
+   "length": "4,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 13 Nov 2026 at 23:00 Closing date : 20 Nov 2026"
+  },
+  {
+   "id": "MGRK3605-2026-S2C-ND-CC-1",
+   "name": "Presentation",
+   "description": "presentation in class",
+   "type": "Interactive oral",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-06",
+   "dueTime": "07:50",
+   "timeAssumed": false,
+   "closingDate": "2026-11-06",
+   "length": "20 min (2000 word equivalent)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks Due date : 06 Nov 2026 at 07:50 Closing date : 06 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

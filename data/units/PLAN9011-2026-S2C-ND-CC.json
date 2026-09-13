@@ -1,0 +1,51 @@
+{
+ "code": "PLAN9011",
+ "name": "Planning Dissertation 2",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/PLAN9011/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T22:28:48Z",
+ "assessments": [
+  {
+   "id": "PLAN9011-2026-S2C-ND-CC-0",
+   "name": "Dissertation or Thesis",
+   "description": "A written and designed dissertation or thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "25000 words + maps, tables, figures etc",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 23:59"
+  },
+  {
+   "id": "PLAN9011-2026-S2C-ND-CC-1",
+   "name": "Oral Examination",
+   "description": "The assessment task includes a 10 minute oral examination",
+   "type": "Oral exam",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-02",
+   "dueTime": "15:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 02 Nov 2026 at 15:00"
+  }
+ ],
+ "parseWarnings": []
+}

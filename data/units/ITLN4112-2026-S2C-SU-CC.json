@@ -1,0 +1,51 @@
+{
+ "code": "ITLN4112",
+ "name": "Italian Studies Honours Thesis 2",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ITLN4112/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-13T21:19:47Z",
+ "assessments": [
+  {
+   "id": "ITLN4112-2026-S2C-SU-CC-0",
+   "name": "Oral Assessment",
+   "description": "1x15 min Oral Assessment [In Class - secure] Q&A\nfollowing presentation, submission, or placement\n(Pass/Fail)",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "ITLN4112-2026-S2C-SU-CC-1",
+   "name": "Italian Studies thesis",
+   "description": "Non-HDR thesis",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1x18000-20000wd thesis",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

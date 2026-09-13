@@ -1,0 +1,51 @@
+{
+ "code": "EDUF3037",
+ "name": "Creative Ecologies: Pedagogies and Praxis",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUF3037/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T20:36:34Z",
+ "assessments": [
+  {
+   "id": "EDUF3037-2026-S2C-ND-CC-0",
+   "name": "Critical analysis of creativity and teacher artistry",
+   "description": "Submitted work – Assignment",
+   "type": "Research analysis",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 18 Sep 2026 at 23:59"
+  },
+  {
+   "id": "EDUF3037-2026-S2C-ND-CC-1",
+   "name": "Creative Presentation",
+   "description": "In-class assessment – Presentation",
+   "type": "Presentation",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-07",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2500 word equiv; 6-8 min presentation",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 07 Nov 2026 at 09:00"
+  }
+ ],
+ "parseWarnings": []
+}

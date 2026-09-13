@@ -1,0 +1,51 @@
+{
+ "code": "SSPS6004",
+ "name": "Social Research Ethics",
+ "availability": "2026-S1CRA-BM-CC",
+ "session": "S1CRA",
+ "sessionLabel": "Semester 1a, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-13",
+ "sourceUrl": "https://www.sydney.edu.au/units/SSPS6004/2026-S1CRA-BM-CC",
+ "scrapedAt": "2026-09-13T22:51:01Z",
+ "assessments": [
+  {
+   "id": "SSPS6004-2026-S1CRA-BM-CC-0",
+   "name": "Ethics Application / Reflective Task",
+   "description": "EITHER draft an ethics application relevant to your own work OR write a theoretical essay based on an ethical issue raised during class",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-06",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Mid-semester break Due date : 06 Apr 2026 at 23:59"
+  },
+  {
+   "id": "SSPS6004-2026-S1CRA-BM-CC-1",
+   "name": "Weekly Workbook",
+   "description": "Reflective workbook in which students reflect on themes and class discussion and how they apply to their own research",
+   "type": "Portfolio or journal",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 5,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-23",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words = 3 x 1230-word submissions",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05 Due date : 23 Mar 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

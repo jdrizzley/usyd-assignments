@@ -1,0 +1,51 @@
+{
+ "code": "EDSE4508",
+ "name": "Internship",
+ "availability": "2026-S1CRB-BM-CC",
+ "session": "S1CRB",
+ "sessionLabel": "Semester 1b, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-05-01",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDSE4508/2026-S1CRB-BM-CC",
+ "scrapedAt": "2026-09-13T20:35:56Z",
+ "assessments": [
+  {
+   "id": "EDSE4508-2026-S1CRB-BM-CC-0",
+   "name": "Internship placement final report",
+   "description": "Successful completion of the internship report",
+   "type": "Peer or expert observation or supervision",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 word equivalent",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "EDSE4508-2026-S1CRB-BM-CC-1",
+   "name": "AFGT",
+   "description": "Complete Elements 1-4 of the AFGT (the TPA)",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 word equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  }
+ ],
+ "parseWarnings": []
+}

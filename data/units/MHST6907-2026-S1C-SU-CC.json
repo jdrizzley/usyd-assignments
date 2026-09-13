@@ -1,0 +1,51 @@
+{
+ "code": "MHST6907",
+ "name": "Dissertation Part 1",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/MHST6907/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-13T21:52:04Z",
+ "assessments": [
+  {
+   "id": "MHST6907-2026-S1C-SU-CC-0",
+   "name": "Dissertation Proposal",
+   "description": "Research proposal",
+   "type": "Experimental design",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-20",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Approx 1000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 20 Mar 2026 at 23:59"
+  },
+  {
+   "id": "MHST6907-2026-S1C-SU-CC-1",
+   "name": "Draft progress",
+   "description": "Draft chapter or introduction",
+   "type": "Experimental design",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 8,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-24",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Draft chapter at least 3500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08 Due date : 24 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

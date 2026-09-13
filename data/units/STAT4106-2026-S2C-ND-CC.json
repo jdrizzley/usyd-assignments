@@ -1,0 +1,51 @@
+{
+ "code": "STAT4106",
+ "name": "Statistics Honours Project D",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/STAT4106/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-13T22:51:45Z",
+ "assessments": [
+  {
+   "id": "STAT4106-2026-S2C-ND-CC-0",
+   "name": "Presentation",
+   "description": "Oral Presentation: Presentation of research from honours thesis.",
+   "type": "Presentation",
+   "weight": 10,
+   "weightRaw": "10%",
+   "week": 10,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-16",
+   "dueTime": "14:00",
+   "timeAssumed": false,
+   "closingDate": "2026-10-16",
+   "length": "30 minutes",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10 Due date : 16 Oct 2026 at 14:00 Closing date : 16 Oct 2026"
+  },
+  {
+   "id": "STAT4106-2026-S2C-ND-CC-1",
+   "name": "Honours Thesis",
+   "description": "Thesis",
+   "type": "Written work",
+   "weight": 90,
+   "weightRaw": "90%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-02",
+   "dueTime": "17:00",
+   "timeAssumed": false,
+   "closingDate": "2026-11-12",
+   "length": "200 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 02 Nov 2026 at 17:00 Closing date : 12 Nov 2026"
+  }
+ ],
+ "parseWarnings": []
+}

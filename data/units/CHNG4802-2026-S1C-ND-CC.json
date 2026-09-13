@@ -1,0 +1,51 @@
+{
+ "code": "CHNG4802",
+ "name": "Chemical Engineering Design A",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CHNG4802/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T19:50:03Z",
+ "assessments": [
+  {
+   "id": "CHNG4802-2026-S1C-ND-CC-0",
+   "name": "Design Review",
+   "description": "Paper based quiz",
+   "type": "In-person written or creative task",
+   "weight": 15,
+   "weightRaw": "15%",
+   "week": 5,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-26",
+   "dueTime": "12:00",
+   "timeAssumed": false,
+   "closingDate": "2026-03-26",
+   "length": "1 hour",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05 Due date : 26 Mar 2026 at 12:00 Closing date : 26 Mar 2026"
+  },
+  {
+   "id": "CHNG4802-2026-S1C-ND-CC-1",
+   "name": "Report",
+   "description": "Design Report",
+   "type": "Experimental design",
+   "weight": 85,
+   "weightRaw": "85%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-30",
+   "dueTime": "16:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "n/a",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 30 May 2026 at 16:00"
+  }
+ ],
+ "parseWarnings": []
+}

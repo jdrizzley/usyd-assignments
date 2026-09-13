@@ -1,0 +1,33 @@
+{
+ "code": "NURS4026",
+ "name": "Honours Thesis A",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/NURS4026/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-13T22:02:36Z",
+ "assessments": [
+  {
+   "id": "NURS4026-2026-S1C-ND-CC-0",
+   "name": "Literature review",
+   "description": "Literature review",
+   "type": "Written work",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-15",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 15 Jun 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}
