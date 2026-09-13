@@ -435,6 +435,8 @@ a:hover { color: var(--accent-ink); text-decoration-thickness: 1.5px; }
 }
 .badge--approx { color: var(--warn); border-color: currentColor; cursor: help; }
 .badge--early { color: var(--ink-500); }
+.badge--user { color: var(--accent-ink); border-color: currentColor; cursor: help; }
+.row--user { border-left-style: dotted; }
 
 .today-rule {
   position: relative; display: flex; align-items: center; gap: var(--s-2);
@@ -447,11 +449,22 @@ a:hover { color: var(--accent-ink); text-decoration-thickness: 1.5px; }
 
 .nodate { margin-top: var(--s-6); }
 .nodate__label { color: var(--ink-500); margin-bottom: var(--s-3); padding-bottom: var(--s-2); border-bottom: 1px solid var(--rule); }
-.nodate .row { grid-template-columns: 1fr auto; }
-.nodate .row__main { grid-template-columns: 1fr; grid-area: 1 / 1 / 2 / 2; }
+.nodate .row { grid-template-columns: 1fr auto auto; grid-template-areas: "main add src"; }
+.nodate .row__main { grid-template-columns: 1fr; grid-area: main; }
+.row__add { grid-area: add; align-self: center; }
+.row__editor { grid-column: 1 / -1; grid-row: 2; padding: 0 var(--s-3) var(--s-3); }
+
+/* add-a-date form (inline in a row, or inside the detail panel) */
+.date-editor { display: flex; flex-direction: column; gap: var(--s-2); }
+.date-editor__fields { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); }
+.input--small { width: auto; min-height: 32px; padding: 0 var(--s-2); font-size: var(--t-small); font-family: inherit; }
+.date-editor__note { color: var(--ink-500); }
+.date-editor__err { color: var(--warn); }
+.date-editor__err:empty { display: none; }
 
 @media (max-width: 599.98px) {
   .row { grid-template-columns: 1fr auto; }
+  .nodate .row { grid-template-columns: 1fr auto auto; }
   .row__main { grid-template-columns: 1fr; grid-area: 1 / 1 / 2 / 2; }
   .row__date { flex-direction: row; gap: var(--s-2); align-items: baseline; margin-bottom: 2px; }
   .row__top { gap: var(--s-2) var(--s-3); }
@@ -551,6 +564,9 @@ noscript .error-card { margin: var(--s-5) var(--gutter); }
 .detail__dl dt { color: var(--ink-500); font-size: var(--t-label); line-height: 1.2; letter-spacing: .09em; font-weight: 600; text-transform: uppercase; padding-top: 3px; }
 .detail__dl dd { font-size: var(--t-row); line-height: 1.35; letter-spacing: -0.004em; font-weight: 500; font-variant-numeric: tabular-nums; }
 .detail__raw { color: var(--ink-500); font-weight: 400; }
+.detail__mine { margin-top: var(--s-4); padding-top: var(--s-3); border-top: 1px solid var(--rule-soft); }
+.detail__mine-note { color: var(--ink-500); margin-bottom: var(--s-2); max-width: 34em; }
+.detail__mine-btns { display: flex; gap: var(--s-2); flex-wrap: wrap; }
 .detail__link { display: inline-block; margin-top: var(--s-4); }
 .detail__src { display: block; color: var(--ink-500); margin-top: var(--s-2); }
 

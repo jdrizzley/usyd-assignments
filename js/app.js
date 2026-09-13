@@ -234,6 +234,8 @@ function render() {
   renderRuler();
 }
 
+document.addEventListener('dates:change', () => { closeDetail(); render(); });
+
 window.addEventListener('resize', (() => { let t; return () => { clearTimeout(t); t = setTimeout(renderRuler, 120); }; })());
 
 // ---- export -----------------------------------------------------------------

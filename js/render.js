@@ -1,6 +1,7 @@
 // Rendering: list view, calendar view, term ruler, detail panel, and the four required states.
 import {
   state, resolveDate, sessionSpan, sessionKeyOf, today, toISO, addDays, parseISO, slotStyle, unitKey,
+  setUserDate, clearUserDate,
 } from './data.js';
 
 const $ = (id) => document.getElementById(id);
@@ -79,9 +80,47 @@ function metaText(item) {
   const parts = [];
   const w = weightText(a);
   if (w) parts.push(w);
-  if (res.kind === 'fixed') parts.push(res.time);
+  if (res.kind === 'fixed' || res.kind === 'user') parts.push(res.time);
   if (a.week != null) parts.push(`Week ${a.week}`);
   return parts.join(' · ');
+}
+
+// ---- user-added dates -------------------------------------------------------
+const YOUR_DATE_TIP = 'Date added by you. It is not in the unit outline and is kept in this browser only.';
+
+function datesChanged() { document.dispatchEvent(new CustomEvent('dates:change')); }
+
+/** Inline form to add or change the user's date for one assessment. */
+export function dateEditor(item, { onDone } = {}) {
+  const { a, unit } = item;
+  const existing = state.userDates.get(a.id);
+  const span = sessionSpan(state.sessionKey);
+  const dateIn = h('input', { class: 'input input--small', type: 'date', required: true, 'aria-label': 'Due date', value: existing?.date || '' });
+  if (span?.start) dateIn.min = toISO(addDays(span.start, -60));
+  if (span?.end) dateIn.max = toISO(addDays(span.end, 120));
+  const timeIn = h('input', { class: 'input input--small', type: 'time', 'aria-label': 'Due time', value: existing?.time || '23:59' });
+  const err = h('span', { class: 'date-editor__err t-small', role: 'alert' });
+  const save = h('button', { type: 'submit', class: 'btn btn--primary btn--small' }, 'Save');
+  const cancel = h('button', { type: 'button', class: 'btn btn--small' }, 'Cancel');
+  const form = h('form', { class: 'date-editor', 'aria-label': `Add a due date for ${unit.code} ${a.name}` },
+    h('div', { class: 'date-editor__fields' }, dateIn, timeIn, save, cancel),
+    h('span', { class: 'date-editor__note t-small' }, 'Not from the outline. Saved in this browser only.'),
+    err);
+  cancel.addEventListener('click', () => onDone?.(false));
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (!dateIn.value || Number.isNaN(parseISO(dateIn.value).getTime())) { err.textContent = 'Enter a date.'; dateIn.focus(); return; }
+    setUserDate(a.id, dateIn.value, timeIn.value || '23:59');
+    onDone?.(true);
+    datesChanged();
+  });
+  form.focusFirst = () => dateIn.focus();
+  return form;
+}
+
+function removeUserDate(item) {
+  clearUserDate(item.a.id);
+  datesChanged();
 }
 
 export function rowEl(item, { undated = false, now = today() } = {}) {
@@ -89,7 +128,7 @@ export function rowEl(item, { undated = false, now = today() } = {}) {
   const past = res.date && res.date < now;
   const s = slotStyle(slot);
   const li = h('li', {
-    class: `row${res.kind === 'approx' ? ' row--approx' : ''}${past ? ' row--past' : ''}`,
+    class: `row${res.kind === 'approx' ? ' row--approx' : ''}${res.kind === 'user' ? ' row--user' : ''}${past ? ' row--past' : ''}`,
     id: `row-${a.id}`,
     style: { '--u': s.colourVar },
     'data-id': a.id,
@@ -103,6 +142,7 @@ export function rowEl(item, { undated = false, now = today() } = {}) {
     h('span', { class: 'row__code t-label' }, swatch(slot), unit.code),
     h('span', { class: 'row__name' }, a.name || a.type || 'Assessment'),
     res.kind === 'approx' ? h('span', { class: 'badge badge--approx', title: 'The outline gives only a week number. The exact date is on Canvas.' }, 'approx.') : null,
+    res.kind === 'user' ? h('span', { class: 'badge badge--user', title: YOUR_DATE_TIP }, 'your date') : null,
     a.earlyFeedback ? h('span', { class: 'badge badge--early', title: 'Early feedback task' }, 'early') : null,
   );
   const meta = undated
@@ -112,7 +152,20 @@ export function rowEl(item, { undated = false, now = today() } = {}) {
     dateCol,
     h('span', { class: 'row__body' }, nameLine, meta));
   btn.addEventListener('click', () => openDetail(item));
-  li.append(btn, h('a', { class: 'row__src', href: unit.sourceUrl, target: '_blank', rel: 'noopener', 'aria-label': `Outline for ${unit.code}, opens in a new tab` }, '↗'));
+  li.append(btn);
+  if (undated) {
+    const addBtn = h('button', { type: 'button', class: 'btn btn--small row__add', 'aria-label': `Add a due date for ${unit.code} ${a.name}` }, 'Add date');
+    addBtn.addEventListener('click', () => {
+      if (li.querySelector('.date-editor')) return;
+      addBtn.hidden = true;
+      const editor = dateEditor(item, { onDone: () => { editor.remove(); addBtn.hidden = false; addBtn.focus(); } });
+      editor.classList.add('row__editor');
+      li.append(editor);
+      editor.focusFirst();
+    });
+    li.append(addBtn);
+  }
+  li.append(h('a', { class: 'row__src', href: unit.sourceUrl, target: '_blank', rel: 'noopener', 'aria-label': `Outline for ${unit.code}, opens in a new tab` }, '↗'));
   return li;
 }
 
@@ -227,8 +280,8 @@ export function renderCalendar(root) {
         const pill = h('button', {
           type: 'button', class: `pill${it.res.kind === 'approx' ? ' pill--approx' : ''}`,
           style: { '--u': s.colourVar },
-          title: `${it.unit.code} · ${it.a.name} · ${weightText(it.a)}${it.res.kind === 'approx' ? ' · approx.' : ''}`,
-          'aria-label': `${it.unit.code} ${it.a.name}, ${weightText(it.a)}${it.res.kind === 'approx' ? ', approximate date' : ''}`,
+          title: `${it.unit.code} · ${it.a.name} · ${weightText(it.a)}${it.res.kind === 'approx' ? ' · approx.' : ''}${it.res.kind === 'user' ? ' · your date' : ''}`,
+          'aria-label': `${it.unit.code} ${it.a.name}, ${weightText(it.a)}${it.res.kind === 'approx' ? ', approximate date' : ''}${it.res.kind === 'user' ? ', date added by you' : ''}`,
         },
           swatch(it.slot),
           h('span', { class: 'pill__code t-label' }, it.unit.code),
@@ -312,7 +365,7 @@ export function renderRuler() {
           h('span', { class: 'ruler__tip-code t-label' }, it.unit.code),
           h('span', {}, it.a.name),
           h('br'),
-          h('span', { class: 'ruler__tip-meta num' }, [weightText(it.a), fmtDate(it.res.date), it.res.kind === 'approx' ? 'approx.' : null].filter(Boolean).join(' · ')));
+          h('span', { class: 'ruler__tip-meta num' }, [weightText(it.a), fmtDate(it.res.date), it.res.kind === 'approx' ? 'approx.' : null, it.res.kind === 'user' ? 'your date' : null].filter(Boolean).join(' · ')));
         tip.hidden = false;
         const rect = tick.getBoundingClientRect();
         const rr = ruler.getBoundingClientRect();
@@ -367,7 +420,7 @@ export function openDetail(item) {
   const now = today();
   let when = '';
   let countdown = '';
-  if (res.kind === 'fixed') {
+  if (res.kind === 'fixed' || res.kind === 'user') {
     when = `${fmtDate(res.date)} at ${res.time}`;
   } else if (res.kind === 'approx') {
     when = `Week ${a.week} · about ${fmtDate(res.date)}`;
@@ -392,6 +445,31 @@ export function openDetail(item) {
 
   const close = h('button', { type: 'button', class: 'detail__close', 'aria-label': 'Close details' }, '×');
   close.addEventListener('click', closeDetail);
+
+  // Add / change / remove a date of your own when the outline gives none.
+  let mine = null;
+  if (res.kind === 'user' || res.kind === 'none') {
+    mine = h('div', { class: 'detail__mine' });
+    const showButtons = () => {
+      const edit = h('button', { type: 'button', class: 'btn btn--small' }, res.kind === 'user' ? 'Change date' : 'Add date');
+      edit.addEventListener('click', () => {
+        const editor = dateEditor(item, { onDone: (saved) => { if (!saved) showButtons(); } });
+        mine.replaceChildren(editor);
+        editor.focusFirst();
+      });
+      const kids = [edit];
+      if (res.kind === 'user') {
+        const rm = h('button', { type: 'button', class: 'btn btn--small' }, 'Remove date');
+        rm.addEventListener('click', () => { closeDetail(); removeUserDate(item); });
+        kids.push(rm);
+      }
+      mine.replaceChildren(
+        h('p', { class: 'detail__mine-note t-small' }, res.kind === 'user' ? YOUR_DATE_TIP : 'Know the due date from Canvas or your coordinator? Add it here.'),
+        h('div', { class: 'detail__mine-btns' }, ...kids));
+    };
+    showButtons();
+  }
+
   panel.replaceChildren(...[
     h('div', { class: 'detail__head' },
       h('div', {},
@@ -402,6 +480,7 @@ export function openDetail(item) {
     a.description ? h('p', { class: 'detail__desc t-body' }, a.description) : null,
     res.kind === 'approx' ? h('p', { class: 'detail__approx t-small' }, 'The outline gives only a week number. The exact date is on Canvas.') : null,
     dl,
+    mine,
     h('a', { class: 'detail__link', href: unit.sourceUrl, target: '_blank', rel: 'noopener' }, 'View the unit outline ↗'),
     h('span', { class: 'detail__src t-small' }, `${unit.sessionLabel} · ${unit.mode} · ${unit.location}`),
   ].filter(Boolean));

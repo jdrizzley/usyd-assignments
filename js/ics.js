@@ -112,6 +112,7 @@ export function buildICS(items, sessionLabel, now = new Date()) {
       'Unofficial — confirm on Canvas.',
       '',
       ...(res.kind === 'approx' ? ['Approximate date: the outline gives only a week number. The exact date is on Canvas.', ''] : []),
+      ...(res.kind === 'user' ? ['Date added by you in the assessment calendar; the unit outline does not give one.', ''] : []),
       `Type: ${a.type || '—'}`,
       `Weight: ${weight || '—'}`,
       ...(a.week != null ? [`Week ${a.week}`] : []),
@@ -126,7 +127,7 @@ export function buildICS(items, sessionLabel, now = new Date()) {
     lines.push('BEGIN:VEVENT');
     lines.push(`UID:${a.id}@usyd-assessment-calendar`);
     lines.push(`DTSTAMP:${stamp}`);
-    if (res.kind === 'fixed') {
+    if (res.kind === 'fixed' || res.kind === 'user') {
       const start = shiftMinutes(res.iso, res.time, -29);
       lines.push(`DTSTART;TZID=Australia/Sydney:${localStamp(start.iso, start.hhmm)}`);
       lines.push(`DTEND;TZID=Australia/Sydney:${localStamp(res.iso, res.time)}`);

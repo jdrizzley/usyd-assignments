@@ -9,7 +9,33 @@ export const state = {
   slots: new Map(),       // slug -> colour slot 0..9, stable while selected
   sessionKey: null,
   view: 'list',
+  userDates: new Map(),   // assessment id -> { date: 'YYYY-MM-DD', time: 'HH:MM' } added by the user
 };
+
+// ---- user-added dates (this browser only) -----------------------------------
+const USER_DATES_KEY = 'usyd-ac:user-dates';
+function loadUserDates() {
+  try {
+    const raw = localStorage.getItem(USER_DATES_KEY);
+    if (!raw) return;
+    for (const [id, v] of Object.entries(JSON.parse(raw))) {
+      if (v && /^\d{4}-\d{2}-\d{2}$/.test(v.date)) state.userDates.set(id, { date: v.date, time: /^\d{2}:\d{2}$/.test(v.time) ? v.time : '23:59' });
+    }
+  } catch { /* private mode or blocked storage: dates just do not persist */ }
+}
+function saveUserDates() {
+  try { localStorage.setItem(USER_DATES_KEY, JSON.stringify(Object.fromEntries(state.userDates))); } catch { /* ignore */ }
+}
+loadUserDates();
+
+export function setUserDate(id, date, time) {
+  state.userDates.set(id, { date, time: time || '23:59' });
+  saveUserDates();
+}
+export function clearUserDate(id) {
+  state.userDates.delete(id);
+  saveUserDates();
+}
 
 export const MAX_UNITS = 10;
 export const SESSION_LENGTH_WEEKS = 13;
@@ -131,7 +157,9 @@ export function search(query, sessionKey, limit = 8) {
 }
 
 // ---- date resolution --------------------------------------------------------
-// Returns { kind: 'fixed' | 'approx' | 'none', date: Date|null, iso, time }
+// Returns { kind: 'fixed' | 'approx' | 'user' | 'none', date: Date|null, iso, time }
+// 'user' is a date the student typed in for an assessment the outline leaves undated. It only
+// applies while the outline still has no usable date, so a later scrape with a real date wins.
 export function resolveDate(a, sessionKey) {
   if (a.dateKind === 'absolute' && a.dueDate) {
     return { kind: 'fixed', date: parseISO(a.dueDate), iso: a.dueDate, time: a.dueTime || '23:59' };
@@ -143,6 +171,10 @@ export function resolveDate(a, sessionKey) {
       const friday = addDays(parseISO(monday), 4);
       return { kind: 'approx', date: friday, iso: toISO(friday), time: '23:59' };
     }
+  }
+  const mine = state.userDates.get(a.id);
+  if (mine) {
+    return { kind: 'user', date: parseISO(mine.date), iso: mine.date, time: mine.time };
   }
   return { kind: 'none', date: null, iso: null, time: null };
 }
