@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/LAWS5199/2026-S2C-ND-CC",
- "scrapedAt": "2026-09-14T23:06:59Z",
+ "scrapedAt": "2026-09-15T22:21:16Z",
  "assessments": [
   {
    "id": "LAWS5199-2026-S2C-ND-CC-0",
@@ -73,14 +73,14 @@
    "weightRaw": "40%",
    "week": 7,
    "dateKind": "absolute",
-   "dueDate": "2025-09-14",
+   "dueDate": "2026-09-14",
    "dueTime": "23:59",
    "timeAssumed": false,
    "closingDate": "2026-09-28",
    "length": "3000 words / 6 weeks",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
-   "dueRaw": "Week 07 Due date : 14 Sep 2025 at 23:59 Closing date : 28 Sep 2026"
+   "dueRaw": "Week 07 Due date : 14 Sep 2026 at 23:59 Closing date : 28 Sep 2026"
   }
  ],
  "parseWarnings": []
