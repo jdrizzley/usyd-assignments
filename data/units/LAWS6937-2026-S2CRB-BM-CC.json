@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-10-02",
  "sourceUrl": "https://www.sydney.edu.au/units/LAWS6937/2026-S2CRB-BM-CC",
- "scrapedAt": "2026-09-17T22:25:54Z",
+ "scrapedAt": "2026-09-18T21:51:46Z",
  "assessments": [
   {
    "id": "LAWS6937-2026-S2CRB-BM-CC-0",
@@ -77,7 +77,7 @@
    "dueTime": "15:30",
    "timeAssumed": false,
    "closingDate": null,
-   "length": "30 minutes",
+   "length": "30 min writing + 15 min reading time",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
    "dueRaw": "Week 02 Due date : 26 Sep 2026 at 15:30"
@@ -95,7 +95,7 @@
    "dueTime": "15:30",
    "timeAssumed": false,
    "closingDate": null,
-   "length": "30 minutes",
+   "length": "30 min writing + 15 min reading time",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
    "dueRaw": "Week 04 Due date : 17 Oct 2026 at 15:30"

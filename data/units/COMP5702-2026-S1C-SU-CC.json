@@ -1,51 +1,17 @@
 {
  "code": "COMP5702",
- "name": "IT Research Project A",
+ "name": "We can’t load your page at the moment",
  "availability": "2026-S1C-SU-CC",
  "session": "S1C",
- "sessionLabel": "Semester 1, 2026",
+ "sessionLabel": "Semester 1 2026 Departmental Permission",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-03-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/COMP5702/2026-S1C-SU-CC",
- "scrapedAt": "2026-09-17T20:50:52Z",
- "assessments": [
-  {
-   "id": "COMP5702-2026-S1C-SU-CC-0",
-   "name": "Project Presentation",
-   "description": "Present the project to examiners with Q&A",
-   "type": "Presentation",
-   "weight": 20,
-   "weightRaw": "20%",
-   "week": null,
-   "dateKind": "absolute",
-   "dueDate": "2026-06-14",
-   "dueTime": "23:59",
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "up to 30 minutes",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Formal exam period Due date : 14 Jun 2026 at 23:59"
-  },
-  {
-   "id": "COMP5702-2026-S1C-SU-CC-1",
-   "name": "Thesis",
-   "description": "Project work contributes to final report.",
-   "type": "Dissertation or thesis",
-   "weight": 80,
-   "weightRaw": "80%",
-   "week": 13,
-   "dateKind": "absolute",
-   "dueDate": "2026-05-31",
-   "dueTime": "23:59",
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "N/A",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 13 Due date : 31 May 2026 at 23:59"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-09-18T20:16:50Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

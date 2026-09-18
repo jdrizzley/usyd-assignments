@@ -1,33 +1,17 @@
 {
  "code": "MCHM4104",
- "name": "Medicinal Chemistry Honours Project B",
+ "name": "We can’t load your page at the moment",
  "availability": "2026-S2C-SU-CC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-08-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/MCHM4104/2026-S2C-SU-CC",
- "scrapedAt": "2026-09-17T22:34:01Z",
- "assessments": [
-  {
-   "id": "MCHM4104-2026-S2C-SU-CC-0",
-   "name": "Honours Project",
-   "description": "Progress towards submission of an Honours project.",
-   "type": "Dissertation or thesis",
-   "weight": 100,
-   "weightRaw": "100%",
-   "week": null,
-   "dateKind": "unparsed",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "Project Duration",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Ongoing"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-09-18T21:59:52Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

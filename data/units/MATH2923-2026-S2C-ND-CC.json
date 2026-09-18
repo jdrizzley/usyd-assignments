@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/MATH2923/2026-S2C-ND-CC",
- "scrapedAt": "2026-09-17T22:30:41Z",
+ "scrapedAt": "2026-09-18T21:56:34Z",
  "assessments": [
   {
    "id": "MATH2923-2026-S2C-ND-CC-0",
@@ -95,7 +95,7 @@
    "dueTime": null,
    "timeAssumed": false,
    "closingDate": null,
-   "length": "45 minutes",
+   "length": "40 minutes",
    "aiPolicy": "AI prohibited",
    "earlyFeedback": false,
    "dueRaw": "Week 08"
