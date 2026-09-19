@@ -1,17 +1,51 @@
 {
  "code": "CMPN4612",
- "name": "Page not found",
+ "name": "Composition Honours C",
  "availability": "2026-S1C-ND-CC",
  "session": "S1C",
  "sessionLabel": "Semester 1, 2026",
  "mode": "Normal day",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/CMPN4612/2026-S1C-ND-CC",
- "scrapedAt": "2026-09-18T20:14:03Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-09-19T19:57:07Z",
+ "assessments": [
+  {
+   "id": "CMPN4612-2026-S1C-ND-CC-0",
+   "name": "Participation and Engagement",
+   "description": "Honours thesis/portfolio progression. Class presentation. Assessments as per units of study for Free Choice. Please see respective UoS descriptions.",
+   "type": "Contribution",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Ongoing",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  },
+  {
+   "id": "CMPN4612-2026-S1C-ND-CC-1",
+   "name": "Research Integrity Canvas Quiz 3",
+   "description": "Research Integrity Canvas Quiz 3 -  - Early Feedback Task",
+   "type": "Out-of-class quiz",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10mins",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": true,
+   "dueRaw": "Week 03 Due date : 13 Mar 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
 }

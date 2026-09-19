@@ -1,17 +1,69 @@
 {
  "code": "COMP4104",
- "name": "We can’t load your page at the moment",
+ "name": "Computer Science Honours Project B",
  "availability": "2026-S1C-SU-CC",
  "session": "S1C",
  "sessionLabel": "Semester 1, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/COMP4104/2026-S1C-SU-CC",
- "scrapedAt": "2026-09-18T20:14:56Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-09-19T19:57:53Z",
+ "assessments": [
+  {
+   "id": "COMP4104-2026-S1C-SU-CC-0",
+   "name": "Honours presentation Q&A",
+   "description": "Q&A following presentation",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "COMP4104-2026-S1C-SU-CC-1",
+   "name": "Honours presentation",
+   "description": "Presentation",
+   "type": "Presentation",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "COMP4104-2026-S1C-SU-CC-2",
+   "name": "Honours thesis",
+   "description": "Thesis",
+   "type": "Dissertation or thesis",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-29",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 29 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
 }

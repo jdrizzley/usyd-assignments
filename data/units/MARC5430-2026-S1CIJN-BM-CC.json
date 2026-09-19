@@ -1,17 +1,51 @@
 {
  "code": "MARC5430",
- "name": "We can’t load your page at the moment",
+ "name": "Developing Architectural Briefs",
  "availability": "2026-S1CIJN-BM-CC",
  "session": "S1CIJN",
  "sessionLabel": "Intensive May - June, 2026",
  "mode": "Block mode",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-06-05",
  "sourceUrl": "https://www.sydney.edu.au/units/MARC5430/2026-S1CIJN-BM-CC",
- "scrapedAt": "2026-09-18T21:54:41Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-09-19T21:36:09Z",
+ "assessments": [
+  {
+   "id": "MARC5430-2026-S1CIJN-BM-CC-0",
+   "name": "Critical Appraisal of an Architectural Project and its Architectural Brief",
+   "description": "Qualitative and quantitative evaluation.",
+   "type": "Creative work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-14",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-05-24",
+   "length": "10 page A3 report",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 14 Jun 2026 at 23:59 Closing date : 24 May 2026"
+  },
+  {
+   "id": "MARC5430-2026-S1CIJN-BM-CC-1",
+   "name": "Proposal for an Architectural Brief",
+   "description": "Architectural brief proposal",
+   "type": "Creative work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 5,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-21",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-05-31",
+   "length": "20-page A3 report",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 05 Due date : 21 Jun 2026 at 23:59 Closing date : 31 May 2026"
+  }
+ ],
+ "parseWarnings": []
 }

@@ -1,69 +1,17 @@
 {
  "code": "VETS6127",
- "name": "Industry Placement Elective Experience 2",
+ "name": "We can’t load your page at the moment",
  "availability": "2026-S1CIJA-PP-CC",
  "session": "S1CIJA",
  "sessionLabel": "Intensive January, 2026",
  "mode": "Professional practice",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-01-23",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/VETS6127/2026-S1CIJA-PP-CC",
- "scrapedAt": "2026-09-18T23:10:13Z",
- "assessments": [
-  {
-   "id": "VETS6127-2026-S1CIJA-PP-CC-0",
-   "name": "Supervisor Report Form",
-   "description": "Professional experience placement",
-   "type": "Peer or expert observation or supervision",
-   "weight": 0,
-   "weightRaw": "0%",
-   "week": 1,
-   "dateKind": "week_only",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "Variable",
-   "aiPolicy": "AI prohibited",
-   "earlyFeedback": false,
-   "dueRaw": "Week 01"
-  },
-  {
-   "id": "VETS6127-2026-S1CIJA-PP-CC-1",
-   "name": "Placement Feedback Form",
-   "description": "Survey of placement experience",
-   "type": "Practical skill",
-   "weight": 0,
-   "weightRaw": "0%",
-   "week": 1,
-   "dateKind": "week_only",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "Variable",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 01"
-  },
-  {
-   "id": "VETS6127-2026-S1CIJA-PP-CC-2",
-   "name": "Reflective Diary",
-   "description": "Participation",
-   "type": "Portfolio or journal",
-   "weight": 0,
-   "weightRaw": "0%",
-   "week": 1,
-   "dateKind": "week_only",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "Variable",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 01"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-09-19T22:51:34Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

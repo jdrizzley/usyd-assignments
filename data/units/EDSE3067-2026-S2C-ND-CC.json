@@ -1,17 +1,69 @@
 {
  "code": "EDSE3067",
- "name": "We can’t load your page at the moment",
+ "name": "Teaching Commerce/Economics 2",
  "availability": "2026-S2C-ND-CC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
  "mode": "Normal day",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/EDSE3067/2026-S2C-ND-CC",
- "scrapedAt": "2026-09-18T20:48:14Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-09-19T20:30:28Z",
+ "assessments": [
+  {
+   "id": "EDSE3067-2026-S2C-ND-CC-0",
+   "name": "Annotated assessment task",
+   "description": "Develop an assessment task with associated explanation/ annotation",
+   "type": "Written work",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 4,
+   "dateKind": "absolute",
+   "dueDate": "2026-08-24",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1000 words in total",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04 Due date : 24 Aug 2026 at 23:59"
+  },
+  {
+   "id": "EDSE3067-2026-S2C-ND-CC-1",
+   "name": "Individual presentation",
+   "description": "Presentation to the class - critically evaluate the use of AI in Commerce",
+   "type": "Presentation",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": 10,
+   "dateKind": "absolute",
+   "dueDate": "2026-10-18",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "500 words total",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 10 Due date : 18 Oct 2026 at 23:59"
+  },
+  {
+   "id": "EDSE3067-2026-S2C-ND-CC-2",
+   "name": "Program of Work",
+   "description": "Develop a program of work for one topic in the Commerce Syllabus",
+   "type": "Written work",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-02",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 02 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
 }

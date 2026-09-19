@@ -1,17 +1,69 @@
 {
  "code": "HPSC4102",
- "name": "We can’t load your page at the moment",
+ "name": "History of Science",
  "availability": "2026-S2C-ND-CC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
  "mode": "Normal day",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/HPSC4102/2026-S2C-ND-CC",
- "scrapedAt": "2026-09-18T21:22:03Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-09-19T21:03:53Z",
+ "assessments": [
+  {
+   "id": "HPSC4102-2026-S2C-ND-CC-0",
+   "name": "Weekly discussion engagement",
+   "description": "Weekly discussion engagement.",
+   "type": "Interactive oral",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": 11,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5 minutes weekly(see Canvas for details)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11"
+  },
+  {
+   "id": "HPSC4102-2026-S2C-ND-CC-1",
+   "name": "Final Essay",
+   "description": "Essay on one of the discussed topics",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 11,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": "2026-11-18",
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 11 Due date : 08 Nov 2026 at 23:59 Closing date : 18 Nov 2026"
+  },
+  {
+   "id": "HPSC4102-2026-S2C-ND-CC-2",
+   "name": "Essay Q&A",
+   "description": "Essay Disputatio Q & A.",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes (see Canvas for details)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
 }
