@@ -1,0 +1,33 @@
+{
+ "code": "RLST4112",
+ "name": "Studies in Religion Honours Thesis 2",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/RLST4112/2026-S1C-SU-CC",
+ "scrapedAt": "2026-09-20T22:42:13Z",
+ "assessments": [
+  {
+   "id": "RLST4112-2026-S1C-SU-CC-0",
+   "name": "Thesis",
+   "description": "Thesis submission",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "18 - 20,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

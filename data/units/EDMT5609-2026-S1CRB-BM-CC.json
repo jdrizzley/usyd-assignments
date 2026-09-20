@@ -1,0 +1,51 @@
+{
+ "code": "EDMT5609",
+ "name": "History Curriculum 1",
+ "availability": "2026-S1CRB-BM-CC",
+ "session": "S1CRB",
+ "sessionLabel": "Semester 1b, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-05-01",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT5609/2026-S1CRB-BM-CC",
+ "scrapedAt": "2026-09-20T20:30:59Z",
+ "assessments": [
+  {
+   "id": "EDMT5609-2026-S1CRB-BM-CC-0",
+   "name": "Devising a sequence of four lesson plans",
+   "description": "Lesson plans",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 08 Jun 2026 at 23:59"
+  },
+  {
+   "id": "EDMT5609-2026-S1CRB-BM-CC-1",
+   "name": "Understanding, influences and practices",
+   "description": "Essay",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 12,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-19",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12 Due date : 19 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

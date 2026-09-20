@@ -1,0 +1,51 @@
+{
+ "code": "DATA5704",
+ "name": "Data Science Research Project B",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DATA5704/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-20T20:12:52Z",
+ "assessments": [
+  {
+   "id": "DATA5704-2026-S2C-SU-CC-0",
+   "name": "Oral defence",
+   "description": "Oral defence of thesis",
+   "type": "Interactive oral",
+   "weight": 35,
+   "weightRaw": "35%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15-20 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  },
+  {
+   "id": "DATA5704-2026-S2C-SU-CC-1",
+   "name": "Thesis",
+   "description": "Project work contributes to final report.",
+   "type": "Written work",
+   "weight": 65,
+   "weightRaw": "65%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-08",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "N/A",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 08 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

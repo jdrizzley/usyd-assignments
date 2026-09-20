@@ -1,0 +1,51 @@
+{
+ "code": "ENGL3635",
+ "name": "Old Norse",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/ENGL3635/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-20T20:48:44Z",
+ "assessments": [
+  {
+   "id": "ENGL3635-2026-S2C-ND-CC-0",
+   "name": "In-class test",
+   "description": "30 minute tests on Old Norse language",
+   "type": "In-person practical, skills, or performance task or test",
+   "weight": 55,
+   "weightRaw": "55%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "5 x 30 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Multiple weeks"
+  },
+  {
+   "id": "ENGL3635-2026-S2C-ND-CC-1",
+   "name": "Essay",
+   "description": "Essay on literary aspects of Old Norse texts.",
+   "type": "Written work",
+   "weight": 45,
+   "weightRaw": "45%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-10",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 10 Nov 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

@@ -1,0 +1,51 @@
+{
+ "code": "EDMT6604",
+ "name": "Drama Curriculum 3",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/EDMT6604/2026-S1C-ND-CC",
+ "scrapedAt": "2026-09-20T20:33:06Z",
+ "assessments": [
+  {
+   "id": "EDMT6604-2026-S1C-ND-CC-0",
+   "name": "Group devising portfolio",
+   "description": "Individual Portfolio based on group devising process",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2250 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03 Due date : 13 Mar 2026 at 23:59"
+  },
+  {
+   "id": "EDMT6604-2026-S1C-ND-CC-1",
+   "name": "Individual project peer teaching and assignment",
+   "description": "Peer teaching and submitted work",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-04-03",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2250 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 03 Apr 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}

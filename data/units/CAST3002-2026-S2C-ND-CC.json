@@ -1,0 +1,51 @@
+{
+ "code": "CAST3002",
+ "name": "Studio 4",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/CAST3002/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-20T19:50:09Z",
+ "assessments": [
+  {
+   "id": "CAST3002-2026-S2C-ND-CC-0",
+   "name": "Final Work for New Contemporaries Exhibition",
+   "description": "Oral exam (5400 words equivalent)",
+   "type": "Oral exam",
+   "weight": 60,
+   "weightRaw": "60%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15 minutes (oral)",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "CAST3002-2026-S2C-ND-CC-1",
+   "name": "New Contemporaries Exhibition work; Proposal + Work-In-Progress Presentatio",
+   "description": "Creative work",
+   "type": "Creative work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 6,
+   "dateKind": "absolute",
+   "dueDate": "2026-09-11",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3600 words equivalent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 06 Due date : 11 Sep 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
+}
