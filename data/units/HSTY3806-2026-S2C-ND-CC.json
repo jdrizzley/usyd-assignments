@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/HSTY3806/2026-S2C-ND-CC",
- "scrapedAt": "2026-09-21T22:45:39Z",
+ "scrapedAt": "2026-09-22T21:59:37Z",
  "assessments": [
   {
    "id": "HSTY3806-2026-S2C-ND-CC-0",
@@ -32,7 +32,7 @@
    "id": "HSTY3806-2026-S2C-ND-CC-1",
    "name": "Major Research Essay",
    "description": "See Canvas site for instructions",
-   "type": "Practical skill",
+   "type": "Written work",
    "weight": 60,
    "weightRaw": "60%",
    "week": 13,
