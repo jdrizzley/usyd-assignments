@@ -1,17 +1,69 @@
 {
  "code": "PHAR7817",
- "name": "Page not found",
+ "name": "Pharmaceuticals: Development and Regulation",
  "availability": "2026-S1C-OL-CC",
  "session": "S1C",
  "sessionLabel": "Semester 1, 2026",
  "mode": "Online",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/PHAR7817/2026-S1C-OL-CC",
- "scrapedAt": "2026-09-23T23:06:53Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-09-24T23:29:20Z",
+ "assessments": [
+  {
+   "id": "PHAR7817-2026-S1C-OL-CC-0",
+   "name": "Individual Reflection",
+   "description": "Reflection",
+   "type": "Portfolio or journal",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-07",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "STUVAC Due date : 07 Jun 2026 at 23:59"
+  },
+  {
+   "id": "PHAR7817-2026-S1C-OL-CC-1",
+   "name": "Group Project",
+   "description": "Group project plus peer feedback",
+   "type": "Written work",
+   "weight": 30,
+   "weightRaw": "30%",
+   "week": 9,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-03",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "3000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 09 Due date : 03 May 2026 at 23:59"
+  },
+  {
+   "id": "PHAR7817-2026-S1C-OL-CC-2",
+   "name": "Individual Assignment",
+   "description": "Assignment",
+   "type": "Written work",
+   "weight": 40,
+   "weightRaw": "40%",
+   "week": 13,
+   "dateKind": "absolute",
+   "dueDate": "2026-05-31",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13 Due date : 31 May 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
 }
