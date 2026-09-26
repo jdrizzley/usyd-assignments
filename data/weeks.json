@@ -14,7 +14,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 6673,
+    "samples": 6663,
     "observedWeeks": [
       1,
       2,
@@ -70,7 +70,7 @@
     "12": "2026-06-08",
     "13": "2026-06-15",
     "confidence": "low",
-    "samples": 103,
+    "samples": 105,
     "observedWeeks": [
       1,
       2,
@@ -459,7 +459,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6761,
+    "samples": 6753,
     "observedWeeks": [
       1,
       2,
@@ -617,7 +617,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "low",
-    "samples": 36,
+    "samples": 37,
     "observedWeeks": [
       1,
       2,

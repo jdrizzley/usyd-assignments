@@ -1,33 +1,17 @@
 {
  "code": "MECO6904",
- "name": "Dissertation Part 1",
+ "name": "We can’t load your page at the moment",
  "availability": "2026-S2C-SU-CC",
  "session": "S2C",
- "sessionLabel": "Semester 2, 2026",
+ "sessionLabel": "Semester 2 2026 Departmental Permission",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-08-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/MECO6904/2026-S2C-SU-CC",
- "scrapedAt": "2026-09-24T22:57:14Z",
- "assessments": [
-  {
-   "id": "MECO6904-2026-S2C-SU-CC-0",
-   "name": "Research proposal and drafts as required",
-   "description": "More information is available on Canvas.",
-   "type": "Dissertation or thesis",
-   "weight": 0,
-   "weightRaw": "0%",
-   "week": null,
-   "dateKind": "unparsed",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "n/a",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Ongoing"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-09-25T22:54:18Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

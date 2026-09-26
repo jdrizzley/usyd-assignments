@@ -8,25 +8,25 @@
  "location": "Surry Hills, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/DENT6389/2026-S2C-ND-CS",
- "scrapedAt": "2026-09-24T21:21:08Z",
+ "scrapedAt": "2026-09-25T21:19:23Z",
  "assessments": [
   {
    "id": "DENT6389-2026-S2C-ND-CS-0",
    "name": "Clinical case presentation",
    "description": "Refer to handbook",
-   "type": "Oral exam",
+   "type": "Interactive oral",
    "weight": 25,
    "weightRaw": "25%",
    "week": null,
-   "dateKind": "exam_period",
+   "dateKind": "unparsed",
    "dueDate": null,
    "dueTime": null,
    "timeAssumed": false,
    "closingDate": null,
-   "length": "1 hour",
+   "length": "30 minutes",
    "aiPolicy": "AI prohibited",
    "earlyFeedback": false,
-   "dueRaw": "Formal exam period"
+   "dueRaw": "Multiple weeks"
   },
   {
    "id": "DENT6389-2026-S2C-ND-CS-1",
