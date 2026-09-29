@@ -1,0 +1,17 @@
+{
+ "code": "INFO6007",
+ "name": "Page not found",
+ "availability": "2026-S2C-NE-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal evening",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/INFO6007/2026-S2C-NE-CC",
+ "scrapedAt": "2026-09-29T00:33:03Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}

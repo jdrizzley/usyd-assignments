@@ -1,33 +1,17 @@
 {
  "code": "LIFE4108",
- "name": "Life Sciences Honours Project F",
+ "name": "Page not found",
  "availability": "2026-S1C-SU-CC",
  "session": "S1C",
  "sessionLabel": "Semester 1, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-03-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/LIFE4108/2026-S1C-SU-CC",
- "scrapedAt": "2026-09-27T22:27:34Z",
- "assessments": [
-  {
-   "id": "LIFE4108-2026-S1C-SU-CC-0",
-   "name": "Honours project",
-   "description": "A research report that can be in either thesis or scientific paper format and an associate oral presentation of the research. Typically approx. 100 pages",
-   "type": "Dissertation or thesis",
-   "weight": 100,
-   "weightRaw": "100%",
-   "week": null,
-   "dateKind": "unparsed",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "Typical CA 100 pages, full yr.",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Ongoing"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-09-29T00:56:24Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }
