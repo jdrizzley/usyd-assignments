@@ -8,7 +8,7 @@
  "location": "Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/MCGY1002/2026-S2C-ND-SC",
- "scrapedAt": "2026-09-29T23:48:23Z",
+ "scrapedAt": "2026-09-30T23:49:20Z",
  "assessments": [
   {
    "id": "MCGY1002-2026-S2C-ND-SC-0",
@@ -66,7 +66,7 @@
   },
   {
    "id": "MCGY1002-2026-S2C-ND-SC-3",
-   "name": "&quot;The Con Sings&quot;",
+   "name": "The Con Sings",
    "description": "Practical activities",
    "type": "Contribution",
    "weight": 5,

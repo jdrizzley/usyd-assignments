@@ -1,0 +1,16 @@
+{
+ "code": "VETS6321",
+ "name": "Abattoir Placement",
+ "availability": "2026-S2CIJL-OL-CC",
+ "session": "S2CIJL",
+ "sessionLabel": "Intensive June - July, 2026",
+ "mode": "Online",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-07-03",
+ "sourceUrl": "https://www.sydney.edu.au/units/VETS6321/2026-S2CIJL-OL-CC",
+ "scrapedAt": "2026-10-01T01:05:46Z",
+ "assessments": [],
+ "parseWarnings": [
+  "assessment table found but no rows parsed"
+ ]
+}

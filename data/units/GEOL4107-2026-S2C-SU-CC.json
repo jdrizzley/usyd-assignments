@@ -1,0 +1,33 @@
+{
+ "code": "GEOL4107",
+ "name": "Geology Honours Project E",
+ "availability": "2026-S2C-SU-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/GEOL4107/2026-S2C-SU-CC",
+ "scrapedAt": "2026-09-30T23:02:05Z",
+ "assessments": [
+  {
+   "id": "GEOL4107-2026-S2C-SU-CC-0",
+   "name": "Module assignment",
+   "description": "Complete combination of the listed modules, of total weight 100%.",
+   "type": "Research analysis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": 12,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Total of 50 hours",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 12"
+  }
+ ],
+ "parseWarnings": []
+}

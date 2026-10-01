@@ -1,0 +1,33 @@
+{
+ "code": "WILD4105",
+ "name": "Taronga Conservation Honours Project C",
+ "availability": "2026-S1C-SU-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Supervision",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-03-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/WILD4105/2026-S1C-SU-CC",
+ "scrapedAt": "2026-10-01T01:11:03Z",
+ "assessments": [
+  {
+   "id": "WILD4105-2026-S1C-SU-CC-0",
+   "name": "Honours Project",
+   "description": "Submission of an Honours project",
+   "type": "Dissertation or thesis",
+   "weight": 100,
+   "weightRaw": "100%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "Project dependent",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}

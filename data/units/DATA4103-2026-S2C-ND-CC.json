@@ -1,0 +1,33 @@
+{
+ "code": "DATA4103",
+ "name": "Data Science Honours Project A",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/DATA4103/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-30T22:10:05Z",
+ "assessments": [
+  {
+   "id": "DATA4103-2026-S2C-ND-CC-0",
+   "name": "Honours Thesis",
+   "description": "Honours thesis to be undertaken with the supervision of a University staff member and for two semesters.",
+   "type": "Attendance - accreditation or faculty requirement",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1 year",
+   "aiPolicy": "Not applicable",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
+}

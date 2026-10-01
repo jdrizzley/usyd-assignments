@@ -1,0 +1,51 @@
+{
+ "code": "HPSC4202",
+ "name": "HPS Honours Research Project B",
+ "availability": "2026-S2C-ND-CC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-08-31",
+ "sourceUrl": "https://www.sydney.edu.au/units/HPSC4202/2026-S2C-ND-CC",
+ "scrapedAt": "2026-09-30T23:10:13Z",
+ "assessments": [
+  {
+   "id": "HPSC4202-2026-S2C-ND-CC-0",
+   "name": "Honours viva",
+   "description": "A 30 minute discussion of your honours thesis. You will be asked questions about your submitted thesis by markers of the thesis and your honours coordinator. The oral examination must take place in person on campus.",
+   "type": "Oral exam",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-07-28",
+   "dueTime": "13:34",
+   "timeAssumed": false,
+   "closingDate": "2026-11-27",
+   "length": "30 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 28 Jul 2026 at 13:34 Closing date : 27 Nov 2026"
+  },
+  {
+   "id": "HPSC4202-2026-S2C-ND-CC-1",
+   "name": "Honours thesis",
+   "description": "Honours thesis",
+   "type": "Dissertation or thesis",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": null,
+   "dateKind": "unparsed",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "15000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Ongoing"
+  }
+ ],
+ "parseWarnings": []
+}
