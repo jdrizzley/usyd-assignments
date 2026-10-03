@@ -1,17 +1,51 @@
 {
  "code": "NANO4103",
- "name": "We can’t load your page at the moment",
+ "name": "Nanoscience and Nanotechnology Honours A",
  "availability": "2026-S1C-SU-CC",
  "session": "S1C",
  "sessionLabel": "Semester 1, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/NANO4103/2026-S1C-SU-CC",
- "scrapedAt": "2026-10-01T00:06:25Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-10-02T23:58:36Z",
+ "assessments": [
+  {
+   "id": "NANO4103-2026-S1C-SU-CC-0",
+   "name": "Honours project presentation",
+   "description": "Seminar describing the research carried out\nduring the year",
+   "type": "Q&A following presentation, submission or placement",
+   "weight": 20,
+   "weightRaw": "20%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-09",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": "2026-06-10",
+   "length": "20-minute individual presentation",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 09 Jun 2026 at 09:00 Closing date : 10 Jun 2026"
+  },
+  {
+   "id": "NANO4103-2026-S1C-SU-CC-1",
+   "name": "Honours thesis",
+   "description": "It is a report of the research work that a student has carried out",
+   "type": "Dissertation or thesis",
+   "weight": 80,
+   "weightRaw": "80%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-06-15",
+   "dueTime": "09:00",
+   "timeAssumed": false,
+   "closingDate": "2026-06-21",
+   "length": "not more than 60 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 15 Jun 2026 at 09:00 Closing date : 21 Jun 2026"
+  }
+ ],
+ "parseWarnings": []
 }

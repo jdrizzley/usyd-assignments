@@ -8,7 +8,7 @@
  "location": "Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/JAZZ1602/2026-S2C-ND-SC",
- "scrapedAt": "2026-09-30T23:25:29Z",
+ "scrapedAt": "2026-10-02T23:20:07Z",
  "assessments": [
   {
    "id": "JAZZ1602-2026-S2C-ND-SC-0",
@@ -40,11 +40,11 @@
    "dueDate": "2026-11-21",
    "dueTime": "23:59",
    "timeAssumed": false,
-   "closingDate": "2026-07-28",
+   "closingDate": null,
    "length": "500 words",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
-   "dueRaw": "Formal exam period Due date : 21 Nov 2026 at 23:59 Closing date : 28 Jul 2026"
+   "dueRaw": "Formal exam period Due date : 21 Nov 2026 at 23:59"
   },
   {
    "id": "JAZZ1602-2026-S2C-ND-SC-2",
