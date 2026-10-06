@@ -14,7 +14,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 6688,
+    "samples": 6670,
     "observedWeeks": [
       1,
       2,
@@ -459,7 +459,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6818,
+    "samples": 6808,
     "observedWeeks": [
       1,
       2,
@@ -617,7 +617,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "low",
-    "samples": 56,
+    "samples": 57,
     "observedWeeks": [
       1,
       2,
