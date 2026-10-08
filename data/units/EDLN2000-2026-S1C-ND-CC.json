@@ -1,33 +1,17 @@
 {
  "code": "EDLN2000",
- "name": "LANTITE Undergraduate",
+ "name": "We can’t load your page at the moment",
  "availability": "2026-S1C-ND-CC",
  "session": "S1C",
  "sessionLabel": "Semester 1, 2026",
  "mode": "Normal day",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-03-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/EDLN2000/2026-S1C-ND-CC",
- "scrapedAt": "2026-10-06T22:42:35Z",
- "assessments": [
-  {
-   "id": "EDLN2000-2026-S1C-ND-CC-0",
-   "name": "Lantite Exam",
-   "description": "n/a",
-   "type": "In-person practical, skills, or performance task or test",
-   "weight": 0,
-   "weightRaw": "0%",
-   "week": null,
-   "dateKind": "unparsed",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "n/a",
-   "aiPolicy": "AI prohibited",
-   "earlyFeedback": false,
-   "dueRaw": "Ongoing"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-10-07T23:02:30Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

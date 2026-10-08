@@ -8,7 +8,7 @@
  "location": "Castlereagh St, Sydney",
  "censusDate": "2026-11-06",
  "sourceUrl": "https://www.sydney.edu.au/units/SMBA6007/2026-S2CINO-BM-CR",
- "scrapedAt": "2026-10-07T01:06:23Z",
+ "scrapedAt": "2026-10-08T01:23:05Z",
  "assessments": [
   {
    "id": "SMBA6007-2026-S2CINO-BM-CR-0",
@@ -67,7 +67,7 @@
   {
    "id": "SMBA6007-2026-S2CINO-BM-CR-3",
    "name": "Reflective essay",
-   "description": "Individual reflections on a topic covered in MPO that you have experienced directly in your professional career.",
+   "description": "Individual reflection on a topic covered in MPO that you have experienced directly in your professional career.",
    "type": "Written work",
    "weight": 40,
    "weightRaw": "40%",
