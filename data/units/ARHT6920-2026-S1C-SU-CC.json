@@ -1,17 +1,33 @@
 {
  "code": "ARHT6920",
- "name": "We can’t load your page at the moment",
+ "name": "Dissertation Part 1",
  "availability": "2026-S1C-SU-CC",
  "session": "S1C",
- "sessionLabel": "Semester 1 2026 Departmental Permission",
+ "sessionLabel": "Semester 1, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/ARHT6920/2026-S1C-SU-CC",
- "scrapedAt": "2026-10-07T21:59:52Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-10-08T22:02:54Z",
+ "assessments": [
+  {
+   "id": "ARHT6920-2026-S1C-SU-CC-0",
+   "name": "Dissertation Proposal",
+   "description": "Detailed progression towards 12,000 word dissertation",
+   "type": "Experimental design",
+   "weight": 0,
+   "weightRaw": "0%",
+   "week": 3,
+   "dateKind": "absolute",
+   "dueDate": "2026-03-13",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "1,000 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 03 Due date : 13 Mar 2026 at 23:59"
+  }
+ ],
+ "parseWarnings": []
 }
