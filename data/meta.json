@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:47:14Z",
+  "generatedAt": "2026-10-10T01:24:36Z",
   "targetYear": 2026,
   "targetSessions": [
     "S1C",
@@ -46,8 +46,8 @@
   ],
   "unitsDiscovered": 7606,
   "unitsWithCurrentOutline": 6497,
-  "assessmentsTotal": 31078,
-  "assessmentsWithAbsoluteDate": 17400,
+  "assessmentsTotal": 31070,
+  "assessmentsWithAbsoluteDate": 17383,
   "scraperVersion": "1.0.0",
   "errors": 7,
   "partialRun": false,
@@ -69,5 +69,5 @@
     "cacheHits": 0,
     "robotsSkipped": 0
   },
-  "durationSeconds": 14228
+  "durationSeconds": 14141
 }

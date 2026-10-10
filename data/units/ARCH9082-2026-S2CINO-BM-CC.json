@@ -1,0 +1,51 @@
+{
+ "code": "ARCH9082",
+ "name": "Conservation of Traditional Buildings",
+ "availability": "2026-S2CINO-BM-CC",
+ "session": "S2CINO",
+ "sessionLabel": "Intensive October - November, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": "2026-11-06",
+ "sourceUrl": "https://www.sydney.edu.au/units/ARCH9082/2026-S2CINO-BM-CC",
+ "scrapedAt": "2026-10-09T21:39:07Z",
+ "assessments": [
+  {
+   "id": "ARCH9082-2026-S2CINO-BM-CC-0",
+   "name": "Recording and condition assessment",
+   "description": "Drawings and annotated condition report",
+   "type": "Case studies",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-30",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 - 30 pages",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 30 Nov 2026 at 23:00"
+  },
+  {
+   "id": "ARCH9082-2026-S2CINO-BM-CC-1",
+   "name": "Conservation analysis",
+   "description": "Analytical report",
+   "type": "Research analysis",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 7,
+   "dateKind": "absolute",
+   "dueDate": "2026-12-09",
+   "dueTime": "23:00",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2500 Words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 07 Due date : 09 Dec 2026 at 23:00"
+  }
+ ],
+ "parseWarnings": []
+}
