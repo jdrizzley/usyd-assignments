@@ -1,69 +1,17 @@
 {
  "code": "ARCH9114",
- "name": "Rothwell Research Studio",
+ "name": "Page not found",
  "availability": "2026-S1CIFE-ND-CC",
  "session": "S1CIFE",
- "sessionLabel": "Intensive January - February, 2026",
+ "sessionLabel": "Intensive January - February 2026 Departmental Permission",
  "mode": "Normal day",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-01-30",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/ARCH9114/2026-S1CIFE-ND-CC",
- "scrapedAt": "2026-10-11T20:59:11Z",
- "assessments": [
-  {
-   "id": "ARCH9114-2026-S1CIFE-ND-CC-0",
-   "name": "Presentation - Participation in pre-planning, research and workshop",
-   "description": "presentation of research and preparatory work for field trip.",
-   "type": "Presentation",
-   "weight": 10,
-   "weightRaw": "10%",
-   "week": 1,
-   "dateKind": "absolute",
-   "dueDate": "2026-01-22",
-   "dueTime": "10:00",
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "approx. 15 min illustrated presentation",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 01 Due date : 22 Jan 2026 at 10:00"
-  },
-  {
-   "id": "ARCH9114-2026-S1CIFE-ND-CC-1",
-   "name": "Presentation - Drawing development and documentation",
-   "description": "documentation and reflection on field work",
-   "type": "Presentation",
-   "weight": 30,
-   "weightRaw": "30%",
-   "week": 4,
-   "dateKind": "absolute",
-   "dueDate": "2026-02-04",
-   "dueTime": "10:00",
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "approx. 15 min illustrated presentation",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 04 Due date : 04 Feb 2026 at 10:00"
-  },
-  {
-   "id": "ARCH9114-2026-S1CIFE-ND-CC-2",
-   "name": "Drawing assignment - Final output",
-   "description": "summative document/expression of research, fieldwork, reflective outcomes.",
-   "type": "Creative work",
-   "weight": 60,
-   "weightRaw": "60%",
-   "week": 6,
-   "dateKind": "absolute",
-   "dueDate": "2026-02-18",
-   "dueTime": "23:59",
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "designed artefact",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 06 Due date : 18 Feb 2026 at 23:59"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-10-12T23:40:43Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

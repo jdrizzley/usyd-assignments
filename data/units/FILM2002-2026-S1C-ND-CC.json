@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/FILM2002/2026-S1C-ND-CC",
- "scrapedAt": "2026-10-11T22:30:57Z",
+ "scrapedAt": "2026-10-13T01:12:30Z",
  "assessments": [
   {
    "id": "FILM2002-2026-S1C-ND-CC-0",
@@ -30,7 +30,7 @@
   },
   {
    "id": "FILM2002-2026-S1C-ND-CC-1",
-   "name": "&quot;Lead the Class&quot; Written Reflection",
+   "name": "\"Lead the Class\" Written Reflection",
    "description": "-",
    "type": "Portfolio or journal",
    "weight": 5,

@@ -1,33 +1,17 @@
 {
  "code": "AVBS4017",
- "name": "Research Project C",
+ "name": "Page not found",
  "availability": "2026-S2C-SU-CC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-08-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/AVBS4017/2026-S2C-SU-CC",
- "scrapedAt": "2026-10-11T21:05:04Z",
- "assessments": [
-  {
-   "id": "AVBS4017-2026-S2C-SU-CC-0",
-   "name": "Honours Project",
-   "description": "Progress towards submission of an Honours project, and an oral exam during week 2 of the exam period of the final honours semester. The Oral Exam is a hurdle requirement and has a weighting of 20% of the overall research project mark.",
-   "type": "Dissertation or thesis",
-   "weight": 100,
-   "weightRaw": "100%",
-   "week": null,
-   "dateKind": "unparsed",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "-",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Ongoing"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-10-12T23:45:45Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }

@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/MUSC2653/2026-S1C-ND-CC",
- "scrapedAt": "2026-10-11T23:36:01Z",
+ "scrapedAt": "2026-10-13T02:18:00Z",
  "assessments": [
   {
    "id": "MUSC2653-2026-S1C-ND-CC-0",
@@ -48,7 +48,7 @@
   },
   {
    "id": "MUSC2653-2026-S1C-ND-CC-2",
-   "name": "Creative Task 2 - &quot;Music for Forgotten Benches&quot; collaborative Dark Ambient",
+   "name": "Creative Task 2 - \"Music for Forgotten Benches\" collaborative Dark Ambient",
    "description": "Group work. Compose a dark ambient soundscape for an ARG (60%). Video Process Diary (40%)",
    "type": "Creative work",
    "weight": 30,

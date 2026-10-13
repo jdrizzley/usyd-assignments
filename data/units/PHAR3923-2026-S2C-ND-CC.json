@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/PHAR3923/2026-S2C-ND-CC",
- "scrapedAt": "2026-10-11T23:56:32Z",
+ "scrapedAt": "2026-10-13T02:38:28Z",
  "assessments": [
   {
    "id": "PHAR3923-2026-S2C-ND-CC-0",
@@ -71,16 +71,16 @@
    "type": "In-person written or creative task",
    "weight": 30,
    "weightRaw": "30%",
-   "week": 11,
+   "week": 12,
    "dateKind": "absolute",
-   "dueDate": "2026-10-22",
+   "dueDate": "2026-10-27",
    "dueTime": "13:00",
    "timeAssumed": false,
    "closingDate": null,
    "length": "2 hours",
    "aiPolicy": "AI prohibited",
    "earlyFeedback": false,
-   "dueRaw": "Week 11 Due date : 22 Oct 2026 at 13:00"
+   "dueRaw": "Week 12 Due date : 27 Oct 2026 at 13:00"
   }
  ],
  "parseWarnings": []
