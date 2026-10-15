@@ -14,7 +14,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 6666,
+    "samples": 6681,
     "observedWeeks": [
       1,
       2,
@@ -417,27 +417,31 @@
     "3": "2026-05-04",
     "4": "2026-05-11",
     "5": "2026-05-18",
-    "6": "2026-05-25",
+    "6": "2026-04-13",
     "7": "2026-04-13",
-    "8": "2026-04-20",
+    "8": "2026-04-27",
     "9": "2026-04-27",
     "10": "2026-05-04",
-    "11": "2026-10-19",
-    "12": "2026-10-26",
+    "11": "2026-05-18",
+    "12": "2026-05-25",
     "13": "2026-05-25",
     "confidence": "low",
-    "samples": 6,
+    "samples": 11,
     "observedWeeks": [
       5,
+      6,
       7,
+      8,
       9,
       10,
       11,
+      12,
       13
     ],
     "errors": [
-      "only 6 samples (< 30)",
-      "consecutive weeks not 7 or 14 days apart: [-154, -42, 168]"
+      "only 11 samples (< 30)",
+      "consecutive weeks not 7 or 14 days apart: [-35, 0]",
+      "2 fourteen-day gaps (expected at most one, the mid-semester break)"
     ]
   },
   "2026-S2C": {
@@ -455,7 +459,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6793,
+    "samples": 6801,
     "observedWeeks": [
       1,
       2,
@@ -578,7 +582,7 @@
     "12": "2026-09-07",
     "13": "2026-08-24",
     "confidence": "low",
-    "samples": 343,
+    "samples": 340,
     "observedWeeks": [
       1,
       2,
@@ -738,7 +742,7 @@
     "12": "2026-10-19",
     "13": "2026-10-26",
     "confidence": "inferred",
-    "samples": 59,
+    "samples": 63,
     "observedWeeks": [
       1,
       2,

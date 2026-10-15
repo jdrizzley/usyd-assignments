@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/DAAE2002/2026-S2C-ND-CC",
- "scrapedAt": "2026-10-13T22:42:57Z",
+ "scrapedAt": "2026-10-14T21:24:41Z",
  "assessments": [
   {
    "id": "DAAE2002-2026-S2C-ND-CC-0",
@@ -71,16 +71,16 @@
    "type": "Presentation",
    "weight": 40,
    "weightRaw": "40%",
-   "week": 11,
+   "week": 12,
    "dateKind": "absolute",
-   "dueDate": "2026-10-22",
+   "dueDate": "2026-10-29",
    "dueTime": "09:00",
    "timeAssumed": false,
    "closingDate": null,
    "length": "Written text and drawings/images.",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
-   "dueRaw": "Week 11 Due date : 22 Oct 2026 at 09:00"
+   "dueRaw": "Week 12 Due date : 29 Oct 2026 at 09:00"
   }
  ],
  "parseWarnings": []
