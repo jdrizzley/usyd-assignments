@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/ECOS3016/2026-S2C-ND-CC",
- "scrapedAt": "2026-10-19T22:32:28Z",
+ "scrapedAt": "2026-10-20T21:29:29Z",
  "assessments": [
   {
    "id": "ECOS3016-2026-S2C-ND-CC-0",
@@ -89,16 +89,16 @@
    "type": "In-class quiz",
    "weight": 10,
    "weightRaw": "10%",
-   "week": 11,
+   "week": 12,
    "dateKind": "absolute",
-   "dueDate": "2026-10-22",
+   "dueDate": "2026-10-29",
    "dueTime": "18:00",
    "timeAssumed": false,
-   "closingDate": "2026-10-22",
+   "closingDate": "2026-10-29",
    "length": "500 words",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
-   "dueRaw": "Week 11 Due date : 22 Oct 2026 at 18:00 Closing date : 22 Oct 2026"
+   "dueRaw": "Week 12 Due date : 29 Oct 2026 at 18:00 Closing date : 29 Oct 2026"
   }
  ],
  "parseWarnings": []
