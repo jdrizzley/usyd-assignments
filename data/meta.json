@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:23:12Z",
+  "generatedAt": "2026-10-23T00:23:47Z",
   "targetYear": 2026,
   "targetSessions": [
     "S1C",
@@ -44,30 +44,30 @@
     "S2CVP5",
     "S2CVP6"
   ],
-  "unitsDiscovered": 7604,
-  "unitsWithCurrentOutline": 6495,
-  "assessmentsTotal": 31002,
-  "assessmentsWithAbsoluteDate": 17335,
+  "unitsDiscovered": 7607,
+  "unitsWithCurrentOutline": 6491,
+  "assessmentsTotal": 31058,
+  "assessmentsWithAbsoluteDate": 17393,
   "scraperVersion": "1.0.0",
-  "errors": 9,
+  "errors": 6,
   "partialRun": false,
-  "unitsScrapedThisRun": 6495,
+  "unitsScrapedThisRun": 6491,
   "unitsKeptFromPreviousRun": 0,
   "stats": {
-    "unitsDiscovered": 7604,
+    "unitsDiscovered": 7607,
     "landingPages404": 0,
     "landingPagesFailed": 0,
-    "availabilitiesFound": 6495,
-    "outlineFetchAttempts": 6495,
+    "availabilitiesFound": 6491,
+    "outlineFetchAttempts": 6491,
     "outlineFetchFailures": 0,
     "outlinesNotPublished": 0,
-    "unitsWithCurrentOutline": 6495,
-    "unitsWithZeroAssessments": 9
+    "unitsWithCurrentOutline": 6491,
+    "unitsWithZeroAssessments": 6
   },
   "fetch": {
-    "requests": 14116,
+    "requests": 14120,
     "cacheHits": 0,
     "robotsSkipped": 0
   },
-  "durationSeconds": 14156
+  "durationSeconds": 14292
 }
