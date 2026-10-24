@@ -14,7 +14,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 6674,
+    "samples": 6672,
     "observedWeeks": [
       1,
       2,
@@ -104,7 +104,7 @@
     "12": "2026-03-30",
     "13": "2026-04-06",
     "confidence": "low",
-    "samples": 195,
+    "samples": 193,
     "observedWeeks": [
       1,
       2,
@@ -202,7 +202,7 @@
     "12": "2026-04-20",
     "13": "2026-04-27",
     "confidence": "low",
-    "samples": 55,
+    "samples": 57,
     "observedWeeks": [
       1,
       2,
@@ -258,21 +258,20 @@
     "1": "2026-02-09",
     "2": "2026-02-16",
     "3": "2026-02-23",
-    "4": "2026-02-16",
+    "4": "2026-03-02",
     "5": "2026-03-02",
     "6": "2026-03-09",
     "7": "2026-03-16",
     "8": "2026-04-13",
-    "9": "2026-02-16",
+    "9": "2026-04-13",
     "10": "2026-04-27",
     "11": "2026-05-04",
     "12": "2026-05-11",
     "13": "2026-05-18",
     "confidence": "low",
-    "samples": 22,
+    "samples": 18,
     "observedWeeks": [
       3,
-      4,
       5,
       6,
       7,
@@ -281,8 +280,8 @@
       10
     ],
     "errors": [
-      "only 22 samples (< 30)",
-      "consecutive weeks not 7 or 14 days apart: [-56, -7, 28, 70]"
+      "only 18 samples (< 30)",
+      "consecutive weeks not 7 or 14 days apart: [0, 28]"
     ]
   },
   "2026-S1COPA": {
@@ -300,7 +299,7 @@
     "12": "2026-05-11",
     "13": "2026-05-18",
     "confidence": "inferred",
-    "samples": 56,
+    "samples": 60,
     "observedWeeks": [
       1,
       2,
@@ -327,7 +326,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "low",
-    "samples": 73,
+    "samples": 76,
     "observedWeeks": [
       1,
       2,
@@ -359,7 +358,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 98,
+    "samples": 102,
     "observedWeeks": [
       1,
       2,
@@ -459,7 +458,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6806,
+    "samples": 6788,
     "observedWeeks": [
       1,
       2,
@@ -519,7 +518,7 @@
     "12": "2026-09-07",
     "13": "2026-09-14",
     "confidence": "low",
-    "samples": 120,
+    "samples": 123,
     "observedWeeks": [
       1,
       2,
@@ -585,7 +584,7 @@
     "12": "2026-09-07",
     "13": "2026-08-24",
     "confidence": "low",
-    "samples": 343,
+    "samples": 340,
     "observedWeeks": [
       1,
       2,
@@ -655,7 +654,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "low",
-    "samples": 33,
+    "samples": 31,
     "observedWeeks": [
       1,
       2,
@@ -745,7 +744,7 @@
     "12": "2026-10-19",
     "13": "2026-10-26",
     "confidence": "inferred",
-    "samples": 59,
+    "samples": 63,
     "observedWeeks": [
       1,
       2,
@@ -772,7 +771,7 @@
     "12": "2026-11-09",
     "13": "2026-11-02",
     "confidence": "low",
-    "samples": 73,
+    "samples": 76,
     "observedWeeks": [
       1,
       2,
