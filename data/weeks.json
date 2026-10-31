@@ -14,7 +14,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 6653,
+    "samples": 6644,
     "observedWeeks": [
       1,
       2,
@@ -168,7 +168,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "low",
-    "samples": 50,
+    "samples": 37,
     "observedWeeks": [
       1,
       2,
@@ -202,7 +202,7 @@
     "12": "2026-04-20",
     "13": "2026-04-27",
     "confidence": "low",
-    "samples": 55,
+    "samples": 57,
     "observedWeeks": [
       1,
       2,
@@ -459,7 +459,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6800,
+    "samples": 6781,
     "observedWeeks": [
       1,
       2,
@@ -585,7 +585,7 @@
     "12": "2026-09-07",
     "13": "2026-08-24",
     "confidence": "low",
-    "samples": 343,
+    "samples": 338,
     "observedWeeks": [
       1,
       2,
@@ -655,7 +655,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "low",
-    "samples": 31,
+    "samples": 33,
     "observedWeeks": [
       1,
       2,
