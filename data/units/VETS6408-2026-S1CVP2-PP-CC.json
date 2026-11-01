@@ -1,0 +1,17 @@
+{
+ "code": "VETS6408",
+ "name": "We can’t load your page at the moment",
+ "availability": "2026-S1CVP2-PP-CC",
+ "session": "S1CVP2",
+ "sessionLabel": "Semester 1 DVM Placement Rotation 2, 2026",
+ "mode": "Professional practice",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/VETS6408/2026-S1CVP2-PP-CC",
+ "scrapedAt": "2026-11-01T00:16:16Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}
