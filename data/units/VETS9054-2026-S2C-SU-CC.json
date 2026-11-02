@@ -1,17 +1,51 @@
 {
  "code": "VETS9054",
- "name": "We can’t load your page at the moment",
+ "name": "Diagnostic Instrumentation Advanced",
  "availability": "2026-S2C-SU-CC",
  "session": "S2C",
- "sessionLabel": "Semester 2 2026 Departmental Permission",
+ "sessionLabel": "Semester 2, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/VETS9054/2026-S2C-SU-CC",
- "scrapedAt": "2026-11-01T00:19:17Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-11-02T00:58:21Z",
+ "assessments": [
+  {
+   "id": "VETS9054-2026-S2C-SU-CC-0",
+   "name": "Preparation of a reference interval",
+   "description": "Preparation of a reference interval.",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 hours",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  },
+  {
+   "id": "VETS9054-2026-S2C-SU-CC-1",
+   "name": "Laboratory quality control and assurance",
+   "description": "Laboratory quality and assurance control.",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": 13,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "10 hours",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Week 13"
+  }
+ ],
+ "parseWarnings": []
 }
