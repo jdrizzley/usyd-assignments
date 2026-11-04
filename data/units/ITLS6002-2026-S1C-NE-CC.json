@@ -1,0 +1,17 @@
+{
+ "code": "ITLS6002",
+ "name": "We can’t load your page at the moment",
+ "availability": "2026-S1C-NE-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal evening",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/ITLS6002/2026-S1C-NE-CC",
+ "scrapedAt": "2026-11-04T00:30:08Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}
