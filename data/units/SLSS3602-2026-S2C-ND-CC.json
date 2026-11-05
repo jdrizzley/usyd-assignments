@@ -8,10 +8,28 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/SLSS3602/2026-S2C-ND-CC",
- "scrapedAt": "2026-11-04T02:05:16Z",
+ "scrapedAt": "2026-11-05T01:50:29Z",
  "assessments": [
   {
    "id": "SLSS3602-2026-S2C-ND-CC-0",
+   "name": "Policy and advocacy report",
+   "description": "Policy and advocacy report",
+   "type": "Written work",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "absolute",
+   "dueDate": "2026-11-16",
+   "dueTime": "23:59",
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "2500 words",
+   "aiPolicy": "AI allowed",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period Due date : 16 Nov 2026 at 23:59"
+  },
+  {
+   "id": "SLSS3602-2026-S2C-ND-CC-1",
    "name": "Quizzes",
    "description": "Based on weekly lecture and tutorial material",
    "type": "Out-of-class quiz",
@@ -29,7 +47,7 @@
    "dueRaw": "Multiple weeks"
   },
   {
-   "id": "SLSS3602-2026-S2C-ND-CC-1",
+   "id": "SLSS3602-2026-S2C-ND-CC-2",
    "name": "Minor assessment",
    "description": "Short essay",
    "type": "Written work",
@@ -45,24 +63,6 @@
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
    "dueRaw": "Week 08 Due date : 21 Sep 2026 at 23:59"
-  },
-  {
-   "id": "SLSS3602-2026-S2C-ND-CC-2",
-   "name": "Policy and advocacy report",
-   "description": "Policy and advocacy report",
-   "type": "Written work",
-   "weight": 50,
-   "weightRaw": "50%",
-   "week": 13,
-   "dateKind": "absolute",
-   "dueDate": "2026-11-06",
-   "dueTime": "23:59",
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "2500 words",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 13 Due date : 06 Nov 2026 at 23:59"
   },
   {
    "id": "SLSS3602-2026-S2C-ND-CC-3",
