@@ -1,0 +1,17 @@
+{
+ "code": "KRNS1621",
+ "name": "We can’t load your page at the moment",
+ "availability": "2026-S2CIDE-BM-CC",
+ "session": "S2CIDE",
+ "sessionLabel": "Intensive November - December, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/KRNS1621/2026-S2CIDE-BM-CC",
+ "scrapedAt": "2026-11-10T02:05:24Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}

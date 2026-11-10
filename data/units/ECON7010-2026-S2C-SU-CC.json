@@ -1,33 +1,17 @@
 {
  "code": "ECON7010",
- "name": "Economics Research Dissertation A",
+ "name": "Page not found",
  "availability": "2026-S2C-SU-CC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
  "mode": "Supervision",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": "2026-08-31",
+ "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/ECON7010/2026-S2C-SU-CC",
- "scrapedAt": "2026-11-08T22:07:56Z",
- "assessments": [
-  {
-   "id": "ECON7010-2026-S2C-SU-CC-0",
-   "name": "Dissertation proposal",
-   "description": "Dissertation proposal",
-   "type": "Dissertation or thesis",
-   "weight": 100,
-   "weightRaw": "100%",
-   "week": 13,
-   "dateKind": "week_only",
-   "dueDate": null,
-   "dueTime": null,
-   "timeAssumed": false,
-   "closingDate": null,
-   "length": "3,000 words",
-   "aiPolicy": "AI allowed",
-   "earlyFeedback": false,
-   "dueRaw": "Week 13"
-  }
- ],
- "parseWarnings": []
+ "scrapedAt": "2026-11-10T01:14:06Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
 }
