@@ -1,6 +1,6 @@
 {
  "code": "NURS5043",
- "name": "We can’t load your page at the moment",
+ "name": "Page not found",
  "availability": "2026-S2C-ND-WC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
@@ -8,7 +8,7 @@
  "location": "Westmead, Sydney",
  "censusDate": null,
  "sourceUrl": "https://www.sydney.edu.au/units/NURS5043/2026-S2C-ND-WC",
- "scrapedAt": "2026-11-10T02:27:59Z",
+ "scrapedAt": "2026-11-11T00:19:38Z",
  "assessments": [],
  "parseWarnings": [
   "session heading not found",

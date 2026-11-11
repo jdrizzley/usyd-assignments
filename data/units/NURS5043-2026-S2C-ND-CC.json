@@ -1,17 +1,69 @@
 {
  "code": "NURS5043",
- "name": "We can’t load your page at the moment",
+ "name": "Understand Health and Managing Disease",
  "availability": "2026-S2C-ND-CC",
  "session": "S2C",
  "sessionLabel": "Semester 2, 2026",
  "mode": "Normal day",
  "location": "Camperdown/Darlington, Sydney",
- "censusDate": null,
+ "censusDate": "2026-08-31",
  "sourceUrl": "https://www.sydney.edu.au/units/NURS5043/2026-S2C-ND-CC",
- "scrapedAt": "2026-11-10T02:27:50Z",
- "assessments": [],
- "parseWarnings": [
-  "session heading not found",
-  "assessment table not found"
- ]
+ "scrapedAt": "2026-11-11T00:19:34Z",
+ "assessments": [
+  {
+   "id": "NURS5043-2026-S2C-ND-CC-0",
+   "name": "Assessment 3: Final Exam",
+   "description": "Case based and short answer",
+   "type": "Written exam",
+   "weight": 50,
+   "weightRaw": "50%",
+   "week": null,
+   "dateKind": "exam_period",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "80 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Formal exam period"
+  },
+  {
+   "id": "NURS5043-2026-S2C-ND-CC-1",
+   "name": "Assessment 1: Quiz 1",
+   "description": "MCQ, short answer and case-based questions",
+   "type": "In-person written or creative task",
+   "weight": 25,
+   "weightRaw": "25%",
+   "week": 4,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 04"
+  },
+  {
+   "id": "NURS5043-2026-S2C-ND-CC-2",
+   "name": "Assessment 2: Quiz 2",
+   "description": "MCQ, short answer and case-based questions",
+   "type": "In-person written or creative task",
+   "weight": 25,
+   "weightRaw": "25%",
+   "week": 8,
+   "dateKind": "week_only",
+   "dueDate": null,
+   "dueTime": null,
+   "timeAssumed": false,
+   "closingDate": null,
+   "length": "20 minutes",
+   "aiPolicy": "AI prohibited",
+   "earlyFeedback": false,
+   "dueRaw": "Week 08"
+  }
+ ],
+ "parseWarnings": []
 }

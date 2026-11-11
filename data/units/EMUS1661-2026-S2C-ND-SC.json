@@ -1,0 +1,17 @@
+{
+ "code": "EMUS1661",
+ "name": "We can’t load your page at the moment",
+ "availability": "2026-S2C-ND-SC",
+ "session": "S2C",
+ "sessionLabel": "Semester 2, 2026",
+ "mode": "Normal day",
+ "location": "Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/EMUS1661/2026-S2C-ND-SC",
+ "scrapedAt": "2026-11-10T22:55:45Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}

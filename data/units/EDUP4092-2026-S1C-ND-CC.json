@@ -1,0 +1,17 @@
+{
+ "code": "EDUP4092",
+ "name": "We can’t load your page at the moment",
+ "availability": "2026-S1C-ND-CC",
+ "session": "S1C",
+ "sessionLabel": "Semester 1, 2026",
+ "mode": "Normal day",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/EDUP4092/2026-S1C-ND-CC",
+ "scrapedAt": "2026-11-10T22:51:42Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}
