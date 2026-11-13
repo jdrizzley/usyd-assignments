@@ -1,0 +1,17 @@
+{
+ "code": "AVBS2012",
+ "name": "Page not found",
+ "availability": "2026-S2CIOC-BM-CC",
+ "session": "S2CIOC",
+ "sessionLabel": "Intensive September - October, 2026",
+ "mode": "Block mode",
+ "location": "Camperdown/Darlington, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/AVBS2012/2026-S2CIOC-BM-CC",
+ "scrapedAt": "2026-11-12T22:50:56Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}
