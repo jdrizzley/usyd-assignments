@@ -8,7 +8,7 @@
  "location": "Camperdown/Darlington, Sydney",
  "censusDate": "2026-03-31",
  "sourceUrl": "https://www.sydney.edu.au/units/COMP9202/2026-S1C-ND-CC",
- "scrapedAt": "2026-11-19T00:09:15Z",
+ "scrapedAt": "2026-11-20T00:17:16Z",
  "assessments": [
   {
    "id": "COMP9202-2026-S1C-ND-CC-0",
@@ -40,11 +40,11 @@
    "dueDate": "2026-03-31",
    "dueTime": "23:59",
    "timeAssumed": false,
-   "closingDate": "2026-08-21",
+   "closingDate": "2026-04-07",
    "length": "2 weeks",
    "aiPolicy": "AI allowed",
    "earlyFeedback": false,
-   "dueRaw": "Week 06 Due date : 31 Mar 2026 at 23:59 Closing date : 21 Aug 2026"
+   "dueRaw": "Week 06 Due date : 31 Mar 2026 at 23:59 Closing date : 07 Apr 2026"
   },
   {
    "id": "COMP9202-2026-S1C-ND-CC-2",
