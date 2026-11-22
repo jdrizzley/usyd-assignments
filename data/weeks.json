@@ -14,7 +14,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "inferred",
-    "samples": 6661,
+    "samples": 6664,
     "observedWeeks": [
       1,
       2,
@@ -164,11 +164,11 @@
     "8": "2026-07-13",
     "9": "2026-07-20",
     "10": "2026-07-06",
-    "11": "2026-05-11",
+    "11": "2026-08-03",
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "low",
-    "samples": 50,
+    "samples": 47,
     "observedWeeks": [
       1,
       2,
@@ -184,7 +184,7 @@
       13
     ],
     "errors": [
-      "consecutive weeks not 7 or 14 days apart: [-56, -14]"
+      "consecutive weeks not 7 or 14 days apart: [-77, -14, 28]"
     ]
   },
   "2026-S1CIMR": {
@@ -391,7 +391,7 @@
     "12": "2026-05-18",
     "13": "2026-05-25",
     "confidence": "low",
-    "samples": 90,
+    "samples": 88,
     "observedWeeks": [
       1,
       2,
@@ -459,7 +459,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6781,
+    "samples": 6811,
     "observedWeeks": [
       1,
       2,
@@ -585,7 +585,7 @@
     "12": "2026-09-07",
     "13": "2026-08-24",
     "confidence": "low",
-    "samples": 340,
+    "samples": 343,
     "observedWeeks": [
       1,
       2,
@@ -620,7 +620,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "low",
-    "samples": 83,
+    "samples": 79,
     "observedWeeks": [
       1,
       2,
