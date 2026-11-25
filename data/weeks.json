@@ -70,7 +70,7 @@
     "12": "2026-06-08",
     "13": "2026-06-15",
     "confidence": "low",
-    "samples": 105,
+    "samples": 103,
     "observedWeeks": [
       1,
       2,
@@ -202,7 +202,7 @@
     "12": "2026-04-20",
     "13": "2026-04-27",
     "confidence": "low",
-    "samples": 55,
+    "samples": 57,
     "observedWeeks": [
       1,
       2,
@@ -459,7 +459,7 @@
     "12": "2026-10-26",
     "13": "2026-11-02",
     "confidence": "inferred",
-    "samples": 6804,
+    "samples": 6806,
     "observedWeeks": [
       1,
       2,
