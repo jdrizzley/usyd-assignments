@@ -1,0 +1,17 @@
+{
+ "code": "VETS6405",
+ "name": "We can’t load your page at the moment",
+ "availability": "2026-S2CVP3-PP-CF",
+ "session": "S2CVP3",
+ "sessionLabel": "Semester 2 DVM Placement Rotation 3, 2026",
+ "mode": "Professional practice",
+ "location": "Camden, Sydney",
+ "censusDate": null,
+ "sourceUrl": "https://www.sydney.edu.au/units/VETS6405/2026-S2CVP3-PP-CF",
+ "scrapedAt": "2026-11-28T04:11:48Z",
+ "assessments": [],
+ "parseWarnings": [
+  "session heading not found",
+  "assessment table not found"
+ ]
+}
